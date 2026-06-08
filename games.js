@@ -365,8 +365,8 @@ const gamesDB = [
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1ribDbvhamSFybyYaTHxfGqPPjs-y5ZqhBNSZwU4DA&s",
     banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDoCubZrZlXV7uhdxGySOaoz6q7hBKGyfTnvBzgBgWIA&s=10",
     rating: 4.6, year: 2022, developer: "Naughty Dog", publisher: "Sony Interactive Entertainment",
-    description: "",
-    screenshots: [In a world destroyed by a deadly fungal infection, Joel is hired to escort a teenage girl named Ellie across the United States. Ellie is immune to the infection, making her humanity's best hope for a cure. As they travel through dangerous cities and face infected creatures and hostile survivors, Joel and Ellie develop a deep father-daughter bond. Their journey ends with Joel making a controversial decision that changes both their lives forever. 🎮
+    description: "In a world destroyed by a deadly fungal infection, Joel is hired to escort a teenage girl named Ellie across the United States. Ellie is immune to the infection, making her humanity's best hope for a cure. As they travel through dangerous cities and face infected creatures and hostile survivors, Joel and Ellie develop a deep father-daughter bond. Their journey ends with Joel making a controversial decision that changes both their lives forever.",
+    screenshots: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXKI9gZKUq47uOUVea8IONaJ8_ebsrfxYFO-GxlRrHnZtHrcpxeOXThx4&s=10",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRcAN4TwEd2rpDDBGHpcNR2obcNRExstif_UBD_cow2A&s=10",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fUD5WOKpSpjTf8JqHf8VElE7sHI5jItdqzF1y9UGbg&s=10"
