@@ -647,15 +647,14 @@ const gamesDB = [
   },
   {
     id: 1e3 + 2, title: "Sekiro: Shadows Die Twice", category: "Action", genre: "Action Adventure",
-    image: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=1200&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6HkD8YuM6QXoPzbwzuaqRMkEqvSuaY8qHSnHO4H-hTN4EqAwdvYV15M&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoub0DoBJqn6UMUnKsS8Io6MrX3ZuT-CNH1mmUH4dh-aisC8vLgSeC2_s&s=10",
     rating: 4.8, year: 2019, developer: "FromSoftware", publisher: "Activision",
-    price: "$59.99", salePrice: "",
     description: "Sekiro: Shadows Die Twice is an intense action-adventure set in feudal Japan where you take on the role of a disgraced warrior on a mission to rescue his master.",
     screenshots: [
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj4ee08j_LLHyeDkJ-efSrmQhdnIrb8sJVePUV7-g2qg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB26xfTSEqdqoOo1MWfWXdqFn5Dv73i2V54vB_Avzij81-Tzjuf8m2bt0o&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqYxNem0oUyF6zR86AOP90L7cOaCKdF69sGja6z_kXA&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2500K", ram: "8 GB", gpu: "NVIDIA GTX 970", storage: "25 GB" },
     link: "https://www.sekiro.com",
@@ -663,15 +662,14 @@ const gamesDB = [
   },
   {
     id: 1e3 + 3, title: "Ghost of Tsushima", category: "Action", genre: "Open World Action",
-    image: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=1200&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAqbrVuBzTzuHngvc_W9MxVQn_9VOjI2RTFQ--jNZg3A&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN6pA3QboOc_CJBb8D_y1TMfLV-UbipaxX0EwOZQOrAA&s=10",
     rating: 4.8, year: 2020, developer: "Sucker Punch", publisher: "Sony Interactive",
-    price: "$59.99", salePrice: "$39.99",
     description: "Ghost of Tsushima is an open-world action-adventure set in feudal Japan, following samurai Jin Sakai's journey to protect Tsushima island from the Mongol invasion.",
     screenshots: [
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNjvaAc72O3miMVu9Sk4AMWs7eKX6eE7NIu7V5KPbugQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwp76u_nci5Ut0z5hLZbHrQO_u2J7Ky9VqXYxUoxeiRw&s=10",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Ghost_of_Tsushima_art_direction.jpg/330px-Ghost_of_Tsushima_art_direction.jpg"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4670K", ram: "8 GB", gpu: "NVIDIA GTX 1060", storage: "70 GB" },
     link: "https://www.playstation.com/games/ghost-of-tsushima",
@@ -679,15 +677,15 @@ const gamesDB = [
   },
   {
     id: 1e3 + 4, title: "Control", category: "Action", genre: "Supernatural Action",
-    image: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=1200&q=80",
+    image: "https://image.api.playstation.com/vulcan/ap/rnd/202008/2111/kZuu7RcHultdoVUuGsReuGcq.png",
+    banner: "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Control_game_cover_art.jpg/250px-Control_game_cover_art.jpg",
     rating: 4.5, year: 2019, developer: "Remedy Entertainment", publisher: "505 Games",
     price: "$39.99", salePrice: "$14.99",
     description: "Control is a supernatural third-person action-adventure where the Federal Bureau of Control is invaded by a paranormal threat, and you wield powerful abilities to stop it.",
     screenshots: [
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80"
+      "https://i0.wp.com/gamingrespawn.com/wp-content/uploads/2019/08/092_combat_2-1300x731.jpg?ssl=1",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Control_gameplay_screenshot.jpg/250px-Control_gameplay_screenshot.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxB0zcBp_aRLtzqaUmhnZWMWXIc7XCS9v4ZW_PWLvPdBHa4jltMJeuvL8&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4690", ram: "8 GB", gpu: "NVIDIA GeForce GTX 780", storage: "40 GB" },
     link: "https://www.controlgame.com",
@@ -695,15 +693,15 @@ const gamesDB = [
   },
   {
     id: 1e3 + 5, title: "Fall Guys", category: "Casual", genre: "Party Royale",
-    image: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=1200&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_V7SuQVq6TKV6GpDdIDy1BWKotSKAYLmqBo_PUQX--g&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5S97WAf7IDwnl7QTn116LI2YeOgOb2rYqvOmT9NSJlQ&s",
     rating: 4.1, year: 2020, developer: "Mediatonic", publisher: "Epic Games",
     price: "Free", salePrice: "",
     description: "Fall Guys is a free-to-play massively multiplayer party royale game where colorful contestants compete through rounds of chaotic obstacle courses and games.",
     screenshots: [
-      "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80",
-      "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80",
-      "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_OohUgtz2efh2OJ6OHoadDMu9EZ2oexEdA7p5EWxBLQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFlYo8XXYJSKEsFcJJV8Sqt-dfv5O3Dblk9ti-vYQxiw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFZ_PVck5AunpCALMtOd685mTF5h6UsUjtXk8AaQ3FQ&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2400", ram: "8 GB", gpu: "NVIDIA GTX 660", storage: "8 GB" },
     link: "https://www.fallguys.com",
@@ -711,15 +709,14 @@ const gamesDB = [
   },
   {
     id: 1e3 + 6, title: "Age of Empires IV", category: "Strategy", genre: "RTS",
-    image: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=1200&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsK35Gyo_kQfE4S1vlrin6X8QpUafRmxD13hUBh_msZQ&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCmECh6-pngXuYRghe8QxsAont8k0GdU09bkE9cTP91w&s",
     rating: 4.3, year: 2021, developer: "Relic Entertainment", publisher: "Xbox Game Studios",
-    price: "$59.99", salePrice: "$29.99",
     description: "Age of Empires IV brings the beloved RTS franchise to a new generation with epic historical campaigns, deep strategy, and stunning graphics across multiple eras.",
     screenshots: [
-      "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEoP0sf2kE6rRVbdyQfkkfoaWeROG1lxpOjIfMOvJjGvyQnUiIzy46nX6e&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcj0pXRYPFzGRQKYu1n-cHUqpGTcCclyPoVcMcOwCWpg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSki6s5IPs_Ar4MYTdH-EWfn_u2zkTjpTzkYmW3XLKwYA&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6300U", ram: "8 GB", gpu: "Intel HD 520", storage: "50 GB" },
     link: "https://www.ageofempires.com/games/age-of-empires-iv",
@@ -727,15 +724,14 @@ const gamesDB = [
   },
   {
     id: 1e3 + 7, title: "Death Stranding", category: "Action", genre: "Strand Game",
-    image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCpHbgVNqNVK2ORsgcOinCH4IrLetRuYM1OpuAhVDvig&s",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UcFG3MQN378yzr5Ain-D2hursmUuI8OxZcY-Qh8NbQ&s=10",
     rating: 4.4, year: 2019, developer: "Kojima Productions", publisher: "Sony Interactive",
-    price: "$59.99", salePrice: "",
     description: "Death Stranding is an enigmatic action game where you deliver cargo across a desolate America, connecting isolated cities and uncovering the mystery of Death Stranding.",
     screenshots: [
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSL2RnCJpwdHXb-zFoQuS_UoRLDoAPGgA8fit-XtAuV6w&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrjezV4WXFl9Kd_Mf2fgUIPxu5Eo9fv_DNth36CQGTZg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTng0ixXd4bA3lqAQs-sjUwqsdCdw83EcUXrNT3IzSlEmbQdGASemnV4&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-3470", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1050", storage: "80 GB" },
     link: "https://www.kojimaproductions.jp/en/death-stranding",
