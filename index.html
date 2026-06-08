@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>NexusPlay - Premium Gaming Platform</title>
+  <meta name="description" content="NexusPlay is your ultimate gaming destination. Discover, explore, and download the latest and greatest PC and console games from a curated collection.">
+  <meta name="keywords" content="games, gaming, PC games, console games, Steam, Epic Games, game store, download games, action, RPG, shooter">
+  <meta name="author" content="NexusPlay">
+  <meta name="robots" content="index, follow">
+  <meta property="og:title" content="NexusPlay - Premium Gaming Platform">
+  <meta property="og:description" content="Discover the best games across all genres. Your ultimate gaming destination.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://nexusplay.com">
+  <meta property="og:image" content="https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="NexusPlay - Premium Gaming Platform">
+  <meta name="twitter:description" content="Discover the best games across all genres.">
+  <link rel="canonical" href="https://nexusplay.com">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cdefs%3E%3ClinearGradient id='g' x1='0%25' y1='0%25' x2='100%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%23ff0040'/%3E%3Cstop offset='100%25' stop-color='%237c3aed'/%3E%3C/linearGradient%3E%3C/defs%3E%3Crect width='100' height='100' rx='20' fill='url(%23g)'/%3E%3Ctext x='50' y='68' font-family='Arial' font-size='44' font-weight='bold' fill='white' text-anchor='middle'%3EN%3C/text%3E%3C/svg%3E">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Orbitron:wght@400;500;600;700;800;900&family=Rajdhani:wght@500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="cursor-glow"></div>
+  <div class="noise-overlay"></div>
+
+  <header class="header">
+    <nav class="nav">
+      <a href="#" class="nav-logo">
+        <div class="logo-icon"><i class="fas fa-gamepad"></i></div>
+        <div class="logo-text">
+          <span class="logo-title">Nexus<span class="text-neon">Play</span></span>
+          <span class="logo-sub">GAMING PLATFORM</span>
+        </div>
+      </a>
+      <div class="nav-links">
+        <a href="#" class="active">Home</a>
+        <a href="#" data-section="featured">Featured</a>
+        <a href="#" data-section="trending">Trending</a>
+        <a href="#" data-section="categories">Categories</a>
+        <a href="#" data-section="all-games">All Games</a>
+      </div>
+      <div class="nav-actions">
+        <div class="search-trigger" id="searchTrigger">
+          <i class="fas fa-search"></i>
+        </div>
+        <button class="theme-toggle" id="themeToggle" aria-label="Toggle theme">
+          <i class="fas fa-moon"></i>
+        </button>
+        <div class="hamburger" id="hamburger">
+          <span></span><span></span><span></span>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <div class="search-overlay" id="searchOverlay">
+    <div class="search-modal">
+      <div class="search-modal-header">
+        <i class="fas fa-search"></i>
+        <input type="text" id="globalSearch" placeholder="Search any game..." autocomplete="off">
+        <button id="searchClose"><i class="fas fa-times"></i></button>
+      </div>
+      <div class="search-results" id="searchResults"></div>
+    </div>
+  </div>
+
+  <main>
+    <section class="hero" id="home">
+      <div class="hero-bg-grid"></div>
+      <div class="container">
+        <div class="hero-content">
+          <div class="hero-text">
+            <div class="hero-badge">
+              <span class="badge-dot"></span>
+              Next-Gen Gaming
+            </div>
+            <h1>Discover Your <span class="text-neon">Next</span> <span class="text-gradient">Adventure</span></h1>
+            <p>Explore thousands of premium games across every genre. From epic RPGs to heart-pounding shooters, your next obsession starts here.</p>
+            <div class="hero-buttons">
+              <a href="#" class="btn btn-primary" data-section="featured">
+                <i class="fas fa-rocket"></i> Explore Games
+              </a>
+              <a href="#" class="btn btn-secondary" data-section="trending">
+                Trending Now <i class="fas fa-arrow-right"></i>
+              </a>
+            </div>
+            <div class="hero-stats">
+              <div class="hero-stat">
+                <h3 class="text-neon">500+</h3>
+                <p>Games Available</p>
+              </div>
+              <div class="hero-stat">
+                <h3 class="text-neon">50K+</h3>
+                <p>Active Players</p>
+              </div>
+              <div class="hero-stat">
+                <h3 class="text-neon">4.7</h3>
+                <p>Avg Rating</p>
+              </div>
+            </div>
+          </div>
+          <div class="hero-visual">
+            <div class="hero-showcase">
+              <div class="showcase-card showcase-1">
+                <div class="showcase-glow"></div>
+                <i class="fas fa-gamepad"></i>
+                <span>Premium Gaming</span>
+              </div>
+              <div class="showcase-card showcase-2">
+                <div class="showcase-glow"></div>
+                <i class="fas fa-trophy"></i>
+                <span>Top Rated</span>
+              </div>
+              <div class="showcase-card showcase-3">
+                <div class="showcase-glow"></div>
+                <i class="fas fa-download"></i>
+                <span>Instant Access</span>
+              </div>
+            </div>
+            <div class="hero-ring">
+              <div class="ring-inner"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="featured">
+      <div class="container">
+        <div class="section-header">
+          <div>
+            <span class="section-label"><i class="fas fa-star"></i> Featured</span>
+            <h2 class="section-title">Curated <span class="text-neon">Picks</span></h2>
+            <p class="section-subtitle">Handpicked titles our team is obsessed with right now.</p>
+          </div>
+          <div class="section-nav">
+            <button class="scroll-btn" data-scroll="featured" data-dir="prev"><i class="fas fa-chevron-left"></i></button>
+            <button class="scroll-btn" data-scroll="featured" data-dir="next"><i class="fas fa-chevron-right"></i></button>
+          </div>
+        </div>
+        <div class="games-carousel" id="featuredCarousel"></div>
+      </div>
+    </section>
+
+    <section class="section section-alt" id="trending">
+      <div class="container">
+        <div class="section-header">
+          <div>
+            <span class="section-label"><i class="fas fa-fire"></i> Trending</span>
+            <h2 class="section-title">Most <span class="text-neon">Popular</span> Now</h2>
+            <p class="section-subtitle">What everyone's playing and talking about.</p>
+          </div>
+          <div class="section-nav">
+            <button class="scroll-btn" data-scroll="trending" data-dir="prev"><i class="fas fa-chevron-left"></i></button>
+            <button class="scroll-btn" data-scroll="trending" data-dir="next"><i class="fas fa-chevron-right"></i></button>
+          </div>
+        </div>
+        <div class="games-carousel" id="trendingCarousel"></div>
+      </div>
+    </section>
+
+    <section class="section" id="categories">
+      <div class="container">
+        <div class="section-header center">
+          <span class="section-label"><i class="fas fa-th-large"></i> Browse</span>
+          <h2 class="section-title">Game <span class="text-neon">Categories</span></h2>
+          <p class="section-subtitle">Find your perfect genre.</p>
+        </div>
+        <div class="categories-grid" id="categoriesGrid"></div>
+      </div>
+    </section>
+
+    <section class="section section-alt" id="all-games">
+      <div class="container">
+        <div class="section-header">
+          <div>
+            <span class="section-label"><i class="fas fa-layer-group"></i> Library</span>
+            <h2 class="section-title">Complete <span class="text-neon">Library</span></h2>
+            <p class="section-subtitle">Browse our entire game collection.</p>
+          </div>
+          <div class="filter-group">
+            <div class="filter-select">
+              <select id="genreFilter">
+                <option value="all">All Genres</option>
+              </select>
+              <i class="fas fa-chevron-down"></i>
+            </div>
+          </div>
+        </div>
+        <div class="games-grid" id="allGamesGrid"></div>
+      </div>
+    </section>
+  </main>
+
+  <div class="game-modal-overlay" id="gameModalOverlay">
+    <div class="game-modal" id="gameModal">
+      <button class="modal-close" id="modalClose"><i class="fas fa-times"></i></button>
+      <div class="modal-content" id="modalContent"></div>
+    </div>
+  </div>
+
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-grid">
+        <div class="footer-brand">
+          <a href="#" class="nav-logo" style="margin-bottom:16px;display:inline-flex">
+            <div class="logo-icon"><i class="fas fa-gamepad"></i></div>
+            <div class="logo-text">
+              <span class="logo-title">Nexus<span class="text-neon">Play</span></span>
+            </div>
+          </a>
+          <p>Your premium destination for gaming. We curate the best titles across all platforms and genres, bringing you the ultimate gaming experience.</p>
+          <div class="footer-social">
+            <a href="#" aria-label="Discord"><i class="fab fa-discord"></i></a>
+            <a href="#" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
+            <a href="#" aria-label="YouTube"><i class="fab fa-youtube"></i></a>
+            <a href="#" aria-label="Reddit"><i class="fab fa-reddit-alien"></i></a>
+            <a href="#" aria-label="GitHub"><i class="fab fa-github"></i></a>
+          </div>
+        </div>
+        <div class="footer-col">
+          <h4>Explore</h4>
+          <a href="#" data-section="featured">Featured Games</a>
+          <a href="#" data-section="trending">Trending</a>
+          <a href="#" data-section="categories">Categories</a>
+          <a href="#" data-section="all-games">All Games</a>
+        </div>
+        <div class="footer-col">
+          <h4>Genres</h4>
+          <a href="#" data-genre="Action">Action</a>
+          <a href="#" data-genre="RPG">RPG</a>
+          <a href="#" data-genre="Shooter">Shooter</a>
+          <a href="#" data-genre="Horror">Horror</a>
+          <a href="#" data-genre="Strategy">Strategy</a>
+        </div>
+        <div class="footer-col">
+          <h4>Support</h4>
+          <a href="#">Help Center</a>
+          <a href="#">Privacy Policy</a>
+          <a href="#">Terms of Service</a>
+          <a href="#">Cookie Policy</a>
+          <a href="#">Contact Us</a>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 NexusPlay. All rights reserved. Made with <i class="fas fa-heart" style="color:#ff0040"></i> for gamers.</p>
+        <div class="footer-badges">
+          <span><i class="fas fa-shield-alt"></i> Secure</span>
+          <span><i class="fas fa-bolt"></i> Fast</span>
+          <span><i class="fas fa-check-circle"></i> Verified</span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="games.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
