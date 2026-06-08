@@ -316,18 +316,17 @@ const gamesDB = [
     featured: false, trending: true, popular: false
   },
   {
-    id: 22, title: "Palworld", category: "Sandbox", genre: "Open World Survival",
-    image: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=1200&q=80",
-    rating: 4.2, year: 2024, developer: "Pocketpair", publisher: "Pocketpair",
-    price: "$29.99", salePrice: "",
-    description: "Palworld is a unique open-world survival crafting game where you befriend and collect mysterious creatures called Pals to fight, build, farm, and explore together.",
+    id: 22, title: "far cry 3", category: "Action-Adventure", genre: "First-Person Shooter (FPS), Open World",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1LP_qm4eaogtaSO0VpRki8Gq_3y4eiB-8IshNADLHuA&s",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTq6USqImEBCZp8iYG7y5Z9dvg92sNbc63GDWaf6l8UeMCv1rU8XICnFQU&s=10",
+    rating: 4.2, year: 2012, developer: "Ubisoft Montreal (with support from other Ubisoft studios)", publisher: "Ubisoft",
+    description: "Jason Brody and his friends are captured by pirates on a tropical island. After escaping, Jason fights to rescue his friends and defeat the pirate leader, Vaas Montenegro. During his journey, he becomes a powerful warrior and later takes down the criminal mastermind Hoyt Volker. In the end, Jason must choose between returning home with his friends or staying on the island and embracing his new life. 🎮.",
     screenshots: [
-      "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80",
-      "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80",
-      "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVG6GCIGpEEEbOtU2VdTHRPN7uBBTHMWSyBf0xR2dC9Q&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJnF5I59MUyYm8EhjpXAoqQptLxcCXrekSH5R__KPOuw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpW9LEbeQErHTUV0UKdVe0qVkCsnKMj9z8Yvd2kYfNrA&s"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-3570K", ram: "16 GB", gpu: "NVIDIA GeForce GTX 1050", storage: "40 GB" },
+    requirements: { os: "Windows 7 / Windows 8", cpu: "Intel Core i3-530 2.93 GHz or AMD Phenom II X2 565", ram: "4 GB", gpu: "NVIDIA GeForce GTX 480 or AMD Radeon HD 5770", storage: "15 GB" },
     link: "https://www.pocketpair.jp/palworld",
     featured: false, trending: true, popular: false
   },
@@ -362,18 +361,17 @@ const gamesDB = [
     featured: true, trending: false, popular: true
   },
   {
-    id: 25, title: "Street Fighter 6", category: "Fighting", genre: "Versus Fighting",
-    image: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=1200&q=80",
-    rating: 4.6, year: 2023, developer: "Capcom", publisher: "Capcom",
-    price: "$59.99", salePrice: "",
-    description: "Street Fighter 6 redefines the fighting game genre with three distinct modes: World Tour, Fighting Ground, and Battle Hub, featuring stunning RE ENGINE visuals.",
-    screenshots: [
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80"
+    id: 25, title: "The Last of Us Part I", category: "Action-Adventure", genre: "Action, Adventure, Survival Horror",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz1ribDbvhamSFybyYaTHxfGqPPjs-y5ZqhBNSZwU4DA&s",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDoCubZrZlXV7uhdxGySOaoz6q7hBKGyfTnvBzgBgWIA&s=10",
+    rating: 4.6, year: 2022, developer: "Naughty Dog", publisher: "Sony Interactive Entertainment",
+    description: "",
+    screenshots: [In a world destroyed by a deadly fungal infection, Joel is hired to escort a teenage girl named Ellie across the United States. Ellie is immune to the infection, making her humanity's best hope for a cure. As they travel through dangerous cities and face infected creatures and hostile survivors, Joel and Ellie develop a deep father-daughter bond. Their journey ends with Joel making a controversial decision that changes both their lives forever. 🎮
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXKI9gZKUq47uOUVea8IONaJ8_ebsrfxYFO-GxlRrHnZtHrcpxeOXThx4&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRcAN4TwEd2rpDDBGHpcNR2obcNRExstif_UBD_cow2A&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fUD5WOKpSpjTf8JqHf8VElE7sHI5jItdqzF1y9UGbg&s=10"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-7500", ram: "8 GB", gpu: "NVIDIA GTX 1060", storage: "60 GB" },
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i7-8700", ram: "16 GB", gpu: "NVIDIA GeForce RTX 2070 Super", storage: "100 GB SSD" },
     link: "https://www.streetfighter.com",
     featured: false, trending: false, popular: true
   },
@@ -397,7 +395,6 @@ const gamesDB = [
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQo4qJD2Bg73AlGHL9kff_t24OEzkgBL2nplQ&s",
     banner: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/949230/331a5bcc257a69132f6502ad146984142e0d4aeb/capsule_616x353.jpg?t=1779837128",
     rating: 3.9, year: 2023, developer: "Colossal Order", publisher: "Paradox Interactive",
-    price: "$49.99", salePrice: "",
     description: "Cities: Skylines II challenges you to build a thriving metropolis from the ground up with deeper simulation, dynamic economy, and more complex city management.",
     screenshots: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL5lf23EkEqIKjd-FwBS0i5QDrAmEDm4pE0g&s",
@@ -426,15 +423,14 @@ const gamesDB = [
   },
   {
     id: 29, title: "Overwatch 2", category: "Shooter", genre: "Hero Shooter",
-    image: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=1200&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX1WWwCcrLWvB8iTTLsHWncrxOCQSbu1dGFJhGWFQCKw&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVHmO0V9DbUhxgqgsOkONryqj-L9nxDnKEk_mdXwChbA&s=10",
     rating: 3.9, year: 2022, developer: "Blizzard Entertainment", publisher: "Blizzard",
-    price: "Free", salePrice: "",
     description: "Overwatch 2 is a free-to-play team-based action game set in an optimistic future where diverse heroes battle in 5v5 PvP matches across iconic maps worldwide.",
     screenshots: [
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQVfu3-pT7bNmElQH6ECNiKbt1aPbyFPLwe2GfxkO7Wg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDE8VshztDivrGCxvacEOpDzJYNELHiXIDof0mbGZ7YA&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_CoXZ6ZrrOGRz3oR3HaZc9FwKC5fZI9JWmk42C_16Kw&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i3", ram: "8 GB", gpu: "NVIDIA GeForce GTX 600 series", storage: "50 GB" },
     link: "https://overwatch.blizzard.com",
