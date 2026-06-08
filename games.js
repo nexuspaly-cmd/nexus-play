@@ -522,15 +522,14 @@ const gamesDB = [
   },
   {
     id: 35, title: "Tekken 8", category: "Fighting", genre: "3D Fighting",
-    image: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=1200&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tekken_8_cover_art.jpg/250px-Tekken_8_cover_art.jpg",
+    banner: "https://i.ytimg.com/vi/PSbCMA9Nevk/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB6QeFP6BEd_o-pEWpSd49DokUkqw",
     rating: 4.7, year: 2024, developer: "Bandai Namco", publisher: "Bandai Namco",
-    price: "$69.99", salePrice: "",
     description: "Tekken 8 brings the legendary fighting franchise to the next generation with aggressive new mechanics, stunning visuals on UE5, and the epic conclusion of the Mishima saga.",
     screenshots: [
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRtPcTfvhZVkGTapHdgfZqVbQjhl7b5G_nGs_zBiuOho1NSqEZAhLgQkoO&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQYBG-kwdapji3oStG-XFCSyFUJTEWEwNcllS74Ff85Q&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXFN6dwkgVlNFECcwajNfEijm0kJHYqoIQLaGM2U5Rvw&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1060", storage: "80 GB" },
     link: "https://tekken.com",
@@ -554,15 +553,14 @@ const gamesDB = [
   },
   {
     id: 37, title: "Valorant", category: "Shooter", genre: "Tactical FPS",
-    image: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=1200&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRU_a2okroMTulfZZkwEn7f6iav3BCU4DtNXRcc6F9YQ&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTTn-gVfKW65GM6h0gk1XuiJApGHF3KFnKo61Y8MrMGw&s=10",
     rating: 4.3, year: 2020, developer: "Riot Games", publisher: "Riot Games",
-    price: "Free", salePrice: "",
     description: "Valorant is a 5v5 character-based tactical FPS where precise gunplay meets unique agent abilities in high-stakes matches across a global stage.",
     screenshots: [
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2QtbNlq85fmu3uQOXtnjBH5jrOZ24AVRuUUnWIM2deQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs7wShqVb2SHAp3or2voHED_kkbVvqTAtzrecowXKMDQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlonAeV5LG5iUOtU-SVD-Hd_gmTU5pZNnbVhDX89yZaA&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core 2 Duo E8400", ram: "4 GB", gpu: "Intel HD 4000", storage: "30 GB" },
     link: "https://playvalorant.com",
@@ -618,15 +616,15 @@ const gamesDB = [
   },
   {
     id: 1e3, title: "Doom Eternal", category: "Shooter", genre: "First-Person Shooter",
-    image: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=1200&q=80",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxPYBnvesP9QnjR9jreyXNUlX-2lIVVSCsgIIEkd9NmQ&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD2u4jOAfP5JalXhRWb0Zl9bqP5VH6_YHobl-ihEGvIg&s=10",
     rating: 4.7, year: 2020, developer: "id Software", publisher: "Bethesda",
     price: "$59.99", salePrice: "$19.99",
     description: "Doom Eternal pushes the boundaries of FPS with faster combat, acrobatic movement, and razor-sharp gameplay as you fight demon hordes across dimensions.",
     screenshots: [
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqk1GMkt13bDcgeJO05t1ZkhCm7dXaJi9pkIw3J2t87Q&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQ5AygcKpNTDWN8hjrapAXQhKry4_L-2AuswFcJNfBg&s",
+      "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19811900/doom_eternal_5.jpg"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GTX 1060", storage: "45 GB" },
     link: "https://bethesda.net/en/game/doom-eternal",
@@ -634,15 +632,14 @@ const gamesDB = [
   },
   {
     id: 1e3 + 1, title: "Stardew Valley", category: "Simulation", genre: "Farming Sim",
-    image: "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=1200&q=80",
+    image: "https://upload.wikimedia.org/wikipedia/en/f/fd/Logo_of_Stardew_Valley.png",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqyFv0IS_UuoZsveO3vcIweBkAsOseimuTB_H6SPHEfA&s=10",
     rating: 4.8, year: 2016, developer: "ConcernedApe", publisher: "ConcernedApe",
-    price: "$14.99", salePrice: "",
     description: "Stardew Valley is a beloved farming simulation RPG where you inherit an old farm and build your new life in Pelican Town with farming, mining, fishing, and relationships.",
     screenshots: [
-      "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&q=80",
-      "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOVhT7rMGvds4hci-hxoxTyweJrciiIz7aSSgk6f3TcEkrkOJN9X8v9vI&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgjJsr4ZmL3Pr2yZeLdvnsJL5hYMyDlbasbjFg6suM0g&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSC0SB5-AXpg1pFWWnbmx_2NDSTtd2csnZ4RDtih4vUg&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core 2 Duo", ram: "4 GB", gpu: "Intel HD 3000", storage: "1 GB" },
     link: "https://www.stardewvalley.net",
