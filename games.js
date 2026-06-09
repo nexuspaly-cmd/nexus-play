@@ -495,19 +495,18 @@ const gamesDB = [
     featured: false, trending: true, popular: false
   },
   {
-    id: 34, title: "Like a Dragon: Infinite Wealth", category: "RPG", genre: "JRPG",
-    image: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=1200&q=80",
-    rating: 4.8, year: 2024, developer: "Ryu Ga Gotoku Studio", publisher: "Sega",
-    price: "$69.99", salePrice: "",
-    description: "Like a Dragon: Infinite Wealth is a massive RPG adventure spanning Japan and Hawaii, blending turn-based combat with emotional storytelling and endless mini-games.",
+    id: 34, title: "2077 Cyberpunk", category: "RPG", genre: "Open World, RPG, Sci-Fi, First-Person",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4oY0ogjcW5A33qlBAK7iI_2_gF3AKiUI72FpZ4S_2ZQ&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2-PuvDIEvcLDMC5lrE3D8cJa4H0IIC8wwzMSO15J1Hw&s=10",
+    rating: 4.8, year: 2020, developer: "CD PROJEKT RED", publisher: "CD PROJEKT",
+    description: "Cyberpunk 2077 is an open-world sci-fi RPG set in the futuristic metropolis of Night City, a city obsessed with technology, power, and cybernetic enhancements.",
     screenshots: [
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwTHpjiNKGcWgqm2Xw_CTA1DUZPwpH-GrxVeyEaq2vEhvymQV_KI0E0lI&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSevQiS9cL-4xECNXWOAR0_iDflzdBVPSVuIIpx8lAy6w&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDtCGhvLapxlQvY_Yf3ul74mv6pfp2-mcgnp3oLNO6qQ&s=10"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-3470", ram: "8 GB", gpu: "NVIDIA GeForce GTX 960", storage: "60 GB" },
-    link: "https://infinitewealth.sega.com",
+    requirements: { os: "Windows 11 / 10 64-bit", cpu: "Intel Core i7-12700", ram: "16 GB", gpu: "NVIDIA RTX 2060 Super", storage: "70 GB SSD" },
+    link: "#",
     featured: false, trending: true, popular: false
   },
   {
@@ -526,18 +525,17 @@ const gamesDB = [
     featured: false, trending: true, popular: false
   },
   {
-    id: 36, title: "Prince of Persia: The Lost Crown", category: "Action", genre: "Metroidvania",
-    image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&q=80",
-    rating: 4.5, year: 2024, developer: "Ubisoft Montpellier", publisher: "Ubisoft",
-    price: "$49.99", salePrice: "",
-    description: "Prince of Persia: The Lost Crown is a side-scrolling action-adventure where you master acrobatic combat and time-based powers to rescue the Prince from a cursed citadel.",
+    id: 36, title: " GTA Vice City-Definitive Edition", category: "Action-Adventure", genre: "Open World, Action, Crime",
+    image: "https://cdn.mobygames.com/5f803a28-a22b-11ee-951e-02420a000136.webp",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAERDtpLB2zYqIe1quSsq5hbSSH_0yIfitQOMjNL7zHiEh9AQjut1-Qin9&s=10",
+    rating: 4, year: 2041, developer: "Grove Street Games", publisher: "Rockstar Games",
+    description: "Grand Theft Auto: Vice City – The Definitive Edition is a remastered version of the 2002 classic, rebuilt with improved graphics",
     screenshots: [
-      "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfAnkr8QXioKKHssxOZQ8-nOyefN8nZxOpZZpyRcvcnw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJq4r_Q823OhMWzIgj3P8HVXGlYLUB7ZggQZbW-21IRw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIJrDR0_QpHdemK17NdRCTkRNFlWiJvs8GMaF_BAaOw&s"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4460", ram: "8 GB", gpu: "NVIDIA GeForce GTX 950", storage: "30 GB" },
+    requirements: { os: "Windows 11 7 10 64-bit", cpu: "Intel Core i5-6600K", ram: "16 GB", gpu: "NVIDIA GTX 760 2GB", storage: "45 GB SSD" },
     link: "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
     featured: false, trending: false, popular: false
   },
