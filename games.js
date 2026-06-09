@@ -4,13 +4,13 @@ const gamesDB = [
     image: "https://jolstatic.fr/www/captures/2949/6/121016.jpg",
     banner: "https://img.succesone.fr/2020/06/Watch-Dogs-2-Series-SuccesOne.jpg",
     rating: 4.6, year: 2016, developer: "CD Projekt Red", publisher: "CD Projekt",
-    description: "Cyberpunk 2077 is an open-world, action-adventure RPG set in the megalopolis of Night City, where you play as a mercenary outlaw obsessed with a chip that grants immortality.",
+    description: "Watch Dogs 2 is an open-world hacking game set in a fictional version of San Francisco. You play as Marcus Holloway, a talented young hacker who joins the hacker group DedSec to fight corruption and expose powerful tech companies",
     screenshots: [
       "https://jolstatic.fr/www/captures/2949/6/121016.jpg",
       "https://cdn2.unrealengine.com/watch-dogs-2-group-photo-1920x1080-025a329984ec.jpg",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKnbOk3JG-xBoV8XbdrRGfrxIh_TTFEIkXbA&s"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i7-6700", ram: "6 GB", gpu: "NVIDIA GeForce GTX 660 with 2 GB VRAM or AMD Radeon HD 7870, with 2 GB VRAM or better - See supported List*", storage: "27 GB" },
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2400S", ram: "6 GB", gpu: "NVIDIA GeForce GTX 660 with 2 GB VRAMD ", storage: "50 GB" },
     link: "#",
     featured: true, trending: true, popular: true
   },
@@ -168,8 +168,8 @@ const gamesDB = [
     id: 12, title: "FIFA 21", category: "Sports", genre: "Sports Simulation",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILtycojJSEwx1bdbLZyzeL0mYpuikobE6eg&s",
     banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbRicDk2uWMyZug9sZcpEkav1q8rFiXdFow&s",
-    rating: 4.0, year: 2023, developer: "EA Vancouver", publisher: "EA Sports",
-    description: "EA Sports FC 24 offers the most authentic football experience with HyperMotionV technology, Opta data, and thousands of real players, teams, and leagues.",
+    rating: 4.0, year: 2021, developer: "EA Vancouver", publisher: "EA Sports",
+    description: "EA Sports FC 21 offers the most authentic football experience with HyperMotionV technology, Opta data, and thousands of real players, teams, and leagues.",
     screenshots: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRty1VUVbdc3NEJ-Zdpl8bWcaBEJ3mwyPufdQ&s",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8S6bljuAjavVObT2SRfrVM_gkXH_0BPTO6Q&s",
@@ -285,19 +285,18 @@ const gamesDB = [
     featured: false, trending: false, popular: true
   },
   {
-    id: 20, title: "Forza Motorsport", category: "Racing", genre: "Simulation Racing",
-    image: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&q=80",
-    rating: 4.3, year: 2023, developer: "Turn 10 Studios", publisher: "Xbox Game Studios",
-    price: "$69.99", salePrice: "",
-    description: "Forza Motorsport delivers the most realistic racing experience yet with over 500 cars, 800+ upgrades, and ray-tracing performance on dynamic tracks.",
+    id: 20, title: "Need For Speed Most Wanted 2012", category: "Racing", genre: "Open-World Racing, Arcade Racing",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYcEOOWDfzKWH6SXjkxOPigafipbNNZOvtlpGjfmuIfBRuVjY-T4YSL7o&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1aataDfbtA-DCBviOZnw9uGkxD31dQ75PDrfzNT6Rkw&s",
+    rating: 4, year: 2012, developer: "Criterion Games", publisher: "Electronic Arts (EA)",
+    description: "Need for Speed: Most Wanted (2012) is an open-world racing game set in the fictional city of Fairhaven. Players compete in street races, evade the police, and challenge the city's top racers to become the most wanted driver.",
     screenshots: [
-      "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS96WHGP9PYi5WuPNwB9ZOta3yuECmFEefPv8Fde2dUnw&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcnC0TBpU8yK9XAzHxE2DfE7b1EPYtt4JORKAEWsFkRQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMMnttSpJPYmuTgAS4rGMHH_arW2qGfAxwmcpTqgBXg&s=10"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-8400", ram: "16 GB", gpu: "NVIDIA GTX 1060", storage: "130 GB" },
-    link: "https://forzamotorsport.net",
+    requirements: { os: "Windows 11 / 10 / 8 / 7 64-bit", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "4 GB", gpu: "NVIDIA GeForce GTX 560", storage: "20 GB" },
+    link: "#",
     featured: false, trending: false, popular: true
   },
   {
@@ -410,7 +409,6 @@ const gamesDB = [
     image: "https://upload.wikimedia.org/wikipedia/en/thumb/e/ed/Alan_Wake_2_box_art.jpg/250px-Alan_Wake_2_box_art.jpg",
     banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4YYXnX2qBIDlxBdeJP5SZwz7zz14r_27xg&s",
     rating: 4.8, year: 2023, developer: "Remedy Entertainment", publisher: "Epic Games",
-    price: "$59.99", salePrice: "",
     description: "Alan Wake 2 is a mind-bending survival horror where FBI agent Saga Anderson investigates ritualistic murders in Bright Falls, while trapped writer Alan Wake tries to escape the Dark Place.",
     screenshots: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6RceJabh1a6Mxv0wORpsLNYNXeFS3SLQtiw&s",
@@ -437,67 +435,63 @@ const gamesDB = [
     featured: false, trending: false, popular: true
   },
   {
-    id: 30, title: "Dead Space Remake", category: "Horror", genre: "Survival Horror",
-    image: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=1200&q=80",
-    rating: 4.7, year: 2023, developer: "Motive Studio", publisher: "EA",
-    price: "$59.99", salePrice: "$39.99",
-    description: "Dead Space Remake brings the classic sci-fi survival horror to modern platforms with stunning visuals, enhanced gameplay, and the same terrifying Necromorph-slaying action.",
+    id: 30, title: "Call of Duty: Ghosts", category: "Action", genre: "First-Person Shooter (FPS), Military Shooter",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXuy2OXwZlSqpAsYuznj9K9DU5yB3TKK6FKT6MdzC7Jg&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2T7SkXAvwx6O2ki5CKaR-fy9KHZSpv9EJgNsfKVB-Ow&s=10",
+    rating: 4.7, year: 2016, developer: "Infinity Ward", publisher: "Activision",
+    description: "Call of Duty: Ghosts is a military FPS set in a near-future world where the United States has been weakened after a devastating attack. You play as a member of the Ghosts, an elite special operations unit fighting to protect the country from a powerful enemy alliance.",
     screenshots: [
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNP9Ae3Ku483U9EzjcZELHgaFnAwy8IfUCh9LjYEc0Qg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDeuHWd0NGqanjWxZUDcTQuJ-7kGV-VT5OZeVMkTJysQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfH06H-1ocPMvTlylLfAm28br3bEZJ_OyknnjnXQ17A&s=10"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-8600", ram: "16 GB", gpu: "NVIDIA GeForce GTX 1070", storage: "50 GB" },
+    requirements: { os: "Windows 11 / 10 / 8 / 7 64-bit", cpu: "Intel Core i5", ram: "8 GB", gpu: "NVIDIA GeForce GTX 760", storage: "40 GB" },
     link: "https://www.ea.com/games/dead-space",
     featured: false, trending: false, popular: true
   },
   {
-    id: 31, title: "Helldivers 2", category: "Shooter", genre: "Co-op Shooter",
-    image: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=1200&q=80",
-    rating: 4.6, year: 2024, developer: "Arrowhead Game Studios", publisher: "Sony Interactive",
-    price: "$39.99", salePrice: "",
-    description: "Helldivers 2 is a frantic third-person co-op shooter where elite soldiers battle for super-earth against alien threats with stratagems, teamwork, and managed democracy.",
+    id: 31, title: "Horizon Zero Dawn Repack", category: "Action RPG", genre: "Open World, Action, Adventure, RPG",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIJlaZ3kQnO1a7DTE2S5GxwMDGXZC6p7WQlzvaLNok7A&s",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfH9b2jUltnh4VMNC_j88DT54MT9ShGUDpkFlmrNXzIw&s=10",
+    rating: 4.6, year: 20, developer: "Guerrilla Games", publisher: "Sony Interactive Entertainment",
+    description: "Horizon Zero Dawn is an open-world action RPG set in a distant future where robotic creatures roam the Earth and human civilization has returned to tribal societies.",
     screenshots: [
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtHGURb8DZt6Mzr2Bwk7QI7BshuD8BWJcnOhhiPaxX7w&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6iwjVBn9MuVDxutwl2isAMSsxY__V20e5qY-aTW9c0A&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd1Li59Tw_MpjZilYjFYVKCt2OgMYU2E6c2-Pjz-n3Jw&s=10"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-8600", ram: "16 GB", gpu: "NVIDIA GTX 1060", storage: "60 GB" },
-    link: "https://www.playstation.com/games/helldivers-2",
+    requirements: { os: "Windows 10 64-bit", cpu: "ntel Core i7-4770K", ram: "16 GB", gpu: "NVIDIA GTX 1060 (6 GB)", storage: "100 GB ssd" },
+    link: "#",
     featured: false, trending: true, popular: false
   },
   {
-    id: 32, title: "Skull and Bones", category: "Action", genre: "Naval Action",
-    image: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=1200&q=80",
-    rating: 3.5, year: 2024, developer: "Ubisoft Singapore", publisher: "Ubisoft",
-    price: "$69.99", salePrice: "",
-    description: "Skull and Bones is a pirate naval combat game where you build your ship, form alliances, and battle for dominance across the Indian Ocean in a shared open world.",
+    id: 32, title: "eFootball PES 2021", category: "Sports", genre: "Football Simulation, Sports",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7AFfBH8-m5e03G92YLSKEzoADoxbhnntia1cblWfvtw&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz5V7z_vBngfyTYHiBHOPowLl9wntKp5oPVj7QDdUlcQ&s=10",
+    rating: 3.5, year: 2020, developer: "Konami Digital Entertainment", publisher: "Konami",
+    description: "eFootball PES 2021 Season Update is a football simulation game that builds on PES 2020, featuring updated player rosters, club squads, kits, and transfers for the 2020–21 season.",
     screenshots: [
-      "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCEXuRnvz4IsmsY5vBaCN5b-mD-f3MS-d-qWhAPITWSg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwFkUId5rT51rR1j9LjIElogDxcJV6x7p74g_o0DRTCQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1VxI5DShJDjyGDpIOZo2IrH3_ZxHJAitpbmO4FUKxeQ&s=10"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i7-4790", ram: "8 GB", gpu: "NVIDIA GTX 1060", storage: "65 GB" },
-    link: "https://www.ubisoft.com/en-us/game/skull-and-bones",
+    requirements: { os: "Windows 10 / 11 64-bit", cpu: "Intel Core i7-4790", ram: "8 GB", gpu: "NVIDIA GTX 760", storage: "40 GB" },
+    link: "#",
     featured: false, trending: false, popular: false
   },
   {
-    id: 33, title: "Dragon's Dogma 2", category: "RPG", genre: "Action RPG",
-    image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80",
-    rating: 4.4, year: 2024, developer: "Capcom", publisher: "Capcom",
-    price: "$69.99", salePrice: "",
-    description: "Dragon's Dogma 2 is a fantasy action-RPG where you and your pawn companions embark on an epic adventure through a deeply reactive world full of mythical creatures.",
+    id: 33, title: "Mortal Kombat X", category: "Fighting", genre: "Fighting, Action",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwxusF7IHaH2WzcEGe3y6FciWOMOqt5iskC19w85-xjw&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVuVuE41qH5b5jnRZybkt-hqrf1eH4FJx0FWDJbjjGug&s=10",
+    rating: 4.4, year: 2015, developer: "NetherRealm Studios", publisher: "Warner Bros. Games",
+    description: "Mortal Kombat X is a fast-paced fighting game featuring brutal combat, cinematic storytelling, and the series' famous Fatality finishers",
     screenshots: [
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxF4_JSMFTOUlc7hXbdFqq8Ubo2ceo445BWflwEa7Fm3EqvxKKJS-X4Y&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-wNlgyu-x2fLGGVoixtlbfYN3X_Qh00QvtHyKO5kKQ&s=10",
+      "https://www.gematsu.com/wp-content/uploads/2014/06/MKX-Gameplay-PS-Blog-Stream.jpg"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-10600", ram: "16 GB", gpu: "NVIDIA GeForce GTX 1070", storage: "80 GB" },
-    link: "https://www.dragonsdogma.com",
+    requirements: { os: "Windows 11 / 10 / 8 / 7 64-bit", cpu: "Intel Core i5-750", ram: "4 GB", gpu: "NVIDIA GeForce GTX 460", storage: "40 GB" },
+    link: "#",
     featured: false, trending: true, popular: false
   },
   {
