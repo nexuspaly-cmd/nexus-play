@@ -563,50 +563,47 @@ const gamesDB = [
     featured: false, trending: false, popular: true
   },
   {
-    id: 38, title: "Horizon Forbidden West", category: "Action", genre: "Open World Action",
-    image: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=1200&q=80",
-    rating: 4.8, year: 2022, developer: "Guerrilla Games", publisher: "Sony Interactive",
-    price: "$59.99", salePrice: "",
-    description: "Horizon Forbidden West follows Aloy as she journeys west to explore a stunning post-apocalyptic world filled with new machines, tribes, and a mysterious plague.",
+    id: 38, title: "Forza Horizon 5", category: "Racing", genre: "Open World Racing",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzbwnfxp87l8cBxWTpC29C7sBW8svmSYtsX93MP7no9w&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREQ08mj26NSh9ypY8xZP3hOnf9VyI93VcVD0-ANe0dkQ&s=10",
+    rating: 4.8, year: 2021, developer: "Playground Games", publisher: "Xbox Game Studios",
+    description: "Forza Horizon 5 is an open-world racing game set in Mexico. Players explore a huge map featuring deserts, jungles, cities, beaches, and volcanoes while driving hundreds of licensed cars. The game offers races, challenges, stunts, customization, and online multiplayer.",
     screenshots: [
-      "https://images.unsplash.com/photo-1551103782-8ab07afd45c1?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIEcNHyPuIibj2CYDr8wzo6PhncGqTyBE2XgzflYYecWqIaLY6pzP_0N4&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdz0rxAKTqiBqyey68pbGJVTzE_rC-IjZiQXZh7-BBww&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS55zPJ3J9rfysWaO_rdBp2z1iDLsHGmqxDo9dzy5jHw&s=10"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-8600", ram: "16 GB", gpu: "NVIDIA GeForce GTX 1060", storage: "100 GB" },
-    link: "https://www.playstation.com/games/horizon-forbidden-west",
+    requirements: { os: "Windows 10 / 11 64-bit", cpu: "Intel Core i5-8600", ram: "16 GB", gpu: "NVIDIA GTX 970", storage: "110 GB" },
+    link: "#",
     featured: true, trending: false, popular: true
   },
   {
-    id: 39, title: "Final Fantasy VII Rebirth", category: "RPG", genre: "JRPG",
-    image: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=1200&q=80",
-    rating: 4.8, year: 2024, developer: "Square Enix", publisher: "Square Enix",
-    price: "$69.99", salePrice: "",
-    description: "Final Fantasy VII Rebirth continues Cloud and friends' journey beyond Midgar into a vibrant world with expanded story, real-time combat, and unforgettable moments.",
+    id: 39, title: "Call Of Duty Black Ops", category: "Action", genre: "irst-Person Shooter (FPS), Military Shooter",
+    image: "https://store-images.s-microsoft.com/image/apps.9168.71037132718083264.9e558f9c-31e4-4757-b43c-05a53e0c4977.2cabd63d-49ce-4a77-af56-0a1d6a33f61b?q=90&w=480&h=270",
+    banner: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42700/capsule_616x353.jpg?t=1780962720",
+    rating: 4.8, year: 2010, developer: "Treyarch", publisher: "Activision",
+    description: "Call of Duty: Black Ops is a Cold War-era FPS where you play as Alex Mason, a CIA operative. The game follows secret military operations across locations such as Cuba, Vietnam, and the Soviet Union as Mason tries to uncover the meaning behind mysterious numbers broadcasts and stop a dangerous Soviet plot.",
     screenshots: [
-      "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=800&q=80",
-      "https://images.unsplash.com/photo-1552820728-8b83bb6b2d1f?w=800&q=80",
-      "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5geQscaiZy5AfG6SEJO_gtXeZ0EjJD5K-fpcO_BLEVMKm5Hq8ylAybiT&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzg402j4Hgd6t57xsfmWsWo_T9XjT8D4NMwzbHEEGBdU2_lVm4qgh6qsGa&s=10",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42700/ss_02f61572344252870b28b6ca0fd990c80a82dd0b.1920x1080.jpg?t=1780962720"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-8400", ram: "16 GB", gpu: "NVIDIA GeForce RTX 2060", storage: "150 GB" },
-    link: "https://finalfantasyviirebirth.square-enix-games.com",
+    requirements: { os: "Windows XP / Vista / 7 / 10 64-bit", cpu: "ntel Core 2 Duo E6600", ram: "4 GB", gpu: "NVIDIA GeForce 8600 GT", storage: "12 GB" },
+    link: "#",
     featured: true, trending: true, popular: false
   },
   {
-    id: 40, title: "Homeworld 3", category: "Strategy", genre: "RTS",
-    image: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=600&q=80",
-    banner: "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=1200&q=80",
-    rating: 4.1, year: 2024, developer: "Blackbird Interactive", publisher: "Gearbox",
-    price: "$59.99", salePrice: "",
-    description: "Homeworld 3 returns to the iconic space RTS franchise with fully 3D tactical combat, a gripping story, and massive capital ships clashing in epic space battles.",
+    id: 40, title: "Sniper Elite 4 Deluxe Edition", category: "Action / Tactical Shooter", genre: "Third-Person Shooter, Stealth, Tactical, World War II",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJFBv8pNn-jP00czFeTCQdgnY7meqmz9sTxSxyqz8E6-Z5aV3-6US5ti0&s=10",
+    banner: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/312660/header.jpg?t=1681207252",
+    rating: 4.1, year: 2017, developer: "Rebellion", publisher: "Rebellion",
+    description: "Sniper Elite 4 Deluxe Edition is a World War II tactical stealth shooter where you play as Karl Fairburne, an elite Allied sniper fighting Nazi forces in Italy. The game focuses on long-range sniping, stealth, sabotage, and completing missions in large open maps. The Deluxe Edition includes the base game plus extra missions, weapons, and DLC content. It is especially known for its realistic sniping mechanics and the famous X-Ray Kill Camera. 🎯🎮",
     screenshots: [
-      "https://images.unsplash.com/photo-1538481199705-c710c4e965fc?w=800&q=80",
-      "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=800&q=80",
-      "https://images.unsplash.com/photo-1493711662062-fa541adb3fc8?w=800&q=80"
+      "https://images.g2a.com/470x276/1x1x0/sniper-elite-4-deluxe-edition-pc-steam-key-global-i10000033709006/5912ae5dae653a480a44adfd",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0O8D-m3O7R8Ny5SisSKESFEj9AwtJZ68swcOO2OYXoq0T_wq96tj1LAQl&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2AdHjHndNv-uu3alIHGowrTbzcwWTH78y3Sw2J5rOIOb08ee0abJWFg&s=10"
     ],
-    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "12 GB", gpu: "NVIDIA GeForce GTX 1060", storage: "60 GB" },
+    requirements: { os: "Windows 10 64-bit", cpu: "ntel Core i3-2100 or AMD equivalent", ram: "6 GB", gpu: "NVIDIA GTX 970 (4 GB) or", storage: "40 GB" },
     link: "https://homeworlduniverse.com",
     featured: false, trending: false, popular: false
   },
@@ -615,7 +612,6 @@ const gamesDB = [
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxPYBnvesP9QnjR9jreyXNUlX-2lIVVSCsgIIEkd9NmQ&s=10",
     banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD2u4jOAfP5JalXhRWb0Zl9bqP5VH6_YHobl-ihEGvIg&s=10",
     rating: 4.7, year: 2020, developer: "id Software", publisher: "Bethesda",
-    price: "$59.99", salePrice: "$19.99",
     description: "Doom Eternal pushes the boundaries of FPS with faster combat, acrobatic movement, and razor-sharp gameplay as you fight demon hordes across dimensions.",
     screenshots: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqk1GMkt13bDcgeJO05t1ZkhCm7dXaJi9pkIw3J2t87Q&s=10",
@@ -676,7 +672,6 @@ const gamesDB = [
     image: "https://image.api.playstation.com/vulcan/ap/rnd/202008/2111/kZuu7RcHultdoVUuGsReuGcq.png",
     banner: "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/Control_game_cover_art.jpg/250px-Control_game_cover_art.jpg",
     rating: 4.5, year: 2019, developer: "Remedy Entertainment", publisher: "505 Games",
-    price: "$39.99", salePrice: "$14.99",
     description: "Control is a supernatural third-person action-adventure where the Federal Bureau of Control is invaded by a paranormal threat, and you wield powerful abilities to stop it.",
     screenshots: [
       "https://i0.wp.com/gamingrespawn.com/wp-content/uploads/2019/08/092_combat_2-1300x731.jpg?ssl=1",
@@ -692,7 +687,6 @@ const gamesDB = [
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT_V7SuQVq6TKV6GpDdIDy1BWKotSKAYLmqBo_PUQX--g&s=10",
     banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5S97WAf7IDwnl7QTn116LI2YeOgOb2rYqvOmT9NSJlQ&s",
     rating: 4.1, year: 2020, developer: "Mediatonic", publisher: "Epic Games",
-    price: "Free", salePrice: "",
     description: "Fall Guys is a free-to-play massively multiplayer party royale game where colorful contestants compete through rounds of chaotic obstacle courses and games.",
     screenshots: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_OohUgtz2efh2OJ6OHoadDMu9EZ2oexEdA7p5EWxBLQ&s=10",
