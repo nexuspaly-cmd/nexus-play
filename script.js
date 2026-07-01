@@ -284,7 +284,7 @@ function initAllGames() {
   renderAllGames('all');
 }
 
-  const GAMES_PER_PAGE = 48;
+  const GAMES_PER_PAGE = 35;
 let currentPage = 1;
   
 function renderAllGames(genre = 'all') {
