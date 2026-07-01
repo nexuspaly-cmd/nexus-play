@@ -284,17 +284,85 @@ function initAllGames() {
   renderAllGames('all');
 }
 
-function renderAllGames(genre) {
-  const grid = document.getElementById('allGamesGrid');
-  if (!grid) return;
-  const filtered = genre === 'all' ? gamesDB : gamesDB.filter(g => g.category === genre);
-  grid.innerHTML = filtered.length
-    ? filtered.map(createGameCard).join('')
-    : '<div style="text-align:center;padding:60px 0;color:var(--text-muted)"><i class="fas fa-gamepad" style="font-size:3rem;margin-bottom:16px;display:block"></i><h3>No games found</h3><p>Try a different genre.</p></div>';
-  attachCardClick(grid);
-  observeFadeElements();
+  const GAMES_PER_PAGE = 48;
+let currentPage = 1;
+  
+function renderAllGames(genre = 'all') {
+    const grid = document.getElementById('allGamesGrid');
+    const pagination = document.getElementById('pagination');
+
+    if (!grid) return;
+
+    const filtered = genre === 'all'
+        ? gamesDB
+        : gamesDB.filter(g => g.category === genre);
+
+    const totalPages = Math.ceil(filtered.length / GAMES_PER_PAGE);
+
+    if (currentPage > totalPages) currentPage = 1;
+
+    const start = (currentPage - 1) * GAMES_PER_PAGE;
+    const end = start + GAMES_PER_PAGE;
+
+    const games = filtered.slice(start, end);
+
+    if (games.length) {
+        grid.innerHTML = games.map(createGameCard).join('');
+    } else {
+        grid.innerHTML = `
+            <div style="text-align:center;padding:60px 0;color:var(--text-muted)">
+                <i class="fas fa-gamepad" style="font-size:3rem;margin-bottom:16px;display:block"></i>
+                <h3>No games found</h3>
+                <p>Try a different genre.</p>
+            </div>
+        `;
+    }
+
+    attachCardClick(grid);
+    observeFadeElements();
+
+    if (pagination) {
+        let html = "";
+
+        if (currentPage > 1) {
+            html += `<button onclick="changePage(${currentPage - 1})">Previous</button>`;
+        }
+
+        for (let i = 1; i <= totalPages; i++) {
+            html += `<button class="${i === currentPage ? 'active' : ''}" onclick="changePage(${i})">${i}</button>`;
+        }
+
+        if (currentPage < totalPages) {
+            html += `<button onclick="changePage(${currentPage + 1})">Next</button>`;
+        }
+
+        pagination.innerHTML = html;
+    }
+  function changePage(page) {
+    currentPage = page;
+
+    const genre = document.getElementById("genreFilter").value;
+
+    renderAllGames(genre);
+
+    document.getElementById("all-games").scrollIntoView({
+        behavior: "smooth"
+    });
+}
+}
+  function changePage(page) {
+    currentPage = page;
+
+    const genre = document.getElementById("genreFilter").value;
+
+    renderAllGames(genre);
+
+    document.getElementById("all-games").scrollIntoView({
+        behavior: "smooth"
+    });
 }
 
+  
 function initGameModal() {
   const overlay = document.getElementById('gameModalOverlay');
   const modal = document.getElementById('gameModal');
