@@ -7,6 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
   initTrendingCarousel();
   initCategories();
   initAllGames();
+  initHeroSearch();
   initGameModal();
   initScrollAnimations();
   initSmoothScroll();
@@ -161,6 +162,34 @@ function performSearch() {
   });
 }
 
+function initHeroSearch() {
+  const search = document.getElementById('gameSearch');
+  if (!search) return;
+  const grid = document.getElementById('allGamesGrid');
+
+  search.addEventListener('input', () => {
+    const query = search.value.trim().toLowerCase();
+    if (!query) {
+      renderAllGames(document.getElementById('genreFilter').value);
+      return;
+    }
+    const filtered = gamesDB.filter(game =>
+      game.title.toLowerCase().includes(query) ||
+      game.category.toLowerCase().includes(query) ||
+      game.genre.toLowerCase().includes(query)
+    );
+    if (!grid) return;
+    const pagination = document.getElementById('pagination');
+    if (pagination) pagination.innerHTML = '';
+    if (filtered.length === 0) {
+      grid.innerHTML = '<div style="text-align:center;padding:60px 0;color:var(--text-muted)"><i class="fas fa-search-minus" style="font-size:3rem;margin-bottom:16px;display:block"></i><h3>No games found</h3><p>Try a different search term.</p></div>';
+      return;
+    }
+    grid.innerHTML = filtered.map(createGameCard).join('');
+    attachCardClick(grid);
+  });
+}
+
 function highlightText(text, query) {
   if (!query) return text;
   const regex = new RegExp(`(${query.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')})`, 'gi');
@@ -191,7 +220,7 @@ function createGameCard(game) {
         <img src="${game.image}" alt="${game.title}" loading="lazy">
         <div class="game-overlay">
           <button class="btn btn-primary btn-sm quick-view" data-id="${game.id}">
-            <i class="fas fa-eye"></i> Quick View
+            <i class="fas fa-play"></i> Play Now
           </button>
         </div>
         ${game.salePrice ? '<div class="game-badge">Sale</div>' : ''}
@@ -203,9 +232,12 @@ function createGameCard(game) {
           <span class="game-rating">${ratingStars} ${game.rating}</span>
           <span>&middot; ${game.year}</span>
         </div>
-        <div class="game-price">${priceHtml}</div>
-      </div>
+      <div class="game-price">${priceHtml}</div>
+      <button class="btn btn-primary btn-sm btn-play" data-id="${game.id}">
+        <i class="fas fa-play"></i> Play
+      </button>
     </div>
+  </div>
   `;
 }
 
@@ -284,74 +316,53 @@ function initAllGames() {
   renderAllGames('all');
 }
 
-  const GAMES_PER_PAGE = 35;
-let currentPage = 1;
-  
-function renderAllGames(genre = 'all') {
-    const grid = document.getElementById('allGamesGrid');
-    const pagination = document.getElementById('pagination');
-
-    if (!grid) return;
-
-    const filtered = genre === 'all'
-        ? gamesDB
-        : gamesDB.filter(g => g.category === genre);
-
-    const totalPages = Math.ceil(filtered.length / GAMES_PER_PAGE);
-
-    if (currentPage > totalPages) currentPage = 1;
-
-    const start = (currentPage - 1) * GAMES_PER_PAGE;
-    const end = start + GAMES_PER_PAGE;
-
-    const games = filtered.slice(start, end);
-
-    if (games.length) {
-        grid.innerHTML = games.map(createGameCard).join('');
-    } else {
-        grid.innerHTML = `
-            <div style="text-align:center;padding:60px 0;color:var(--text-muted)">
-                <i class="fas fa-gamepad" style="font-size:3rem;margin-bottom:16px;display:block"></i>
-                <h3>No games found</h3>
-                <p>Try a different genre.</p>
-            </div>
-        `;
-    }
-
+function renderAllGames(genre, page = 1) {
+  const grid = document.getElementById('allGamesGrid');
+  const pagination = document.getElementById('pagination');
+  if (!grid) return;
+  const filtered = genre === 'all' ? gamesDB : gamesDB.filter(g => g.category === genre);
+  if (filtered.length === 0) {
+    grid.innerHTML = '<div style="text-align:center;padding:60px 0;color:var(--text-muted)"><i class="fas fa-gamepad" style="font-size:3rem;margin-bottom:16px;display:block"></i><h3>No games found</h3><p>Try a different genre.</p></div>';
+    if (pagination) pagination.innerHTML = '';
     attachCardClick(grid);
     observeFadeElements();
-
-    if (pagination) {
-        let html = "";
-
-        if (currentPage > 1) {
-            html += `<button onclick="changePage(${currentPage - 1})">Previous</button>`;
-        }
-
-        for (let i = 1; i <= totalPages; i++) {
-            html += `<button class="${i === currentPage ? 'active' : ''}" onclick="changePage(${i})">${i}</button>`;
-        }
-
-        if (currentPage < totalPages) {
-            html += `<button onclick="changePage(${currentPage + 1})">Next</button>`;
-        }
-
-        pagination.innerHTML = html;
-    }
+    return;
+  }
+  const perPage = 30;
+  const totalPages = Math.ceil(filtered.length / perPage);
+  const currentPage = Math.min(page, totalPages);
+  const start = (currentPage - 1) * perPage;
+  const pageItems = filtered.slice(start, start + perPage);
+  grid.innerHTML = pageItems.map(createGameCard).join('');
+  attachCardClick(grid);
+  observeFadeElements();
+  renderPagination(totalPages, currentPage, genre);
 }
-  function changePage(page) {
-    currentPage = page;
 
-    const genre = document.getElementById("genreFilter").value;
-
-    renderAllGames(genre);
-
-    document.getElementById("all-games").scrollIntoView({
-        behavior: "smooth"
+function renderPagination(totalPages, currentPage, genre) {
+  const pagination = document.getElementById('pagination');
+  if (!pagination) return;
+  if (totalPages <= 1) { pagination.innerHTML = ''; return; }
+  let html = '';
+  if (currentPage > 1) {
+    html += `<a href="#" data-page="${currentPage - 1}" data-genre="${genre}"><i class="fas fa-chevron-left"></i> Previous</a>`;
+  }
+  for (let i = 1; i <= totalPages; i++) {
+    html += `<a href="#" data-page="${i}" data-genre="${genre}"${i === currentPage ? ' class="active"' : ''}>${i}</a>`;
+  }
+  if (currentPage < totalPages) {
+    html += `<a href="#" data-page="${currentPage + 1}" data-genre="${genre}">Next <i class="fas fa-chevron-right"></i></a>`;
+  }
+  pagination.innerHTML = html;
+  pagination.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', (e) => {
+      e.preventDefault();
+      renderAllGames(link.dataset.genre, parseInt(link.dataset.page));
+      document.getElementById('all-games').scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
+  });
 }
 
-  
 function initGameModal() {
   const overlay = document.getElementById('gameModalOverlay');
   const modal = document.getElementById('gameModal');
@@ -481,7 +492,7 @@ function openGameModal(id) {
     </div>
   `;
 
-  modalContent.querySelectorAll('.quick-view, .game-card').forEach(el => {
+  modalContent.querySelectorAll('.quick-view, .game-card, .btn-play').forEach(el => {
     el.addEventListener('click', (e) => {
       const card = el.closest('.game-card') || el;
       const nid = parseInt(card.dataset.id);
