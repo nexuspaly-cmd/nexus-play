@@ -166,14 +166,14 @@ const gamesDB = [
   },
   {
     id: 12, title: "FIFA 23", category: "Sports", genre: "Sports Simulation",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILtycojJSEwx1bdbLZyzeL0mYpuikobE6eg&s",
-    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbRicDk2uWMyZug9sZcpEkav1q8rFiXdFow&s",
+    image: "https://images.g2a.com/323x433/1x1x1/fifa-23-p10000336532/1e40646e865b43679642c6a0",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzdN13rt666xYJrHOym1G25HQhSpsQNo1feqWefadngPBJoUu7U-gbGRQC&s=10",
     rating: 4.0, year: 2021, developer: "EA Vancouver", publisher: "EA Sports",
     description: "EA Sports FC 21 offers the most authentic football experience with HyperMotionV technology, Opta data, and thousands of real players, teams, and leagues.",
     screenshots: [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRty1VUVbdc3NEJ-Zdpl8bWcaBEJ3mwyPufdQ&s",
+      "https://i.ytimg.com/vi/uaXNIwR1FBs/maxresdefault.jpg",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8S6bljuAjavVObT2SRfrVM_gkXH_0BPTO6Q&s",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDOPk_Gw37GDdLq8JobfoWZ7ODymI5TxmkTg&s"
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMhOXlo-yNhWScPS9WHJzS1xeGx4kVCW4VdTRP1f36eKF_CCWiKzRnKw&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GTX 1050 Ti", storage: "56 GB" },
     link: "#",
