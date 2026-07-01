@@ -338,17 +338,6 @@ function renderAllGames(genre = 'all') {
 
         pagination.innerHTML = html;
     }
-  function changePage(page) {
-    currentPage = page;
-
-    const genre = document.getElementById("genreFilter").value;
-
-    renderAllGames(genre);
-
-    document.getElementById("all-games").scrollIntoView({
-        behavior: "smooth"
-    });
-}
 }
   function changePage(page) {
     currentPage = page;
