@@ -165,7 +165,7 @@ const gamesDB = [
     featured: true, trending: false, popular: true
   },
   {
-    id: 12, title: "FIFA 21", category: "Sports", genre: "Sports Simulation",
+    id: 12, title: "FIFA 23", category: "Sports", genre: "Sports Simulation",
     image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILtycojJSEwx1bdbLZyzeL0mYpuikobE6eg&s",
     banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFbRicDk2uWMyZug9sZcpEkav1q8rFiXdFow&s",
     rating: 4.0, year: 2021, developer: "EA Vancouver", publisher: "EA Sports",
