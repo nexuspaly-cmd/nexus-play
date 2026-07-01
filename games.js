@@ -11,7 +11,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKnbOk3JG-xBoV8XbdrRGfrxIh_TTFEIkXbA&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2400S", ram: "6 GB", gpu: "NVIDIA GeForce GTX 660 with 2 GB VRAMD ", storage: "50 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/lykop8ba87i6yjnjjevre/watch-dogs-2.torrent?rlkey=u2a92u4nrmg87868jbt597qlf&st=my9pbrxy&dl=1",
     featured: true, trending: true, popular: true
   },
   {
