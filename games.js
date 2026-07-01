@@ -718,7 +718,24 @@ const gamesDB = [
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-3470", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1050", storage: "80 GB" },
     link: "https://www.kojimaproductions.jp/en/death-stranding",
     featured: false, trending: false, popular: false
+  },
+    {
+    id: 1e4 + 8, title: "Call of Duty: Advanced Warfare", category: "Action", genre: "irst-Person Shooter (FPS), Military Shooter",
+    image: "https://upload.wikimedia.org/wikipedia/en/3/3b/Advanced_Warfare.jpg",
+    banner: "https://cdn.europosters.eu/image/750/22748.jpg",
+    rating: 4.8, year: 2010, developer: "Treyarch", publisher: "Activision",
+    description: "Call of Duty: Black Ops is a Cold War-era FPS where you play as Alex Mason, a CIA operative. The game follows secret military operations across locations such as Cuba, Vietnam, and the Soviet Union as Mason tries to uncover the meaning behind mysterious numbers broadcasts and stop a dangerous Soviet plot.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB5geQscaiZy5AfG6SEJO_gtXeZ0EjJD5K-fpcO_BLEVMKm5Hq8ylAybiT&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSzg402j4Hgd6t57xsfmWsWo_T9XjT8D4NMwzbHEEGBdU2_lVm4qgh6qsGa&s=10",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42700/ss_02f61572344252870b28b6ca0fd990c80a82dd0b.1920x1080.jpg?t=1780962720"
+    ],
+    requirements: { os: "Windows XP / Vista / 7 / 10 64-bit", cpu: "ntel Core 2 Duo E6600", ram: "4 GB", gpu: "NVIDIA GeForce 8600 GT", storage: "12 GB" },
+    link: "#",
+    featured: true, trending: true, popular: false
   }
+  
+  
 ];
 
 const categories = [
