@@ -26,7 +26,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV_qtkMmcfPCQU8LRu9EyVxffLPvgnibRrLw&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5 3470", ram: "8 GB", gpu: "NVIDIA GTX 660 2GB", storage: "110 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/08n4rwlapzlct1zubdzrc/Grand-Theft-Auto-V.torrent?rlkey=xbq25ey6yj14txjv6adfax24w&st=je2ip2w2&dl=1",
     featured: true, trending: true, popular: true
   },
   {
@@ -41,7 +41,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-SNstq27BYamAOsIfUaNdVNeuZSiPp-qHIw&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-8400", ram: "12 GB", gpu: "NVIDIA GeForce GTX 1060 3GB", storage: "60 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/unh2vxiq4twr7wpdogjdq/Elden-Ring.torrent?rlkey=ghdorupckwzfexzefslc8uja3&st=9qfwgwra&dl=1",
     featured: true, trending: true, popular: true
   },
   {
@@ -56,7 +56,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTv3OgaN9inUmfMmdMIHNUeUkfkVYi-qF5xlg&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i7-4770K", ram: "12 GB", gpu: "NVIDIA GTX 1060 6GB", storage: "150 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/ityi9blktwy10g7vzkgxr/Red-Dead-Redemption-2.torrent?rlkey=nskqhnhyaws0sg1kv5o4bcl2g&st=6dthqncs&dl=1",
     featured: true, trending: true, popular: true
   },
   {
@@ -71,7 +71,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTaxLlcZO--7EGSoko9peKkid8DPOKevSvvVg&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2500K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 770", storage: "50 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/962nxnrc6toxxqt2ezo9r/The-Witcher-3-Wild-Hunt.torrent?rlkey=qr59n03izmvkv0836wqj28oaj&st=wwzjf25s&dl=1",
     featured: true, trending: true, popular: true
   },
   {
@@ -86,7 +86,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9_6ritVj-i-O7KH4wCkoePYZf8N1TTDh93Q&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4670K", ram: "16 GB", gpu: "NVIDIA GTX 1060 6GB", storage: "70 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/is0iz3utrpdtkqeioxpzp/God-of-War-Ragnarok.torrent?rlkey=wplccp69z97cls8pw5toso8o5&st=ry7qw9aj&dl=1",
     featured: true, trending: true, popular: true
   },
   {
@@ -146,7 +146,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz4SJCTy5EADo6EY0jHuM2Bl62SP86zIVfBQ&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4690", ram: "8 GB", gpu: "Intel HD Graphics 4000", storage: "1 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/hben3qp7r2fybs9vs0d83/Minecraft.torrent?rlkey=18rxzd2bqexos9rw25inkk5hq&st=apda1hdz&dl=1",
     featured: false, trending: true, popular: true
   },
   {
@@ -161,7 +161,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyrfg_MnZluWrEhV4nlQHBy4Bd755GnAvVAA&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4670K", ram: "16 GB", gpu: "NVIDIA GTX 1060 6GB", storage: "75 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/me4rosxvb4gelomvnq3nw/Spider-Man-2.torrent?rlkey=50wg8xrdfpbyqqrsmmrehsmzq&st=1v6ci17q&dl=1",
     featured: true, trending: false, popular: true
   },
   {
@@ -176,7 +176,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjMhOXlo-yNhWScPS9WHJzS1xeGx4kVCW4VdTRP1f36eKF_CCWiKzRnKw&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GTX 1050 Ti", storage: "56 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/luee34430qeake9blp15b/FIFA-23.torrent?rlkey=n5d6fp5og2t23sjms25t866t8&st=yj8ig9rn&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -191,7 +191,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbTJvb281hJ0HCMlCzUZ4cbDsUN-2Xtyvug&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600", ram: "16 GB", gpu: "NVIDIA GeForce GTX 960", storage: "85 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/iw460b28iax76r2oach4d/Hogwarts-Legacy.torrent?rlkey=1wtv9ksbod8zjs0k1lmts5wfz&st=8jst6aq3&dl=1",
     featured: false, trending: true, popular: true
   },
   {
@@ -206,7 +206,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD96aJTv_MgGOU8t6hs1t_qwznqGaTrDbObg&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i7-6800K", ram: "16 GB", gpu: "NVIDIA GTX 1070 Ti", storage: "125 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/woyyzlxssr1wk9bw2mzdl/Starfield.torrent?rlkey=86p93dixxx81z622nhtkg37yz&st=uwvkggls&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -221,7 +221,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSR5nIRFdD5T0NyNQEgC_mXZx3JVnePLiEUlw&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-7500", ram: "16 GB", gpu: "NVIDIA GTX 1050 Ti", storage: "60 GB" },
-    link: "https://utweb.rainberrytv.com/gui/index.html?v=1.6.0.6414&localauth=localapi5d4dce622e5781cb:#/dashboard",
+    link: "https://www.dropbox.com/scl/fi/lvffuv1g02xjmzu3zpzju/Resident-Evil-4-Remake.torrent?rlkey=ibpk77bine30divg5nb3koba7&st=ulmvj3m3&dl=1",
     featured: false, trending: true, popular: true
   },
   {
@@ -251,7 +251,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPrJ7jJJv8iTepghhRxr7U2UXpVMhnjIowTg&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i7-4790K", ram: "8 GB", gpu: "NVIDIA GTX 1060", storage: "40 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/pkqf847aqhfvbz9xse043/Assassin-s-Creed-Mirage.torrent?rlkey=2imka7d2rw4jp4uzw8nf4sptm&st=dhn6lfgq&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -281,7 +281,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTgvNJjGmldMl63q9uaw0d-01vLwqto6GHgQ&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2500K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 660", storage: "45 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/4p04z75e247sdftqimqqt/Diablo-II.torrent?rlkey=tsn56qpx9yex9ilzbab0fsmjs&st=39kjo3og&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -296,7 +296,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJMMnttSpJPYmuTgAS4rGMHH_arW2qGfAxwmcpTqgBXg&s=10"
     ],
     requirements: { os: "Windows 11 / 10 / 8 / 7 64-bit", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "4 GB", gpu: "NVIDIA GeForce GTX 560", storage: "20 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/ufk9fomgn3a7c2jrkv3j3/Need-For-Speed-Most-Wanted-2012.torrent?rlkey=mv0pv9466egfbetnhalpl5qyg&st=3blly3gt&dl=0",
     featured: false, trending: false, popular: true
   },
   {
@@ -326,7 +326,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpW9LEbeQErHTUV0UKdVe0qVkCsnKMj9z8Yvd2kYfNrA&s"
     ],
     requirements: { os: "Windows 7 / Windows 8", cpu: "Intel Core i3-530 2.93 GHz or AMD Phenom II X2 565", ram: "4 GB", gpu: "NVIDIA GeForce GTX 480 or AMD Radeon HD 5770", storage: "15 GB" },
-    link: "https://www.pocketpair.jp/palworld",
+    link: "https://www.dropbox.com/scl/fi/nvse5pktk6hmn3xrgroc8/FAR-CRY-3-2.torrent?rlkey=4o2z5f5toy3motaxcc7qzud5y&st=j97ko48l&dl=1",
     featured: false, trending: true, popular: false
   },
   {
@@ -341,7 +341,7 @@ const gamesDB = [
       "https://cdn.nba.com/teams/legacy/www.nba.com/suns/sites/suns/files/nba2k090616_777.jpg"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4430", ram: "8 GB", gpu: "NVIDIA GTX 960 2GB", storage: "110 GB" },
-    link: "https://nba.2k.com",
+    link: "https://www.dropbox.com/scl/fi/0ltlau7wztaz1p6gwr8at/NBA-2K17.torrent?rlkey=gi38z51k9ot8mhrfdp0wfv3dj&st=e155c9lr&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -356,7 +356,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiNpGpFgUaUOlnXSdaHbpyDEPSN7kb6Q_Hmw&s"
     ],
     requirements: { os: "Nintendo Switch", cpu: "Nintendo Switch", ram: "Nintendo Switch", gpu: "Nintendo Switch", storage: "16 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/nyvposfvnkbs2by7swcg1/The-Legend-of-Zelda-breath-of-the-wild.torrent?rlkey=gco05sxuhib9zgxpkdz9yf4f3&st=16x5lhy2&dl=1",
     featured: true, trending: false, popular: true
   },
   {
@@ -371,7 +371,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7fUD5WOKpSpjTf8JqHf8VElE7sHI5jItdqzF1y9UGbg&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i7-8700", ram: "16 GB", gpu: "NVIDIA GeForce RTX 2070 Super", storage: "100 GB SSD" },
-    link: "https://www.streetfighter.com",
+    link: "https://www.dropbox.com/scl/fi/9lkafebdvpa9ixekk1lo0/The-Last-of-Us-Part-1.torrent?rlkey=19s4ukx3nrhgyo6z204zuxtrm&st=zi0zn0e6&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -386,7 +386,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg1Jjy4o6QPJmp2ZIbLFdyubeyTUEGM0uxZg&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-8400", ram: "12 GB", gpu: "NVIDIA GeForce GTX 1060", storage: "40 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/pdfidie9d7j2hvuwvyea6/Sons-of-the-Forest.torrent?rlkey=vjxoyeip31x68edfbq741ko95&st=3y49dnu2&dl=0",
     featured: false, trending: true, popular: false
   },
   {
@@ -401,7 +401,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuccCe5-cFoeWrGN3n50HbQlUChoUDHU-1CA&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i7-6700K", ram: "16 GB", gpu: "NVIDIA GeForce GTX 970", storage: "60 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/y4oqvld6ld9rhu2wqg3e9/Cities-Skylines-II.torrent?rlkey=vu9e15xxfnupeg2oi2qpynngn&st=hgfofr5o&dl=1",
     featured: false, trending: false, popular: false
   },
   {
@@ -416,7 +416,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCCIZOhkKCwArX8-afcwkJLdniJEbWGGCRpQ&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-7600K", ram: "16 GB", gpu: "NVIDIA GeForce RTX 2060", storage: "50 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/nl3vih0zd5quvmkt2vfcx/Alan-Wake-2.torrent?rlkey=fxcjz3gw65h4v8yn7a31s75zj&st=4vrh7cd0&dl=1",
     featured: true, trending: false, popular: false
   },
   {
@@ -446,7 +446,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbfH06H-1ocPMvTlylLfAm28br3bEZJ_OyknnjnXQ17A&s=10"
     ],
     requirements: { os: "Windows 11 / 10 / 8 / 7 64-bit", cpu: "Intel Core i5", ram: "8 GB", gpu: "NVIDIA GeForce GTX 760", storage: "40 GB" },
-    link: "https://www.ea.com/games/dead-space",
+    link: "https://www.dropbox.com/scl/fi/hyed7ycj8wgnmgzmkq4p2/Call-of-Duty-Ghosts.torrent?rlkey=92li327iym6j6r6ujnyckdq17&st=teuwdgpr&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -461,7 +461,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTd1Li59Tw_MpjZilYjFYVKCt2OgMYU2E6c2-Pjz-n3Jw&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "ntel Core i7-4770K", ram: "16 GB", gpu: "NVIDIA GTX 1060 (6 GB)", storage: "100 GB ssd" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/zawqz6u7duehusk8dclag/Horizon-Zero-Dawn-Repack.torrent?rlkey=e48nlger7rc1j0e9ckerj7wnl&st=zad2ad04&dl=1",
     featured: false, trending: true, popular: false
   },
   {
@@ -476,7 +476,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1VxI5DShJDjyGDpIOZo2IrH3_ZxHJAitpbmO4FUKxeQ&s=10"
     ],
     requirements: { os: "Windows 10 / 11 64-bit", cpu: "Intel Core i7-4790", ram: "8 GB", gpu: "NVIDIA GTX 760", storage: "40 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/j7yitr1ufsjo60266sfdb/eFootball-PES-2021.torrent?rlkey=wa1a4fx4cg2fzieydb8mpty9u&st=nht2t7w8&dl=1",
     featured: false, trending: false, popular: false
   },
   {
@@ -491,7 +491,7 @@ const gamesDB = [
       "https://www.gematsu.com/wp-content/uploads/2014/06/MKX-Gameplay-PS-Blog-Stream.jpg"
     ],
     requirements: { os: "Windows 11 / 10 / 8 / 7 64-bit", cpu: "Intel Core i5-750", ram: "4 GB", gpu: "NVIDIA GeForce GTX 460", storage: "40 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/qnk23y7tysdeiiawedacs/Mortal-Kombat-X.torrent?rlkey=dyk13jhf8g67di5xwvpus039q&st=a3kbtz84&dl=1",
     featured: false, trending: true, popular: false
   },
   {
@@ -506,7 +506,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDtCGhvLapxlQvY_Yf3ul74mv6pfp2-mcgnp3oLNO6qQ&s=10"
     ],
     requirements: { os: "Windows 11 / 10 64-bit", cpu: "Intel Core i7-12700", ram: "16 GB", gpu: "NVIDIA RTX 2060 Super", storage: "70 GB SSD" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/9x5ikdvg7uit0usgr4fhx/2077-Cyberpunk.torrent?rlkey=u17dgk9r7yhuo31poz44a8em0&st=lwd4wzgv&dl=1",
     featured: false, trending: true, popular: false
   },
   {
@@ -521,7 +521,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXFN6dwkgVlNFECcwajNfEijm0kJHYqoIQLaGM2U5Rvw&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1060", storage: "80 GB" },
-    link: "https://tekken.com",
+    link: "https://www.dropbox.com/scl/fi/zrldjrv8k57mn55qivt6i/Tekken-8.torrent?rlkey=3hi76yww0n5x1w09cm5o7fvk7&st=ca9yllyf&dl=1",
     featured: false, trending: true, popular: false
   },
   {
@@ -536,7 +536,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLIJrDR0_QpHdemK17NdRCTkRNFlWiJvs8GMaF_BAaOw&s"
     ],
     requirements: { os: "Windows 11 7 10 64-bit", cpu: "Intel Core i5-6600K", ram: "16 GB", gpu: "NVIDIA GTX 760 2GB", storage: "45 GB SSD" },
-    link: "https://www.ubisoft.com/en-us/game/prince-of-persia/the-lost-crown",
+    link: "https://www.dropbox.com/scl/fi/enhdagf873jqz4kmqect2/GTA-Vice-City-Definitive-Edition.torrent?rlkey=yrvnhot56cutnz7uvravk3mdm&st=fdo7nx51&dl=1",
     featured: false, trending: false, popular: false
   },
   {
@@ -566,7 +566,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS55zPJ3J9rfysWaO_rdBp2z1iDLsHGmqxDo9dzy5jHw&s=10"
     ],
     requirements: { os: "Windows 10 / 11 64-bit", cpu: "Intel Core i5-8600", ram: "16 GB", gpu: "NVIDIA GTX 970", storage: "110 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/nvtef6yi5ox582gke3k7t/Forza-Horizon-5.torrent?rlkey=zgb4ml3j04hjz055ciw3a1wgg&st=nsydj7qh&dl=1",
     featured: true, trending: false, popular: true
   },
   {
@@ -581,7 +581,7 @@ const gamesDB = [
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42700/ss_02f61572344252870b28b6ca0fd990c80a82dd0b.1920x1080.jpg?t=1780962720"
     ],
     requirements: { os: "Windows XP / Vista / 7 / 10 64-bit", cpu: "ntel Core 2 Duo E6600", ram: "4 GB", gpu: "NVIDIA GeForce 8600 GT", storage: "12 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/l5pryk2kpca72zbsfvdyo/CALL-OF-DUTY-OPS-1.torrent?rlkey=43thl2puuu3xg7ce0t96zttoq&st=7732uteh&dl=1",
     featured: true, trending: true, popular: false
   },
   {
@@ -596,7 +596,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz2AdHjHndNv-uu3alIHGowrTbzcwWTH78y3Sw2J5rOIOb08ee0abJWFg&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "ntel Core i3-2100 or AMD equivalent", ram: "6 GB", gpu: "NVIDIA GTX 970 (4 GB) or", storage: "40 GB" },
-    link: "https://homeworlduniverse.com",
+    link: "https://www.dropbox.com/scl/fi/p7prujcthln0i5zmpajg1/Sniper-Elite-4-Deluxe-Edition.torrent?rlkey=wwnko2w2yl2zfbi8kmldwzran&st=dhzzd8yr&dl=1",
     featured: false, trending: false, popular: false
   },
   {
@@ -611,7 +611,7 @@ const gamesDB = [
       "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19811900/doom_eternal_5.jpg"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GTX 1060", storage: "45 GB" },
-    link: "https://bethesda.net/en/game/doom-eternal",
+    link: "https://www.dropbox.com/scl/fi/5axczloob9r0mxkgyedil/Doom-Eternal.torrent?rlkey=dsqnm3bteetpj39dxc2ld4u19&st=0gjg2cxs&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -626,7 +626,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSC0SB5-AXpg1pFWWnbmx_2NDSTtd2csnZ4RDtih4vUg&s"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core 2 Duo", ram: "4 GB", gpu: "Intel HD 3000", storage: "1 GB" },
-    link: "https://www.stardewvalley.net",
+    link: "https://www.dropbox.com/scl/fi/pp2d8r31ruco5bsvgzawx/Stardew-Valley.torrent?rlkey=y5jv39ajm485xw5ibc97tjbzk&st=eg1lh365&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -641,7 +641,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxqYxNem0oUyF6zR86AOP90L7cOaCKdF69sGja6z_kXA&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2500K", ram: "8 GB", gpu: "NVIDIA GTX 970", storage: "25 GB" },
-    link: "https://www.sekiro.com",
+    link: "https://www.dropbox.com/scl/fi/uef4w9aq8jr0j6e2iijb2/Sekiro-Shadows-Die-Twice.torrent?rlkey=ery0w3hbtk8b2ckio9tl8zu8d&st=h8bpdz33&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -656,7 +656,7 @@ const gamesDB = [
       "https://upload.wikimedia.org/wikipedia/en/thumb/2/28/Ghost_of_Tsushima_art_direction.jpg/330px-Ghost_of_Tsushima_art_direction.jpg"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4670K", ram: "8 GB", gpu: "NVIDIA GTX 1060", storage: "70 GB" },
-    link: "https://www.playstation.com/games/ghost-of-tsushima",
+    link: "https://www.dropbox.com/scl/fi/bsu1gbjm1fqztkp22m4me/Ghost-of-Tsushima.torrent?rlkey=69z0as4nufr6a9c4rac6xtvdw&st=8jygumyt&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -671,7 +671,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxB0zcBp_aRLtzqaUmhnZWMWXIc7XCS9v4ZW_PWLvPdBHa4jltMJeuvL8&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4690", ram: "8 GB", gpu: "NVIDIA GeForce GTX 780", storage: "40 GB" },
-    link: "https://www.controlgame.com",
+    link: "https://www.dropbox.com/scl/fi/b33p3axebx3jaql7zt75p/Control.torrent?rlkey=ng1cqqmd5e22ksf5oxjibcf02&st=sa0mm6ez&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -701,7 +701,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSki6s5IPs_Ar4MYTdH-EWfn_u2zkTjpTzkYmW3XLKwYA&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6300U", ram: "8 GB", gpu: "Intel HD 520", storage: "50 GB" },
-    link: "https://www.ageofempires.com/games/age-of-empires-iv",
+    link: "https://www.dropbox.com/scl/fi/z88nkwniesq4a2h53q5y5/Age-of-Empires-IV.torrent?rlkey=4cy80g9oxl01gb92d96704lvu&st=4b9gy8dm&dl=1",
     featured: false, trending: false, popular: true
   },
   {
@@ -716,7 +716,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTng0ixXd4bA3lqAQs-sjUwqsdCdw83EcUXrNT3IzSlEmbQdGASemnV4&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-3470", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1050", storage: "80 GB" },
-    link: "https://www.kojimaproductions.jp/en/death-stranding",
+    link: "https://www.dropbox.com/scl/fi/6f1is5xg8daml6uyca5qn/Death-Stranding.torrent?rlkey=gnan4tl55edysexecplpci69b&st=b5t3juim&dl=1",
     featured: false, trending: false, popular: false
   },
     {
@@ -733,7 +733,7 @@ const gamesDB = [
     requirements: { os: "Windows XP / Vista / 7 / 10 64-bit", cpu: "ntel Core 2 Duo E6600", ram: "4 GB", gpu: "NVIDIA GeForce 8600 GT", storage: "12 GB" },
     link: "#",
     featured: true, trending: true, popular: false
-  }
+  },
   
   
 ];
