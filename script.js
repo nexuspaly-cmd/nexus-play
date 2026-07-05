@@ -123,7 +123,6 @@ function performSearch() {
   const results = gamesDB.filter(game =>
     game.title.toLowerCase().includes(query) ||
     game.category.toLowerCase().includes(query) ||
-    game.genre.toLowerCase().includes(query) ||
     game.developer.toLowerCase().includes(query)
   );
 
@@ -175,8 +174,7 @@ function initHeroSearch() {
     }
     const filtered = gamesDB.filter(game =>
       game.title.toLowerCase().includes(query) ||
-      game.category.toLowerCase().includes(query) ||
-      game.genre.toLowerCase().includes(query)
+      game.category.toLowerCase().includes(query)
     );
     if (!grid) return;
     const pagination = document.getElementById('pagination');
@@ -187,6 +185,7 @@ function initHeroSearch() {
     }
     grid.innerHTML = filtered.map(createGameCard).join('');
     attachCardClick(grid);
+    observeFadeElements();
   });
 }
 
@@ -285,12 +284,16 @@ function initCarouselScroll(id) {
 function initCategories() {
   const grid = document.getElementById('categoriesGrid');
   if (!grid) return;
-  grid.innerHTML = categories.map(cat => {
-    const count = gamesDB.filter(g => g.category === cat.name).length;
+  const allCats = [...new Set(gamesDB.map(g => g.category))].sort();
+  const iconMap = {};
+  categories.forEach(c => { iconMap[c.name] = c.icon; });
+  grid.innerHTML = allCats.map(catName => {
+    const count = gamesDB.filter(g => g.category === catName).length;
+    const icon = iconMap[catName] || 'fa-gamepad';
     return `
-      <div class="category-card fade-up" data-category="${cat.name}">
-        <div class="category-icon"><i class="fas ${cat.icon}"></i></div>
-        <h3>${cat.name}</h3>
+      <div class="category-card fade-up" data-category="${catName}">
+        <div class="category-icon"><i class="fas ${icon}"></i></div>
+        <h3>${catName}</h3>
         <div class="category-count">${count} games</div>
       </div>
     `;
@@ -427,7 +430,6 @@ function openGameModal(id) {
             <span><i class="fas fa-star"></i> ${game.rating}</span>
             <span><i class="fas fa-calendar"></i> ${game.year}</span>
             <span><i class="fas fa-tag"></i> ${game.category}</span>
-            <span><i class="fas fa-code-branch"></i> ${game.genre}</span>
           </div>
         </div>
       </div>
@@ -456,10 +458,7 @@ function openGameModal(id) {
               <div class="detail-label">Category</div>
               <div class="detail-value">${game.category}</div>
             </div>
-            <div class="modal-detail-item">
-              <div class="detail-label">Genre</div>
-              <div class="detail-value">${game.genre}</div>
-            </div>
+
             <div class="modal-detail-item">
               <div class="detail-label">Rating</div>
               <div class="detail-value"><i class="fas fa-star" style="color:var(--warning)"></i> ${game.rating}/5</div>
