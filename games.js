@@ -734,6 +734,165 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: false
   },
+   {
+    id: 1e4 + 9, title: "Assassin's Creed Chronicles: China", category: "Action", genre: "Stealth Platformer",
+    image: "https://static.wikia.nocookie.net/assassinscreed/images/5/54/Assassin%27s_Creed_Chronicles_-_China.jpg/revision/latest?cb=20140922183751",
+    banner: "https://upload.wikimedia.org/wikipedia/en/8/8d/Assassin%27s_Creed_Chronicles_cover_art.jpg",
+    rating: 4.2, year: 2015, developer: "Climax Studios", publisher: "Ubisoft",
+    description: "Assassin's Creed Chronicles: China follows Shao Jun on a stealth-driven adventure through 16th-century China, combining parkour, silent assassinations, and beautiful 2.5D visuals.",
+    screenshots: [
+      "https://media.wired.com/photos/5909630fd8c8646f38eefa05/master/w_1600%2Cc_limit/ACC_CHINA_Kill.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9lqqhbaNGLZGSjW2oJJM_979gV4GdJemGOpVLvWXzKlbQEGTs2I1dnqFn&s=10",
+      "https://i.ytimg.com/vi/4qxEq2-qnB0/maxresdefault.jpg"
+    ],
+    requirements: { os: "Windows 7 SP1 64-bit", cpu: "Intel Core 2 Duo E8200", ram: "2 GB", gpu: "NVIDIA GeForce GTS 450", storage: "4 GB" },
+    link: "#",
+    featured: true, trending: true, popular: false
+},
+
+{
+    id: 1e4 + 10, title: "Need for Speed: Most Wanted (2005)", category: "Racing", genre: "Open World Racing",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/8/8e/Need_for_Speed_Most_Wanted_Box_Art.jpg/250px-Need_for_Speed_Most_Wanted_Box_Art.jpg",
+    banner: "https://i.ytimg.com/vi/DRR464LoKhI/sddefault.jpg",
+    rating: 4.9, year: 2005, developer: "EA Black Box", publisher: "Electronic Arts",
+    description: "Need for Speed: Most Wanted lets players race through Rockport City, outrun the police, customize cars, and climb the infamous Blacklist in one of the series' most iconic entries.",
+    screenshots: [
+      "https://m.media-amazon.com/images/M/MV5BMWI3YmY1OGEtYmEzMC00MDI0LWI3ZjYtZDQyZTA4ZTVhNGViXkEyXkFqcGc@._V1_.jpg",
+      "https://images.squarespace-cdn.com/content/v1/57825361440243db4a4b7830/1653541825175-65G81BWZRUSWNK2BP76T/nfsps-56a9c3973df78cf772aa56d5+%281%29.jpg?format=2500w",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCC5Yjvsi7IopPvo_rsdV6fuj0ciu0vJBhuV7fwqSqBjPnM-SW0nNgTzc&s=10"
+    ],
+    requirements: { os: "Windows XP", cpu: "Intel Pentium 4 1.4 GHz", ram: "256 MB", gpu: "GeForce3 64 MB", storage: "3 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+
+{
+    id: 1e4 + 11, title: "Need for Speed: Shift", category: "Racing", genre: "Simulation Racing",
+    image: "https://upload.wikimedia.org/wikipedia/en/0/00/Need_for_Speed_Shift.jpg",
+    banner: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/24870/header.jpg?t=1759355309",
+    rating: 4.4, year: 2009, developer: "Slightly Mad Studios", publisher: "Electronic Arts",
+    description: "Need for Speed: Shift delivers a realistic racing experience with authentic cars, detailed tracks, cockpit view, and immersive motorsport gameplay.",
+    screenshots: [
+      "https://i.ytimg.com/vi/2Lc9WRgXumA/sddefault.jpg",
+      "https://upload.wikimedia.org/wikipedia/en/thumb/8/84/Nfs-shift-promo.jpg/250px-Nfs-shift-promo.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauecBRkd_Xq3GGPPFBIhZCGr-uPaXK2BQL1eNW6fX37TqsFiikz_5toI&s=10"
+    ],
+    requirements: { os: "Windows XP/Vista", cpu: "Intel Core 2 Duo 1.6 GHz", ram: "1.5 GB", gpu: "GeForce 7800 GT", storage: "6 GB" },
+    link: "#",
+    featured: true, trending: true, popular: false
+},
+
+{
+    id: 1e4 + 12, title: "PAYDAY 2", category: "Action", genre: "Co-op FPS",
+    image: "https://upload.wikimedia.org/wikipedia/en/7/7b/Payday2cover.jpg",
+    banner: "https://gaming-cdn.com/images/products/223/orig/payday-2-pc-game-steam-cover.jpg?v=1720684121",
+    rating: 4.8, year: 2013, developer: "Overkill Software", publisher: "505 Games",
+    description: "PAYDAY 2 is a cooperative first-person shooter where players complete high-risk heists, earn cash, unlock skills, and customize weapons with friends.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcnMnu9ywch4MLdrc95jDc_x3G9vcXUJ-OFTO_eHH9eQ5ecQ7sv-dRHK0&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjM6qTobek6cfZBiyLgRLWdWtO15PPw6QkREkNOvmFZSdAj9mHhj5hF7M&s=10",
+      "https://cdn.mos.cms.futurecdn.net/7f444cdad8b1efb920f35045ec0d9ca9-1200-80.jpg"
+    ],
+    requirements: { os: "Windows 7", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "4 GB", gpu: "NVIDIA GeForce 8800 GT", storage: "83 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+
+{
+    id: 1e4 + 13, title: "Sniper Elite 3", category: "Shooter", genre: "Tactical Shooter",
+    image: "https://upload.wikimedia.org/wikipedia/en/a/a2/Sniper_Elite_III_cover_art.jpg",
+    banner: "https://i.guim.co.uk/img/static/sys-images/Observer/Pix/pictures/2014/6/27/1403879050771/Sniper-Elite-III-games-009.jpg?width=465&dpr=1&s=none&crop=none",
+    rating: 4.5, year: 2014, developer: "Rebellion Developments", publisher: "505 Games",
+    description: "Sniper Elite 3 takes players to North Africa during World War II, featuring tactical sniping, stealth gameplay, and the famous X-Ray Kill Cam.",
+    screenshots: [
+      "https://cdn.mos.cms.futurecdn.net/2wAeRbbRJZVEi6qEMQrk3E.jpg",
+      "https://acdn-us.mitiendanube.com/stores/004/056/791/products/sniperelite3_1205164b-581de6009da8ab61ff17102561353235-1024-1024.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnBPWOGXqwnoAKvPgkaEFmwj_UL3dn0aOBHb7x8gkf6jB4TKkHBDBVETo&s=10"
+    ],
+    requirements: { os: "Windows Vista SP2", cpu: "Intel Core i3-2100", ram: "2 GB", gpu: "NVIDIA GeForce GTX 460", storage: "18 GB" },
+    link: "#",
+    featured: true, trending: true, popular: false
+},
+
+{
+    id: 1e4 + 14, title: "Far Cry 4", category: "Action", genre: "Open World FPS",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-cay2j9PT8VlXccYvUNI6NufLtPpCJEu9qYLx497XfXvIlNiUfeVYIUc&s=10",
+    banner: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/298110/capsule_616x353.jpg?t=1778697412",
+    rating: 4.8, year: 2014, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Far Cry 4 is an open-world first-person shooter set in Kyrat, where players battle a ruthless dictator while exploring mountains, forests, and villages.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcNVSrfSRhP-4KXSZ6lnbcSuVRZgTgp6k_vFOhYPGnmg&s=10",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/324343/ss_0befabea5f5977a2086200ceede665210d6f566e.1920x1080.jpg?t=1455815600",
+      "https://gaming-cdn.com/images/products/347/screenshot/far-cry-4-pc-game-ubisoft-connect-europe-wallpaper-1.jpg?v=1701183804"
+    ],
+    requirements: { os: "Windows 7 SP1 64-bit", cpu: "Intel Core i5-750", ram: "4 GB", gpu: "NVIDIA GeForce GTX 460", storage: "30 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+
+{
+    id: 1e4 + 15, title: "Assassin's Creed III", category: "Action", genre: "Open World Adventure",
+    image: "https://upload.wikimedia.org/wikipedia/en/2/29/Assassin%27s_Creed_III_Game_Cover.jpg",
+    banner: "https://cdn.mos.cms.futurecdn.net/MSLeb8Qkwnb4XHwF4WNgME.jpg",
+    rating: 4.6, year: 2012, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Assassin's Creed III follows Connor during the American Revolution, combining stealth, parkour, naval combat, and an expansive open world.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaxLNmhwK1kbbZlQGz_Ckaa-MIdcm71G_CTmljrbaBeBu35dv6afzc9XgL&s=10",
+      "https://i.guim.co.uk/img/static/sys-images/Technology/Pix/pictures/2012/10/31/1351681450340/Assassins-Creed-3-009.jpg?width=465&dpr=1&s=none&crop=none",
+      "https://static0.gamerantimages.com/wordpress/wp-content/uploads/Assassins-Creed-3-Details1.jpg"
+    ],
+    requirements: { os: "Windows Vista SP2 64-bit", cpu: "Intel Core 2 Duo E8200", ram: "2 GB", gpu: "NVIDIA GeForce 8800 GT", storage: "17 GB" },
+    link: "#",
+    featured: true, trending: true, popular: false
+},
+
+{
+    id: 1e4 + 16, title: "Injustice: Gods Among Us Ultimate Edition", category: "Fighting", genre: "Action Fighting",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKy_p-cBYHvZkrGpYR9IgHcc2VXMeRmOzTt8ff8Zs1aXGALhXQJgOQppc&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxWc96Dwm4nInOaYYbuT_wf9-LS_W3tChiWiDdtG4muAkON8HqggV2H0BT&s=10",
+    rating: 4.7, year: 2013, developer: "NetherRealm Studios", publisher: "Warner Bros. Interactive Entertainment",
+    description: "Injustice: Gods Among Us Ultimate Edition brings DC superheroes and villains together in cinematic one-on-one battles with unique powers and interactive arenas.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpe0jDf06YYjmzr4aAzfLAAJN7T-jl16atxwD6wzMI4w&s",
+      "https://i.ytimg.com/vi/tBwMzQVXgCE/maxresdefault.jpg",
+      "https://i.ytimg.com/vi/8aiIrJqnJ7Q/maxresdefault.jpg"
+    ],
+    requirements: { os: "Windows 7 64-bit", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8800 GTS", storage: "21 GB" },
+    link: "#",
+    featured: true, trending: true, popular: false
+},
+
+{
+    id: 1e4 + 17, title: "Battlefield 4", category: "Shooter", genre: "First-Person Shooter",
+    image: "https://m.media-amazon.com/images/M/MV5BYjVhMmRiODEtZDVjYy00NDhkLTlhZTMtMjQyMzFmYjhkNGNlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0ba-075NFudd50h91CPSMVHDCrLBQD2UQuek7Kzuc8S6SHNtRbw2OPzQ&s=10",
+    rating: 4.8, year: 2013, developer: "EA DICE", publisher: "Electronic Arts",
+    description: "Battlefield 4 delivers large-scale multiplayer warfare, destructive environments, modern weapons, and an action-packed military campaign.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRum61D1KbsdnhTjd6pRqz7AkteaYq7GFtvcGAg_Wx9V6dcqP6jlf8V1qw6&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBLsFAYhkqPrV0338yTEU4FIx7sM4bBCGorWHyj4mAioae3mzJl8QMtUI&s=10",
+      "https://cdn.mos.cms.futurecdn.net/0e1513788dde3977e866c21723ada121.jpg"
+    ],
+    requirements: { os: "Windows 8 64-bit", cpu: "Intel Core i5-2300", ram: "4 GB", gpu: "NVIDIA GeForce GTX 660", storage: "30 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+
+{
+    id: 1e4 + 18, title: "Assassin's Creed Unity", category: "Action", genre: "Open World Adventure",
+    image: "https://upload.wikimedia.org/wikipedia/en/4/41/Assassin%27s_Creed_Unity_cover.jpg",
+    banner: "https://static.wikia.nocookie.net/assassinscreed/images/4/48/Unity_novel.jpg/revision/latest?cb=20141102142838",
+    rating: 4.5, year: 2014, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Assassin's Creed Unity takes players to Paris during the French Revolution, featuring improved parkour, stealth, detailed crowds, and co-op missions.",
+    screenshots: [
+      "https://www.gamegrin.com/assets/Uploads/2023/07/12/_resampled/resizedimage640360-image-2023-07-12-141839557.png",
+      "https://cdn.mos.cms.futurecdn.net/42ff7feb8d4df919a6bd3f85fe691afa.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_hpsbliZZE6o-S6WDw5SI--msAcMs5o4CKndsW3sX1G1r0ctKeVqWCw&s=10"
+    ],
+    requirements: { os: "Windows 7 SP1 64-bit", cpu: "Intel Core i5-2500K", ram: "6 GB", gpu: "NVIDIA GeForce GTX 680", storage: "50 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
   
   
 ];
