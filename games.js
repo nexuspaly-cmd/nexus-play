@@ -893,6 +893,52 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: true
 },
+  {
+    id: 1e4 + 19, title: "GTA San Andreas Definitive Edition", category: "Action", genre: "Open World Adventure",
+    image: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1547000/capsule_616x353.jpg?t=1781138712",
+    banner: "https://images.steamusercontent.com/ugc/1877451942116082670/0D84609DC8CBEA421CD495C5F8C6F5EC54293983/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false",
+    rating: 4.4, year: 2021, developer: "Grove Street Games", publisher: "Rockstar Games",
+    description: "Grand Theft Auto San Andreas Definitive Edition brings the legendary open-world adventure back with enhanced graphics, improved controls, upgraded lighting, and modern gameplay features while preserving the original story of CJ and Grove Street.",
+    screenshots: [
+      "https://cdn2.unrealengine.com/egs-grandtheftautosanandreasthedefinitiveedition-rockstargames-g1a-00-1920x1080-db31e491c234.jpg",
+      "https://images.ctfassets.net/h1rqp7q66d54/2sxGKqg3LmJz6i34xZrNU7/a92498acfa4e6fb381e1b3c88fe008a2/GTASA_PC_Retail-3.jpg",
+      "https://thesportsrush.com/wp-content/uploads/2022/10/ee8667c5-gtasa_ps4_retail-2.jpg"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 760", storage: "19 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 20, title: "Grand Theft Auto IV The Complete Edition", category: "Action", genre: "Open World Adventure",
+    image: "https://images.ctfassets.net/h1rqp7q66d54/5cnxELe5IVKqLdmTUo2YM8/744d5c5a26e641032d32847a7fbb16fd/GTAIV_FOB_1212x1497.jpghttps://images.ctfassets.net/h1rqp7q66d54/5cnxELe5IVKqLdmTUo2YM8/744d5c5a26e641032d32847a7fbb16fd/GTAIV_FOB_1212x1497.jpg",
+    banner: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/60778110-f81f-4e33-bc08-be3749b36dd8/dk741yd-1dab32ae-8c75-4334-a960-4392672fc35b.png",
+    rating: 4.7, year: 2010, developer: "Rockstar North", publisher: "Rockstar Games",
+    description: "Grand Theft Auto IV The Complete Edition includes the original GTA IV along with The Lost and Damned and The Ballad of Gay Tony, delivering an immersive open-world experience in Liberty City with an engaging story and enhanced gameplay.",
+    screenshots: [
+      "https://cdn.loaded.com/media/catalog/product/g/r/grand-theft-auto-iv-the-complete-edition-wallpaper-4-min.jpg",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/0000006360.1920x1080.jpg?t=1721061564",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDGEpzwHZtDzJN7YWcA9waSypm8C7K0kzx9iNyH97QFWu5ynGeGZDVEMKE&s=10"
+    ],
+    requirements: { os: "Windows 7 SP1 / Windows 10", cpu: "Intel Core 2 Quad Q6600", ram: "4 GB", gpu: "NVIDIA GeForce 9800 GT 1 GB", storage: "22 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  
+  {
+    id: 1e4 + 21, title: "GTA III Definitive Edition", category: "Action", genre: "Open World Adventure",
+    image: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1546970/capsule_616x353.jpg?t=1781138540",
+    banner: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Grand_Theft_Auto_III_-_The_Definitive_Edition_logo.svg/3840px-Grand_Theft_Auto_III_-_The_Definitive_Edition_logo.svg.png",
+    rating: 4.3, year: 2021, developer: "Grove Street Games", publisher: "Rockstar Games",
+    description: "Grand Theft Auto III Definitive Edition modernizes the classic open-world adventure with enhanced visuals, improved controls, updated lighting, and refined gameplay while preserving the original story set in Liberty City.",
+    screenshots: [
+      "https://play-lh.googleusercontent.com/tTJOdk3LU61oAiTzZHjqePbFwknKhtH_hJE-sV2ZeGEMkad7PfycVsonD-LeHyAiMVjgVF5WwjfR3aP0_VYY5R0=w526-h296-rw",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS__AJnTdeLHwq4PEpxQdNJg9EtWtCkNKDRX0XBR2GY74srNve8kFsBs_EQ&s=10",
+      "https://play-lh.googleusercontent.com/YYEv3yADh5eD_HbyCErvJ05qCuEvrCgOGaQ3RMMOUc7GWYu--6knxiE7pN0WAm9G7K3LU2wUJXTSAJRqgKQO=w526-h296-rw"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 760", storage: "5 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
   
   
 ];
