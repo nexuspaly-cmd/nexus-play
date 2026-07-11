@@ -910,7 +910,7 @@ const gamesDB = [
 },
   {
     id: 1e4 + 20, title: "Grand Theft Auto IV The Complete Edition", category: "Action", genre: "Open World Adventure",
-    image: "https://images.ctfassets.net/h1rqp7q66d54/5cnxELe5IVKqLdmTUo2YM8/744d5c5a26e641032d32847a7fbb16fd/GTAIV_FOB_1212x1497.jpghttps://images.ctfassets.net/h1rqp7q66d54/5cnxELe5IVKqLdmTUo2YM8/744d5c5a26e641032d32847a7fbb16fd/GTAIV_FOB_1212x1497.jpg",
+    image: "https://images.ctfassets.net/h1rqp7q66d54/573sV0kiTALMbBfR1vDfTm/6ff8b77beb90703d00b7b46241fd464c/GTAIV_Hero_Character_1920x1080.jpg?w=&h=630&fm=&q=",
     banner: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/60778110-f81f-4e33-bc08-be3749b36dd8/dk741yd-1dab32ae-8c75-4334-a960-4392672fc35b.png",
     rating: 4.7, year: 2010, developer: "Rockstar North", publisher: "Rockstar Games",
     description: "Grand Theft Auto IV The Complete Edition includes the original GTA IV along with The Lost and Damned and The Ballad of Gay Tony, delivering an immersive open-world experience in Liberty City with an engaging story and enhanced gameplay.",
@@ -939,7 +939,81 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: true
 },
-  
+  {
+    id: 1e4 + 22, title: "Call of Duty: World at War", category: "Action", genre: "First-Person Shooter",
+    image: "https://m.media-amazon.com/images/M/MV5BNjk3Mjg5MTUtNTBkMi00ZDFmLWJhMGYtZTIxZjRlMTFlYWMxXkEyXkFqcGc@._V1_.jpg",
+    banner: "https://upload.wikimedia.org/wikipedia/en/6/69/WAW_Cover_Art.jpg",
+    rating: 4.6, year: 2008, developer: "Treyarch", publisher: "Activision",
+    description: "Call of Duty: World at War takes players to the Pacific and Eastern Fronts of World War II, featuring an intense campaign, cooperative gameplay, and the iconic Zombies mode for the first time in the series.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNpPC0Ie-5Mi5X2tSunn4qQP7NaDzXoIbiSyM6Qyv4SDogBIsJkK0x3X40&s=10",
+      "https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-world-at-war/6/66/Codwaw_w011.jpg",
+      "https://i.ytimg.com/vi/3-TcN5xewOw/maxresdefault.jpg"
+    ],
+    requirements: { os: "Windows XP / Vista / 7", cpu: "Intel Pentium 4 3.0 GHz", ram: "1 GB", gpu: "NVIDIA GeForce 6600 GT", storage: "8 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 23, title: "Need for Speed Underground 2", category: "Racing", genre: "Street Racing",
+    image: "https://m.media-amazon.com/images/M/MV5BNDM2NDAwMGEtZTI4NS00OGE3LWI2MjUtOTQzM2Q5ZGIwZjMyXkEyXkFqcGc@._V1_.jpg",
+    banner: "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da841167fbf53621973e62e5e490",
+    rating: 4.8, year: 2004, developer: "EA Black Box", publisher: "Electronic Arts",
+    description: "Need for Speed Underground 2 is a legendary street racing game featuring an open-world city, extensive car customization, thrilling races, and a wide selection of licensed vehicles.",
+    screenshots: [
+      "https://cdn-fastly.autoguide.com/media/2026/03/13/14217/video-game-throwback-need-for-speed-underground-2.jpg?size=720x845&nocrop=1",
+      "https://cdn-fastly.autoguide.com/media/2026/03/13/14212/video-game-throwback-need-for-speed-underground-2.jpg",
+      "https://staticdelivery.nexusmods.com/mods/3609/images/headers/99_1780843559.jpg"
+    ],
+    requirements: { os: "Windows 98 / ME / 2000 / XP", cpu: "Intel Pentium III 933 MHz", ram: "256 MB", gpu: "NVIDIA GeForce2 MX / ATI Radeon 7500", storage: "2 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 24, title: "Need for Speed: The Run", category: "Racing", genre: "Street Racing",
+    image: "https://m.media-amazon.com/images/M/MV5BNjJhNTIyMjgtY2U1Yy00YjRjLWJmMzQtNTNmODZkMGNjZjZmXkEyXkFqcGc@._V1_.jpg",
+    banner: "https://www.nintendo.com/eu/media/images/10_share_images/games_15/nintendo_3ds_25/SI_3DS_NeedForSpeedTheRun_image1600w.jpg",
+    rating: 4.4, year: 2011, developer: "EA Black Box", publisher: "Electronic Arts",
+    description: "Need for Speed: The Run is an action-packed racing game where players compete in a high-stakes cross-country race from San Francisco to New York, featuring cinematic gameplay, intense police chases, and a wide variety of high-performance cars.",
+    screenshots: [
+      "https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Need_for_speed_the_run_screenshot.jpg/250px-Need_for_speed_the_run_screenshot.jpg",
+      "https://www.gamereactor.eu/media/31/needspeed_263168b.jpg",
+      "https://i.ytimg.com/vi/vEwUtcDkOgs/maxresdefault.jpg"
+    ],
+    requirements: { os: "Windows Vista SP2 / 7", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "3 GB", gpu: "NVIDIA GeForce 9800 GT", storage: "18 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 25, title: "Battlefield 1", category: "Action", genre: "First-Person Shooter",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Battlefield_1_cover_art.jpg/250px-Battlefield_1_cover_art.jpg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQx-kay5vr6bpeynEodc26MFw6zlnG6MPw4cIQxkwZ-PoDzcZBrqEKA52A&s=10",
+    rating: 4.7, year: 2016, developer: "EA DICE", publisher: "Electronic Arts",
+    description: "Battlefield 1 delivers an epic World War I experience with large-scale multiplayer battles, immersive single-player War Stories, dynamic environments, and authentic weapons and vehicles from the Great War.",
+    screenshots: [
+      "https://image.api.playstation.com/cdn/EP0006/CUSA02387_00/FREE_CONTENTI22tCjMo7J7rH8GqouTB/6.jpg",
+      "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fqv4n470t16mc1.jpeg",
+      "https://media.newgamenetwork.com/uploads/2025/10/Battlefield1PC_11_3.jpg"
+    ],
+    requirements: { os: "Windows 7 / 8.1 / 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 660 2 GB", storage: "50 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 26, title: "Battlefield 3", category: "Action", genre: "First-Person Shooter",
+    image: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1238820/capsule_616x353.jpg?t=1777326004",
+    banner: "https://upload.wikimedia.org/wikipedia/en/thumb/6/69/Battlefield_3_Game_Cover.jpg/250px-Battlefield_3_Game_Cover.jpg",
+    rating: 4.7, year: 2011, developer: "EA DICE", publisher: "Electronic Arts",
+    description: "Battlefield 3 offers an intense modern military shooter experience with a cinematic campaign, massive multiplayer battles, realistic destruction, and advanced Frostbite 2 graphics.",
+    screenshots: [
+      "https://i.guim.co.uk/img/static/sys-images/Technology/Pix/pictures/2011/11/4/1320409970932/Battlefield-3-007.jpg?width=465&dpr=1&s=none&crop=none",
+      "https://images.lanouvellerepublique.fr/image/upload/t_1020w/f_auto/58c31f11479a4559008b57b8.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk7GakRZmNrlX6wbsStvZArgLIpjWoimGPa0ol5PeZsy-ojOv-grqOOw&s=10"
+    ],
+    requirements: { os: "Windows Vista SP2 / 7", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "2 GB", gpu: "NVIDIA GeForce GTX 560", storage: "20 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
   
 ];
 
