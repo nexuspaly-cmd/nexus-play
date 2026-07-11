@@ -1014,6 +1014,81 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: true
 },
+  {
+    id: 1e4 + 28, title: "Assassin's Creed IV Black Flag", category: "Action", genre: "Open World Adventure",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8YGJj_9I2SbT61oLUKPumqxz5kb5iuSqXX5J7fNDCXJmtgjWokmT5sEl7&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR115Zq63eWyRt5joYHPwjGoR5nieG4OrDzTc-Lz7qcDtG7ty_svDK-ghs&s=10",
+    rating: 4.8, year: 2013, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Assassin's Creed IV Black Flag follows pirate Edward Kenway across the Caribbean, combining naval combat, stealth, exploration, and open-world gameplay during the Golden Age of Piracy.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtAbtbHIxfExZIp4_YtxvjFzZzpSTJ6qeckjDnswHYTseUsjRTdRi9cSg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRs7SH_qOCEvi_A5Umc0F7EqVQ09-LXsV1dPDFNiWwW19rJ45pYrL2xhTpq&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7uTmYC6Ea7EXCUVP1eYmpwoJGz9KkpkOyXQYpJOZMYBcgdLIW0rJ1WMYO&s=10"
+    ],
+    requirements: { os: "Windows Vista SP2 / 7 / 8", cpu: "Intel Core i5-2400S", ram: "4 GB", gpu: "NVIDIA GeForce GTX 260", storage: "30 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 29, title: "Mafia III", category: "Action", genre: "Open World Adventure",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiS_CbKblugRiSKM3SL0GDV3mXbZ5AXqg3f81zEKJLzh2cEEeHH_KalnYu&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlIURxdaqblxoIzXV5_8w6Nhdu2CMmS4V4XyrZ32KBrdqk6Ays8bpRCFCc&s=10",
+    rating: 4.4, year: 2016, developer: "Hangar 13", publisher: "2K Games",
+    description: "Mafia III follows Vietnam veteran Lincoln Clay as he seeks revenge against the Italian Mafia in the city of New Bordeaux, featuring an open world, intense gunfights, stealth, and a gripping crime story.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2WDu_KDtfxrVLiOy8jaXlhUsexRocPuNPsIUfVZH2K65qkJiN8SCnFZ0&s=10",
+      "https://images.squarespace-cdn.com/content/v1/55ef0e29e4b099e22cdc9eea/1461071464874-EV6I0KLJIJ1FAXSLP2E7/image-asset.jpeg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgqdE9Vo1LiHBnyHoRAIrJQoKmRhBQcjY26HflICyH_HiIbaCRYErvms&s=10"
+    ],
+    requirements: { os: "Windows 7 64-bit", cpu: "Intel Core i5-2500K", ram: "6 GB", gpu: "NVIDIA GeForce GTX 660", storage: "50 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 30, title: "Assassin's Creed II", category: "Action", genre: "Open World Adventure",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYtsLlyxCWjFl9rNH1V2aYN8uzjPMW_0_uOMLeQNGFBQ&s=10",
+    banner: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50130/header.jpg?t=1746717708",
+    rating: 4.9, year: 2009, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Assassin's Creed II follows Ezio Auditore on a journey of revenge through Renaissance Italy, featuring parkour, stealth, thrilling combat, and a rich open-world experience.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStZa0sSD74urAovvx2FZMPOvljO094JXn2Dr1TyzZs5EtYpuk8gwWoLNc&s=10",
+      "https://cdn.cultura.com/cdn-cgi/image/width=450/media/pim/mafia-ii-5026555247641_9.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvXR7C-yxp1ya9DwKp6JJZCR5g_x-0HiqoxFHo_9z6RtC9TJTkrWY_lM&s=10"
+    ],
+    requirements: { os: "Windows XP / Vista / 7", cpu: "Intel Core 2 Duo 1.8 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 7900 GS", storage: "8 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 31, title: "Far Cry Primal", category: "Action", genre: "Open World Adventure",
+    image: "https://images.squarespace-cdn.com/content/v1/58bedb0ab3db2bd0463e552b/1488928090199-81WOQR4N03UFM3MBW3OQ/BLOG_FARCRY_1280X788_001A.jpg?format=1500w",
+    banner: "https://upload.wikimedia.org/wikipedia/fr/0/0f/Far_Cry_Primal_Logo.jpg",
+    rating: 4.5, year: 2016, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Far Cry Primal takes players to the Stone Age, where they must survive against wild beasts and hostile tribes using primitive weapons, crafting, and animal companions in a vast open world.",
+    screenshots: [
+      "https://prod-images.blacknut.net/66d58be8c782bd41aabf2b13_hd.jpg",
+      "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1rV5vJkKjrwtE9sq3Eazgx/43ef6480eeeca101d2b2bd9f97caa702/overview1__1_.jpg",
+      "https://prod-images.blacknut.net/66d58be866965ee3c721d88c_hd.jpg"
+    ],
+    requirements: { os: "Windows 7 / 8.1 / 10 64-bit", cpu: "Intel Core i3-550", ram: "4 GB", gpu: "NVIDIA GeForce GTX 460", storage: "20 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 32, title: "Little Nightmares", category: "Adventure", genre: "Puzzle Platform Horror",
+    image: "https://upload.wikimedia.org/wikipedia/en/d/d8/Little_Nightmares_Box_Art.png",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3vtuqzb4H_P7VccW4yOwKbSsf9EP9UMJeW0LuU2rMceM_GeWlR_9C6Cw&s=10",
+    rating: 4.7, year: 2017, developer: "Tarsier Studios", publisher: "Bandai Namco Entertainment",
+    description: "Little Nightmares is a dark puzzle-platform horror adventure where players guide Six through the mysterious Maw, solving puzzles, avoiding terrifying creatures, and uncovering disturbing secrets.",
+    screenshots: [
+      "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_auto/www.slantmagazine.com/wp-content/uploads/2017/04/littlenightmares.jpg",
+      "https://www.pluggedin.com/wp-content/uploads/2020/01/Little_Nightmares__Large.jpg-1024x587.jpeg",
+      "https://storage.ghost.io/c/50/c6/50c61f91-0165-4605-93bc-f8598149e466/content/images/2025/02/little-nightmares-2-school-e1612999445189-1.jpg"
+    ],
+    requirements: { os: "Windows 7 64-bit", cpu: "Intel Core i3", ram: "4 GB", gpu: "NVIDIA GeForce GTX 460", storage: "10 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
   
 ];
 
