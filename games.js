@@ -488,7 +488,7 @@ const gamesDB = [
     screenshots: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPxF4_JSMFTOUlc7hXbdFqq8Ubo2ceo445BWflwEa7Fm3EqvxKKJS-X4Y&s=10",
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf-wNlgyu-x2fLGGVoixtlbfYN3X_Qh00QvtHyKO5kKQ&s=10",
-      "https://www.gematsu.com/wp-content/uploads/2014/06/MKX-Gameplay-PS-Blog-Stream.jpg"
+      "https://i.ytimg.com/vi/IvGmcijy2eE/sddefault.jpg"
     ],
     requirements: { os: "Windows 11 / 10 / 8 / 7 64-bit", cpu: "Intel Core i5-750", ram: "4 GB", gpu: "NVIDIA GeForce GTX 460", storage: "40 GB" },
     link: "https://www.dropbox.com/scl/fi/qnk23y7tysdeiiawedacs/Mortal-Kombat-X.torrent?rlkey=dyk13jhf8g67di5xwvpus039q&st=a3kbtz84&dl=1",
