@@ -992,7 +992,7 @@ const gamesDB = [
     description: "Battlefield 1 delivers an epic World War I experience with large-scale multiplayer battles, immersive single-player War Stories, dynamic environments, and authentic weapons and vehicles from the Great War.",
     screenshots: [
       "https://image.api.playstation.com/cdn/EP0006/CUSA02387_00/FREE_CONTENTI22tCjMo7J7rH8GqouTB/6.jpg",
-      "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fqv4n470t16mc1.jpeg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZRm62owzMr07o7mrH1gahafoWd6hQqfPUhFqi8Tj2xnh0dL7gLL_uQWvr&s=10",
       "https://media.newgamenetwork.com/uploads/2025/10/Battlefield1PC_11_3.jpg"
     ],
     requirements: { os: "Windows 7 / 8.1 / 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 660 2 GB", storage: "50 GB" },
