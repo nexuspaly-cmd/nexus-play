@@ -1089,6 +1089,83 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: true
 },
+  {
+    id: 1e4 + 33, title: "Drive Beyond Horizons", category: "Racing", genre: "Open World Driving",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaFVhluclKfnc3zdO3lGMnoe87C0N2ypPnS9Yi1dRWPH_qFBcgdp_24OK_&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCZRIgoZCWMZJpmdlK7fKjAKSd2LPDC8TPe1UP2baf0bzAucE4Beq4G91z&s=10",
+    rating: 4.6, year: 2025, developer: "Tacty Studio", publisher: "Santor Games",
+    description: "Drive Beyond Horizons is an open-world driving adventure featuring procedurally generated landscapes, realistic vehicle physics, dynamic weather, car customization, and exploration across diverse environments.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8qNsHCdBNc40r6MEqHE6oju6hRuwOV1oe11kzuOK011IaascZvPJ3oarB&s=10",
+      "https://i.ytimg.com/vi/59-owljXa4U/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBoe84J8AP215als9TEJcOXoWNWhg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWbVpAAynHJ0UQ-YzBMwXCFsF_vYbhOKudR6afVLpZRMmTNiPrWqnplGYf&s=10"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1060 6 GB", storage: "15 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 34, title: "The Last of Us Part II Remastered", category: "Action", genre: "Action Adventure",
+    image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/94b5d8b3165a6fe592e406054b08a2dd24e2f848/capsule_616x353.jpg?t=1750959180",
+    banner: "https://i.ytimg.com/vi/JKHQzeHmsms/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDaTyURlseRl-Ewke31LJVwi3FHag",
+    rating: 4.9, year: 2025, developer: "Naughty Dog LLC", publisher: "PlayStation Publishing LLC",
+    description: "The Last of Us Part II Remastered delivers Ellie and Abby's emotional journey with enhanced graphics, improved performance, new gameplay modes including No Return, and expanded features for the definitive PC experience.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWu8b3V7sYlykBjNrnBYNDw2Ym7XTDqjxFzJw8QUDVpYN848J4JGGIJVk&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRo9-BEHK-bB-zHhv9PoTwIHW3M0io_mFG5F5bCepCddg&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3N4ehPn94SeMLhdh_lLHsiDMgx9ZdhH92vdNWAhDBvUwv83lueutfcoiD&s=10"
+    ],
+    requirements: { os: "Windows 10/11 64-bit", cpu: "Intel Core i3-8100", ram: "16 GB", gpu: "NVIDIA GeForce GTX 1650", storage: "150 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 35, title: "Farming Simulator 25", category: "Simulation", genre: "Farming Simulation",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkRJFezKsNo3umeAqexpe6AR7I1MUjBSoqHXhlJtRx1A&s",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSShHDF6OuldVKnoj1XPN7BFJSASGFnqPuFHWTTNtLuIg&s=10",
+    rating: 4.7, year: 2024, developer: "GIANTS Software", publisher: "GIANTS Software",
+    description: "Farming Simulator 25 lets players build and manage their own farm with over 400 authentic machines, new crops, animals, dynamic weather, and cooperative multiplayer across beautiful open environments.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcUIBUTArU_hdX-jeJJYHYtX1sNLJOpwX2sOCUGTS8uGwSSEljBaFaYiEy&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBBe8V_KqUyiTEbX8Irx2vpSe5o6Mtssgl7431ETvLZH7C7Qt-MTK09H8h&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQqOQpNNeHiDQR4rcGI9z4ypSbWogIBd2xPTDi1_k7P595le749c8Iqo&s=10"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1050 Ti", storage: "45 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 36, title: "ARK: Survival Evolved - Ultimate Survivor Edition", category: "Action", genre: "Open World Survival",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtpySexuvUpPyAmXW6h8KgX7RCPP2OZQaL1IT0DNHxOmXVzpcTvrgHV84&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS329uWf4qXFUT5CP9DnrWkptUq8wXeFsERbJFHuMmKtgJZDANcXIFalZQr&s=10",
+    rating: 4.7, year: 2021, developer: "Studio Wildcard", publisher: "Studio Wildcard",
+    description: "ARK: Survival Evolved - Ultimate Survivor Edition includes the base game and all major expansion packs, challenging players to survive among dinosaurs, tame creatures, craft equipment, build massive bases, and explore vast open worlds.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-AiBiMadEqNw7CrSqV3FDZ3Amtks2sft5Vd7gsqDoXCeK3vKTupe3Thg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQ1FRSVp4Yh1wkdRvF5kQrW7TwKJStU_f5VrKUO-HHBBP7ymBQduZkf1le&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU14El1zKZjh_LIbR9eUfPj4CIs66A6PsLlnW2vSaY_wkyfD-E_ROXa-g&s=10"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 670 2 GB", storage: "120 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 37, title: "Red Dead Redemption", category: "Action", genre: "Open World Adventure",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtj63urrR8y4-bZhw_QaB-LjVLsYVn81f6TS8zQP5ZqL2l0KxsIneUnsc&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsk5uEzJNC-cW2zPi3Fz03qMMvdtGwwru2GvqvQpDG6Q&s",
+    rating: 4.9, year: 2024, developer: "Rockstar Games", publisher: "Rockstar Games",
+    description: "Red Dead Redemption follows former outlaw John Marston on a journey across the American frontier as he hunts down members of his old gang in a story-driven open-world western adventure.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtNw7SEvBJ1T7tIVzcLgWTrvTEtOf1BfuuK1IpldQVkQ&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp0WpadBwqyrNDElYwBC2RVg_oe5xxATKLEMkPAOOXWbwQNl_CAah_i9A&s=10",
+      "https://images.g2a.com/uiadminimages/770x433/1x1x1/813224e2a2ec/e945a08bb9bf4d33874f608e"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4670", ram: "8 GB", gpu: "NVIDIA GeForce GTX 960", storage: "12 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+
+  
   
 ];
 
