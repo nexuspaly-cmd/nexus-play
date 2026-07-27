@@ -1164,6 +1164,83 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: true
 },
+  {
+    id: 1e4 + 38, title: "Need for Speed Heat Deluxe Edition", category: "Racing", genre: "Open World Racing",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQINslWGTc_z3A3-g0VNx6m7tCN_UQiZZM_-PguMUFwZ30OSpJ0S9J9uPk&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwdDMgY_KQWqYRfpbA3nnCEsWxsr4pN1yKva8q_by8Thg3_DMzGjpHhJA&s=10",
+    rating: 4.7, year: 2019, developer: "Ghost Games", publisher: "Electronic Arts",
+    description: "Need for Speed Heat Deluxe Edition is an open-world street racing game set in Palm City, where players compete in high-speed events by day and illegal street races by night while escaping aggressive police. The Deluxe Edition includes exclusive K.S Edition cars, character outfits, and bonus REP and BANK rewards.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ6ltCUKw2neU_eY29WFenTZWGUzYJA9rRQfQlBuCMDbGMzwNP6YBCyUs&s=10",
+      "https://image.api.playstation.com/vulcan/img/cfn/11307C8apd9UZ2QSIqEwpDMjmUmrAD4ExB6ME4EzJtKjywRIbWkEgZok4YLWMEvOXpum6U35KaDKLqKraVApojyILWkpBh9B.jpg?w=440",
+      "https://cdn1.epicgames.com/spt-assets/f4241a8649244c5693450ebda42f935b/need-for-speed-heat-3dawn.jpg?resize=1&w=480&h=270&quality=medium"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-3570", ram: "8 GB", gpu: "NVIDIA GeForce GTX 760", storage: "50 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 39, title: "Far Cry 5", category: "Action", genre: "Open World FPS",
+    image: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/8939caba-2c60-4aeb-bb20-d61b0458b178/dcg4k94-4f618ab5-b712-4861-9f2c-2b351378d47d.png",
+    banner: "https://upload.wikimedia.org/wikipedia/commons/e/e4/FC5_Logo.png",
+    rating: 4.7, year: 2018, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Far Cry 5 is an open-world first-person action game set in Hope County, Montana, where players battle the fanatical Eden's Gate cult led by the charismatic Joseph Seed. Explore the vast countryside, recruit allies, complete missions, and liberate the region in solo or co-op gameplay.",
+    screenshots: [
+      "https://cdn.mos.cms.futurecdn.net/v2/t:0,l:160,cw:960,ch:720,q:80,w:960/g2mGwiBg8Zem79nhsz26sF.jpg",
+      "https://static0.pocketlintimages.com/wordpress/wp-content/uploads/144083-games-review-far-cry-5-review-image1-0he4cd179g.jpg?w=1600&h=900&fit=crop",
+      "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6HYd5rAcIJKKYWGcqPLOcR/3ce27ffc456a32dcce57dc9785496213/vista_vietnam_gold_1080p_1520348475_960x540_325113.jpg"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 670", storage: "40 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 40, title: "Far Cry 2", category: "Action", genre: "Open World FPS",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Far_Cry_2_cover_art.jpg/250px-Far_Cry_2_cover_art.jpg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQigpqPvPOBLMyE3KprK6oQsJa8siiJu2uWRwfSxBqnCTkmkXDFBwIj4ahs&s=10",
+    rating: 4.4, year: 2008, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Far Cry 2 is an open-world first-person shooter set in a war-torn African nation, where players take on the role of a mercenary hunting the notorious arms dealer known as The Jackal. Complete missions, explore vast environments, and survive dynamic combat with realistic weapon degradation and immersive gameplay.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb7pXO4m-6onDuyE54FxoUgiBs4Nd3ob3er_E6ODEJI_TaPciDTU2UpZs&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-XIEh-w1ZGJa3ZLBiHpB7NdRgxod6R0EHvABvTBqlO2Gc9dnqDDj-FkaD&s=10",
+      "https://static.wikia.nocookie.net/farcry/images/4/4e/01.jpg/revision/latest/scale-to-width-down/1200?cb=20200808232417"
+    ],
+    requirements: { os: "Windows XP/Vista/7", cpu: "Intel Pentium 4 3.2 GHz", ram: "1 GB", gpu: "NVIDIA GeForce 6800", storage: "3.5 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  
+  {
+    id: 1e4 + 41, title: "Far Cry New Dawn", category: "Action", genre: "Open World FPS",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/9/96/FC_New_Dawn_cover_art.jpg/250px-FC_New_Dawn_cover_art.jpg",
+    banner: "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1Z6a7LYuvjj5UzOvvkS6O4/b0eb546cc2c9435bfff4524ec23bde71/feature4_960x540.jpg",
+    rating: 4.5, year: 2019, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Far Cry New Dawn is an open-world first-person shooter set seventeen years after a global nuclear catastrophe. Explore the vibrant post-apocalyptic landscape of Hope County, recruit allies, upgrade your base, and battle the ruthless Highwaymen led by the Twin Sisters.",
+    screenshots: [
+      "https://www.dsogaming.com/wp-content/uploads/2019/02/FarCryNewDawn-2019-02-20-19-02-25-60.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROCM8BbkKAj4TNDKKcgerqGJS3oKvFdIftPDRnqtaFLkNc3IuExpCLQrl6&s=10",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/ss_14d17774c8843fa0a7f44c1afadb5258af8b450d.1920x1080.jpg?t=1750925197"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 670", storage: "30 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+
+  {
+    id: 1e4 + 42, title: "Far Cry", category: "Action", genre: "FPS",
+    image: "https://upload.wikimedia.org/wikipedia/en/a/a5/Far_Cry_1_boxshot.jpg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0JhdY8SuzWvPCB8SUZOWbV6ptyJyOseFvn4nd-n934Un92-7ztvbsxku4&s=10",
+    rating: 4.3, year: 2004, developer: "Crytek", publisher: "Ubisoft",
+    description: "Far Cry is a first-person shooter that follows former special forces operative Jack Carver as he becomes stranded on a mysterious tropical island filled with mercenaries and dangerous genetically engineered creatures. Explore vast environments, complete challenging missions, and uncover the island's dark secrets.",
+    screenshots: [
+      "https://images.gog-statics.com/dad2b3147db4e07844043975f1d420c6dc8a424157fe01f4b77de05d567be0c4_product_card_v2_mobile_slider_639.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxUlrMxRfzuawN0rqvoiXKc8RFHyWLaV1ACqtTOyW9ltWthLYfztSLSXzi&s=10",
+      "https://www.gamespot.com/wp-content/uploads/original/gamespot/images/2004/reviews/561565-371314_20040422_001.jpg"
+    ],
+    requirements: { os: "Windows 2000/XP", cpu: "Intel Pentium 4 1.8 GHz", ram: "512 MB", gpu: "NVIDIA GeForce 3", storage: "4 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
 
   
   
