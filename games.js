@@ -1257,7 +1257,39 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: true
 },
+  
+  {
+    id: 1e4 + 44, title: "Little Nightmares II", category: "Adventure", genre: "Puzzle Horror",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqlqcHoIDXgZ6Fw3lw520dv_vDB7Zt_cJ3vCjOn5LJSQ&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8P7Q4LsyPn_JyXpUZgOuUKLK48PpRQl3TI7TysQNtlg&s",
+    rating: 4.8, year: 2021, developer: "Tarsier Studios", publisher: "Bandai Namco Entertainment",
+    description: "Little Nightmares II is a puzzle horror adventure game where players control Mono, a young boy trapped in a distorted world alongside Six. Solve clever puzzles, avoid terrifying enemies, and uncover the dark secrets of the mysterious Signal Tower in a suspenseful and atmospheric journey.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBtCmEkMMyR6e3OknzFPwJ90_aWA8sSaTEnA98M5iMvqPPZyb2-k2WkOKv&s=10",
+      "https://helios-i.mashable.com/imagery/articles/0767mfh1hhyeuRCK29xFN9q/hero-image.fill.size_1248x702.v1619019383.png",
+      "https://assetsio.gnwcdn.com/-1612875239110.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2300", ram: "4 GB", gpu: "NVIDIA GeForce GTX 570", storage: "10 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
 
+  {
+    id: 1e4 + 45, title: "Little Nightmares III", category: "Adventure", genre: "Puzzle Horror",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb_xu7bqlpb44PZoGIK5gnmWfKiAiqd0zxzoSWssBeHw&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRmTD5POXufK8_FrA3iW6GUJlU_E7uH-h-mxSzv4XlWk3k5TYilef126M&s=10",
+    rating: 4.8, year: 2025, developer: "Supermassive Games", publisher: "Bandai Namco Entertainment",
+    description: "Little Nightmares III is a puzzle horror adventure where players control Low and Alone, two friends trapped in the mysterious Spiral. Solve challenging puzzles, evade terrifying monsters, and survive a haunting journey through eerie environments in single-player with AI or online co-op.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAIlle9D8tJ74NOfgaB0Pz3LfutgczACp9dopTTlErixd9fuckf4Vj3bbV&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAQWgoGp5oT5bhJdKUTu9hnhDXxct-fXltCfk7sJVxldYnLoKI_iWd-kY&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwKoNzbQ6-Mk3Rqn8tZkIdCdYAkfvenKJdVupFsujjeDTrN2Rbz_OoDltu&s=10"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-8400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1060 6 GB", storage: "20 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  
   
   
 ];
