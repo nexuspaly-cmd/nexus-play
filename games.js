@@ -1242,6 +1242,22 @@ const gamesDB = [
     featured: true, trending: true, popular: true
 },
 
+  {
+    id: 1e4 + 43, title: "Battlefield V", category: "Action", genre: "First-Person Shooter",
+    image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1238810/capsule_616x353.jpg?t=1772707365",
+    banner: "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA08670_00/2/i_bd313fa35615ab7418c1f552f24bc3af1a93992965e4729df39262ab37ed8880/i/icon0_01.png",
+    rating: 4.5, year: 2018, developer: "EA DICE", publisher: "Electronic Arts",
+    description: "Battlefield V is a first-person shooter set during World War II, featuring large-scale multiplayer battles, a cinematic single-player War Stories campaign, and cooperative missions. Experience dynamic environments, authentic weapons, and intense combat across multiple theaters of war.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSb0fx4zne8uqbIrprGrSJnh9jVGsz6Rl4Z3iGyDNT2aNmUAibJlfChORol&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoxA6jdNP_bpmgLnSqhdAEpBzdHaHXHwKkrVz1_ZcDpuzPZwe2K0XyEFUq&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9MNMSjbDs9XWgJ6PVMfgl6Z5VTpy5ta18kyJRaCOf_hB1xGRh_-seL3pc&s=10"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1050 / GTX 660 2GB", storage: "50 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+
   
   
 ];
