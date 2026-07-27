@@ -1289,6 +1289,83 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: true
 },
+
+  {
+    id: 1e4 + 46, title: "Pro Evolution Soccer 2013", category: "Sports", genre: "Football Simulation",
+    image: "https://m.media-amazon.com/images/M/MV5BYzlmZmUyMzEtYjY1Yy00MjJiLTkzMjctM2JhNzVmYTlhNjJhXkEyXkFqcGc@._V1_.jpg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY7w9AiJRe0s2Ezv6K_0AZC8q0sK3E8WZ6-vwyd-MfcA&s=10",
+    rating: 4.8, year: 2012, developer: "PES Productions", publisher: "Konami",
+    description: "Pro Evolution Soccer 2013 is a football simulation game that delivers realistic gameplay, improved ball control, advanced AI, and official UEFA Champions League and Copa Libertadores competitions. Build your dream team and enjoy exciting matches with clubs and national teams from around the world.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKE6RzfehOC_JPfSAFGrXQ6k-ohEFV1xHMMbVTfFAW4tyiVwclQ2juXdKf&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGcvCDb7rrD0Eu7eyIkCBTNAqlwvZILf2JPe3VQX5mXg&s",
+      "https://images.gamewatcherstatic.com/image/file/4/c7/55294/2962.jpg?v=2"
+    ],
+    requirements: { os: "Windows XP/Vista/7", cpu: "Intel Core 2 Duo 1.8 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 7800", storage: "8 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+
+  {
+    id: 1e4 + 47, title: "Pro Evolution Soccer 2017", category: "Sports", genre: "Football Simulation",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQdx0K0SckgcgSZaxBxADKqRCfuU3e9z_NAdOiT0y_b0YDvxuLj85Uu9ZVQ&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR42ZEQZN72FioP0VEqcfGGBiSe1yrR10AD_rP4YU6TyC1B67w3ZhE9Dhxi&s=10",
+    rating: 4.7, year: 2016, developer: "PES Productions", publisher: "Konami",
+    description: "Pro Evolution Soccer 2017 is a football simulation game featuring the Real Touch system, improved AI, realistic passing, and fluid ball control. Compete with licensed clubs and national teams in immersive offline and online game modes with authentic football gameplay.",
+    screenshots: [
+      "https://images.sftcdn.net/images/t_app-cover-s,f_auto/p/5a8ce119-2c6c-4336-9d6d-c35840d29d6c/2119497149/pes-2017-screenshot.jpg",
+      "https://i.ytimg.com/vi/L-O-Fj2GcrM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDoAL01ATungEohh6W4W2OIaT9QTA",
+      "https://i.guim.co.uk/img/media/aea98b6f2762d49ff9628f93179841c8295b703f/233_3_1652_992/master/1652.jpg?width=465&dpr=1&s=none&crop=none"
+    ],
+    requirements: { os: "Windows 7 SP1/8.1/10 64-bit", cpu: "Intel Core i3-530", ram: "4 GB", gpu: "NVIDIA GeForce GTX 260", storage: "8 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 48, title: "Need for Speed Carbon", category: "Racing", genre: "Street Racing",
+    image: "https://m.media-amazon.com/images/M/MV5BZWVmNDQ3MDktZWZjNC00ODc5LWJkYmUtMDcyN2Q4NDc1NmI3XkEyXkFqcGc@._V1_QL75_UX190_CR0,2,190,281_.jpg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfHzbaoahH9AJeaovKR7I77pE3ZzOvcvvGOmue3qP389f-BOlNcbMAvcw1&s=10",
+    rating: 4.8, year: 2006, developer: "EA Black Box", publisher: "Electronic Arts",
+    description: "Need for Speed Carbon is a street racing game where players battle rival crews to dominate the city while taking on dangerous canyon duels. Customize high-performance cars, recruit crew members with unique abilities, and conquer territories in intense nighttime races.",
+    screenshots: [
+      "https://www.trustedreviews.com/wp-content/uploads/sites/7/2006/11/3679-1-1.jpg",
+      "https://img.utdstc.com/screen/c3d/f2e/c3df2e04f34d30fb5effeb688c965d3ad7417955f268efd5d009b596411b6069:600",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkbqJLoXp5wbcuKTkCy-8673WLLoz_fXHPkD7lYUoKwH8_ugolhht4nJa-&s=10"
+    ],
+    requirements: { os: "Windows XP", cpu: "Intel Pentium 4 1.7 GHz", ram: "512 MB", gpu: "NVIDIA GeForce 6600", storage: "5.3 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 49, title: "Goat Simulator", category: "Simulation", genre: "Open World Simulation",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3HpKaFc9k-ynKBa3StAeolCG15RWByND2vpBgIn3TbA&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvob_JlxyOH8IvY5fEZliVorFbxsrvZdcyYzI7qvGNQg&s=10",
+    rating: 4.5, year: 2014, developer: "Coffee Stain Studios", publisher: "Coffee Stain Publishing",
+    description: "Goat Simulator is a hilarious open-world simulation game where players control a chaotic goat and cause as much destruction as possible. Explore the city, complete absurd challenges, discover hidden secrets, and perform outrageous stunts using the game's physics-based gameplay.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShVN6tu0BkGqOyowdOPEVMfniXkX0UzmRI0M3akEKGVw&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSyIuNkcALdWmsvzDBPomzvuPsKZyYy6V9m-GTHVDcE0w&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2CeV8Y0QqFTbNmHLmpEkI-RXzX6te5x_28La-cJw9vg&s=10"
+    ],
+    requirements: { os: "Windows 7 64-bit", cpu: "Intel Core 2 Quad Q6600", ram: "4 GB", gpu: "NVIDIA GeForce GTX 260", storage: "2 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 50, title: "Farming Simulator 15", category: "Simulation", genre: "Farming Simulation",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZlHnhtwtlHe2OCsdFwvJTjR3bFbNR-y2nz8pM7hbsA&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHUPvx9GooOwKpKWYcz2o0Y9tjVT1KXEODFGy5ww6wkQ&s=10",
+    rating: 4.5, year: 2014, developer: "Giants Software", publisher: "Focus Home Interactive",
+    description: "Farming Simulator 15 is a realistic farming simulation game where players manage their own farm, cultivate crops, raise livestock, and operate authentic agricultural machinery from leading manufacturers. Expand your farming business, harvest forests, and grow your agricultural empire in an immersive open-world environment.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN9Gv94fl1X_crnbNyBsVT9cCH4KeGZw7ni9eSsJLh1w&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBqtEu5gNv9IzdG8X99NGv7UK6nksf12UR5S4I4DAExg&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqszGW7RhQoE4jXPl8hZYC1MTw0nHe1RFNxyB_Z4z8HA&s"
+    ],
+    requirements: { os: "Windows Vista/7/8", cpu: "Intel Core 2 Duo 2.0 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8600 GT", storage: "3 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
   
   
   
