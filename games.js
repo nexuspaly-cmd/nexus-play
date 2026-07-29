@@ -1591,6 +1591,216 @@ const gamesDB = [
     link: "https://www.dropbox.com/scl/fi/09v1rki914dm1qy4fdcan/Sleeping-Dogs-Definitive-Edition.torrent?rlkey=af8jy2nlc5foar4jzf5w50jyf&st=cqlzyjoh&dl=1",
     featured: true, trending: true, popular: true
 },
+  {
+    id: 1e4 + 66, title: "Mortal Kombat 11", category: "Action", genre: "Fighting",
+    image: "https://m.media-amazon.com/images/M/MV5BYWFiZDM4M2MtN2Q4OC00YjBkLWJiNTItY2RjMDkzMjFkZjBlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    banner: "https://m.media-amazon.com/images/M/MV5BZmQ1NjYxYTAtOWZiNy00OTUxLWI0NjMtOGMwYTExZTE0YTE0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    rating: 4.8, year: 2019, developer: "NetherRealm Studios", publisher: "Warner Bros. Games",
+    description: "Mortal Kombat 11 is a brutal fighting game featuring cinematic story mode, iconic warriors, and intense one-on-one battles. Master unique character abilities, execute devastating Fatalities, and compete across a variety of single-player and multiplayer modes with stunning visuals and fluid combat.",
+    screenshots: [
+      "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fmortal-kombat-11-is-on-a-whole-different-level-v0-tqvmrj3s9c0e1.jpeg%3Fauto%3Dwebp%26s%3De57da981163526235a5682084c10e3b944dc9f23",
+      "https://images.ctfassets.net/nwksj2ft7iku/5rBcwZXvEoGjGAWSDZ3IVh/c259b7f0a9e212c7d5cd7b214642480b/hero_1556584316.png",
+      "https://hb.imgix.net/e01bff6e3bbb95ec8531e8b3278c3ae65cab0b73.jpg?auto=compress,format&fit=crop&h=425&w=741&s=fc182403fe08e8e9c83029b5df90802a"
+    ],
+    requirements: { os: "Windows 7/10 64-bit", cpu: "Intel Core i5-750", ram: "8 GB", gpu: "NVIDIA GeForce GTX 670", storage: "100 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 67, title: "Mortal Kombat XL", category: "Action", genre: "Fighting",
+    image: "https://hot.game/uploads/media/game/0001/12/253791eb312573be2930f07e628b19c90e3b0c97.jpeg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NBYX0XMHsteVq3l7OoubMOnrX8wpNHymOZsXSmbF0WDo4pjlClN8j5TP&s=10",
+    rating: 4.7, year: 2016, developer: "NetherRealm Studios", publisher: "Warner Bros. Interactive Entertainment",
+    description: "Mortal Kombat XL is the definitive edition of Mortal Kombat X, featuring the complete base game along with all major downloadable content, including additional fighters, skins, and the Kombat Pack. Experience brutal combat, cinematic story mode, and intense online and offline battles with iconic Mortal Kombat characters.",
+    screenshots: [
+      "https://i.pcmag.com/imagery/reviews/05lJdVdYfoXUEwGeesITFc9-1..v1569469960.jpg",
+      "https://smartcdn.gprod.postmedia.digital/vancouversun/wp-content/uploads/2016/03/mortal-kombat-xl_20160304025527.png",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-0l38G4dU053vCtLvzHMt7YNTX-gG50ytApQyBEQr6ZPIKRPZzfL49Ec&s=10"
+    ],
+    requirements: { os: "Windows 7/8/10 64-bit", cpu: "Intel Core i5-750", ram: "3 GB", gpu: "NVIDIA GeForce GTX 460", storage: "44 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 68, title: "Batman: Arkham Knight", category: "Action", genre: "Open World Action",
+    image: "https://image.api.playstation.com/cdn/EP1018/CUSA00135_00/e1lbaSUnmBzv5cqMyM9DjbcrG0mpMrHi.png",
+    banner: "https://m.media-amazon.com/images/I/810C1w62TDL._UF1000,1000_QL80_.jpg",
+    rating: 4.9, year: 2015, developer: "Rocksteady Studios", publisher: "Warner Bros. Interactive Entertainment",
+    description: "Batman: Arkham Knight is an open-world action game that concludes the award-winning Arkham trilogy. Take control of Batman as he protects Gotham City from Scarecrow and the mysterious Arkham Knight, using advanced combat, stealth, detective skills, and the fully drivable Batmobile.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4cqb1EpEMRC5ez4sKsHu1CWgvUHls9dW-pFOcagKMQ908RDqizQlo5aZ7&s=10",
+      "https://cdn.mos.cms.futurecdn.net/ec9b667f646f7007cc3207e2cf6bd9f1.jpg",
+      "https://i.insider.com/537cba3e69bedd611657d110?width=700"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-750", ram: "6 GB", gpu: "NVIDIA GeForce GTX 660", storage: "55 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 69, title: "Terminator Salvation", category: "Action", genre: "Third-Person Shooter",
+    image: "https://static.wikia.nocookie.net/terminator/images/9/9d/Terminator-salvation-poster-v1.jpg/revision/latest/thumbnail/width/360/height/360?cb=20190709114641",
+    banner: "https://m.media-amazon.com/images/M/MV5BMWY1OWQ4ZWQtYzZkOS00ZTU0LWE3MDItOTg3YzdmODRkMDVjXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    rating: 4.2, year: 2009, developer: "GRIN", publisher: "Warner Bros. Interactive Entertainment",
+    description: "Terminator Salvation is a third-person action shooter set during the future war between humanity and Skynet. Play as John Connor as you lead the Resistance through intense battles against deadly machines, using a variety of weapons, vehicles, and cooperative gameplay to fight for mankind's survival.",
+    screenshots: [
+      "https://m.media-amazon.com/images/M/MV5BNzA0NTA2ODE5Nl5BMl5BanBnXkFtZTgwMDk2NDI4MTI@._V1_.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxgIb4PGMJpR3ZZCgtLTgELW-FxZdM6ORfcN5ELqKaCPKpFXzyYwx4VSHi&s=10",
+      "https://static01.nyt.com/images/2009/05/21/movies/21term600.jpg?quality=75&auto=webp&disable=upscale"
+    ],
+    requirements: { os: "Windows XP/Vista", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8800 GT", storage: "8 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 70, title: "Call of Duty: Infinite Warfare", category: "Action", genre: "First-Person Shooter",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4gbJ31v4q_hGdfXhgstyhv1W4pWbk78f_rN2gV0zGXQb7ffWvbd5x9aA&s=10",
+    banner: "https://upload.wikimedia.org/wikipedia/en/8/87/Call_of_Duty_Infinite_Warfare_cover.jpg",
+    rating: 4.5, year: 2016, developer: "Infinity Ward", publisher: "Activision",
+    description: "Call of Duty: Infinite Warfare is a first-person shooter that takes players beyond Earth into a large-scale space war. Play as Captain Nick Reyes, command the UNSA Retribution, engage in fast-paced combat across the Solar System, pilot advanced spacecraft, and experience an action-packed campaign, multiplayer, and Zombies mode.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRX2Nei-vNUv7M7GnWiElScd9Mlc5yFqe_NSigbtCGry6q52dRQnrVqXNY&s=10",
+      "https://i.ytimg.com/vi/3FcPQykr_yc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCVR7WScraG0l8Uy8oJx-1Iz_CCDg",
+      "https://media.wired.com/photos/5926a108cfe0d93c47430df5/3:2/w_2560%2Cc_limit/COD-Infinite-Warfare_SP_Operation-Burn-Water.jpg"
+    ],
+    requirements: { os: "Windows 7 64-bit / Windows 10 64-bit", cpu: "Intel Core i3-3225", ram: "8 GB", gpu: "NVIDIA GeForce GTX 660 2 GB", storage: "70 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 71, title: "Call of Duty: Modern Warfare Remastered", category: "Action", genre: "First-Person Shooter",
+    image: "https://www.dsogaming.com/wp-content/uploads/2016/05/Call-of-Duty-Modern-Warfare-feature.jpg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFVA1Nkk3jx_JF8E6PR2xEeqxEYN2G72RkU8TfoD4TK4PKlln1CPwPR6hT&s=10",
+    rating: 4.8, year: 2016, developer: "Raven Software", publisher: "Activision",
+    description: "Call of Duty: Modern Warfare Remastered is a visually enhanced version of the award-winning first-person shooter. Experience the legendary campaign as Sergeant John 'Soap' MacTavish, featuring improved graphics, remastered audio, and classic multiplayer with iconic maps, weapons, and fast-paced combat.",
+    screenshots: [
+      "https://hot.game/uploads/media/slide_game/0001/11/f76842f6453e77fc4e781845880c4c6c9b861a6e.jpeg",
+      "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/legacy/modern-warfare-remastered/features/multiplayer/MWR_desktop_CutAssets_Multiplayer_01.jpg",
+      "https://gaming-cdn.com/images/products/10765/screenshot/call-of-duty-modern-warfare-remastered-remastered-xbox-one-game-microsoft-store-europe-wallpaper-5.jpg?v=1740061373"
+    ],
+    requirements: { os: "Windows 7 64-bit / Windows 10 64-bit", cpu: "Intel Core i3-3225", ram: "8 GB", gpu: "NVIDIA GeForce GTX 660 2 GB", storage: "55 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 72, title: "Assassin's Creed Revelations", category: "Action", genre: "Open World Action-Adventure",
+    image: "https://oyster.ignimgs.com/mediawiki/apis.ign.com/assassins-creed-revelations/a/a9/ACRMP_Together.jpeg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStBrq76PGFdYZTVvyLt_gZGe_9hel6GIVJS5tyF2T9VQ&s=10",
+    rating: 4.8, year: 2011, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Assassin's Creed Revelations is an open-world action-adventure game where master assassin Ezio Auditore travels to Constantinople in search of the secrets left behind by Altaïr. Experience an epic conclusion to Ezio's journey with parkour, stealth, intense combat, and a compelling story spanning centuries.",
+    screenshots: [
+      "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/7zxaNB0f9qquj9wwZrwYyL/3451e0eea591005961c2fcb058749872/-ACRev-_Screenshot_-_7.jpg",
+      "https://i.guim.co.uk/img/static/sys-images/Technology/Pix/pictures/2011/11/14/1321284321696/Assassins-Creed-005.jpg?width=445&dpr=1&s=none&crop=none",
+      "https://m.media-amazon.com/images/M/MV5BOTQwNTBjMzktYzkwNi00ZWJkLTk0NjEtMTVkZDVkYzIyYzE3XkEyXkFqcGc@._V1_.jpg"
+    ],
+    requirements: { os: "Windows XP SP3 / Vista SP2 / Windows 7", cpu: "Intel Core 2 Duo E6700 2.6 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8800 GT", storage: "12 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 73, title: "HITMAN", category: "Action", genre: "Stealth Action",
+    image: "https://images.squarespace-cdn.com/content/v1/53fcd5b1e4b0826cfdf767e2/1622322875613-24R8CWTODTUREF2GJ14I/Hitman_2016_pic.jpeg",
+    banner: "https://upload.wikimedia.org/wikipedia/en/8/84/Hitman_2015.jpg",
+    rating: 4.8, year: 2016, developer: "IO Interactive", publisher: "Square Enix",
+    description: "HITMAN is a stealth action game where players take on the role of Agent 47, a legendary assassin traveling across the world to eliminate high-profile targets. Explore detailed sandbox environments, use creative disguises, plan perfect assassinations, and complete missions with complete freedom of approach.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmx7hxSPBDowY4m6ppddkWjgi_52ziCUfttA-jGqQ_iWg0xQxAbBfY3bs&s=10",
+      "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fhitman-2016-is-one-of-the-greatest-stealth-games-ive-played-v0-2ol3zaigyb151.jpg%3Fauto%3Dwebp%26s%3D5810ef4fa9b682e58172ae56a5ba42174ea62701",
+      "https://i.guim.co.uk/img/media/9c15c74c62689eee3fa5960a18e2d1670832267f/65_0_1800_1080/master/1800.jpg?width=1200&quality=85&auto=format&fit=max&s=0dbc9f8f3784c096c53088dc377634b7"
+    ],
+    requirements: { os: "Windows 7 64-bit", cpu: "Intel Core i5-2500K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 660", storage: "50 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 74, title: "Middle-earth: Shadow of Mordor", category: "Action", genre: "Open World Action RPG",
+    image: "https://image.api.playstation.com/cdn/EP1018/CUSA02152_00/Aj500YroQRj4l755pgq7CbBWxkjL9RlQ.png",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQobAZWQNnHYzTm9l897hUgzB0eahqsec6n6QAkUv61nA&s=10",
+    rating: 4.8, year: 2014, developer: "Monolith Productions", publisher: "Warner Bros. Interactive Entertainment",
+    description: "Middle-earth: Shadow of Mordor is an open-world action RPG set in Tolkien's legendary universe. Play as Talion, a Ranger bound to the wraith Celebrimbor, as you seek vengeance against the forces of Sauron using brutal combat, stealth, and the innovative Nemesis System that creates unique enemy encounters.",
+    screenshots: [
+      "https://gaming-cdn.com/images/products/11622/screenshot/middle-earth-shadow-of-mordor-game-of-the-year-edition-goty-edition-xbox-one-xbox-series-x-s-game-microsoft-store-united-states-wallpaper-4.jpg?v=1741083384",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0_r7b0QNnpeYh_oL2GkRsbagGGRydoNcJxwqpkCIzKASuFVdz3hOWf9k&s=10",
+      "https://i.ytimg.com/vi/fpRXiyIvvX4/maxresdefault.jpg"
+    ],
+    requirements: { os: "Windows 7 64-bit", cpu: "Intel Core i5-750", ram: "4 GB", gpu: "NVIDIA GeForce GTX 460", storage: "44 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 75, title: "Hitman: Absolution", category: "Action", genre: "Stealth Action",
+    image: "https://store-images.s-microsoft.com/image/apps.64039.63099469080304324.45062867-e553-426c-bd79-9355bd2c7607.93e1e34b-1685-45ac-8038-909086d96b6a?q=90&w=480&h=270",
+    banner: "https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fwhy-did-people-dislike-hitman-absolution-v0-f0f1w4lv57rd1.jpeg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3Dc3a2bcc8111dd259efdd8af52fa3a421bedfc3ba",
+    rating: 4.7, year: 2012, developer: "IO Interactive", publisher: "Square Enix",
+    description: "Hitman: Absolution is a stealth action game that follows Agent 47 on a personal mission of betrayal and redemption. Eliminate targets using disguises, silent takedowns, and creative assassination methods while navigating highly detailed environments and uncovering a gripping conspiracy.",
+    screenshots: [
+      "https://gaming-cdn.com/images/products/19903/screenshot/hitman-absolution-switch-nintendo-eshop-wallpaper-5.jpg?v=1762771175",
+      "https://i.ytimg.com/vi/BaXeuPSj89Y/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGIgZShPMA8=&rs=AOn4CLB4c4OjnBtWPJKQcAai7HlsR9gSeg",
+      "https://sm.pcmag.com/pcmag_uk/review/h/hitman-abs/hitman-absolution_wfzs.jpg"
+    ],
+    requirements: { os: "Windows Vista SP2 / Windows 7", cpu: "Intel Core 2 Duo 2.66 GHz", ram: "2 GB", gpu: "NVIDIA GeForce GT 220", storage: "24 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 76, title: "FIFA 15", category: "Sports", genre: "Football Simulation",
+    image: "https://upload.wikimedia.org/wikipedia/en/2/23/FIFA_15_Cover_Art.jpg",
+    banner: "https://static.wikia.nocookie.net/fifa/images/8/89/FIFA15PS4.jpg/revision/latest/scale-to-width-down/1200?cb=20161126184132",
+    rating: 4.7, year: 2014, developer: "EA Canada", publisher: "Electronic Arts",
+    description: "FIFA 15 is a football simulation game featuring realistic player emotions, improved ball physics, and authentic gameplay. Compete with hundreds of licensed clubs and national teams across multiple game modes, including Career Mode, Ultimate Team, and online multiplayer.",
+    screenshots: [
+      "https://media.contentapi.ea.com/content/www-easports/en_US/fifa/features/gen3/_jcr_content/pageBlocksContainer/blocks/feature_7/primaryContent/image.img.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe4xSJbSv2_l4nPhpDBaRwnWO2MgEuFmYFZcJcb1mqqVHlj7DerYrR1f8&s=10",
+      "https://i.ytimg.com/vi/DGDuL0ngfNA/maxresdefault.jpg"
+    ],
+    requirements: { os: "Windows Vista/7/8 64-bit", cpu: "Intel Core 2 Quad Q6600", ram: "4 GB", gpu: "NVIDIA GeForce GTX 650", storage: "15 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 77, title: "Assassin's Creed Rogue", category: "Action", genre: "Open World Action-Adventure",
+    image: "https://m.media-amazon.com/images/M/MV5BMGE2YWQwNTQtZmUxYy00ZTQxLWIwYmQtYThjM2RjZDZiZWE3XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",
+    banner: "https://static.wikia.nocookie.net/assassinscreed/images/e/e5/Assassin%27s_Creed_Rogue_-_Cover_Art.jpeg/revision/latest?cb=20140809155555",
+    rating: 4.7, year: 2014, developer: "Ubisoft Sofia", publisher: "Ubisoft",
+    description: "Assassin's Creed Rogue is an open-world action-adventure game that follows Shay Patrick Cormac, a former Assassin who joins the Templar Order after a tragic mission. Explore the icy North Atlantic, colonial New York, and the American River Valley while hunting former allies using stealth, naval combat, and parkour.",
+    screenshots: [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311560/ss_142c19862c8bb307252dedf7f17cda4eb5f3f2b8.1920x1080.jpg?t=1751968973",
+      "https://i0.wp.com/www.thexboxhub.com/wp-content/uploads/2018/04/rogue-remastered-rev-2.jpeg?fit=1440%2C810&ssl=1",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS1Nl5SC492DB2gfSWH2qvzCK07Dwn0YXlMmngX6vSeVyty9lmWbFBHPY&s=10"
+    ],
+    requirements: { os: "Windows 7 SP1 / Windows 8 / Windows 8.1 64-bit", cpu: "Intel Core i5-2400S", ram: "2 GB", gpu: "NVIDIA GeForce GTX 560 Ti", storage: "12 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 78, title: "Pro Evolution Soccer 2011", category: "Sports", genre: "Football Simulation",
+    image: "https://upload.wikimedia.org/wikipedia/fr/thumb/7/76/Pro_Evolution_Soccer_2011_Logo.jpg/1280px-Pro_Evolution_Soccer_2011_Logo.jpg",
+    banner: "https://m.media-amazon.com/images/M/MV5BNGE0MDJiNGEtMjc0MC00MWFkLTk3NDQtOTYxMTdlNzBlNmNjXkEyXkFqcGc@._V1_.jpg",
+    rating: 4.6, year: 2010, developer: "PES Productions", publisher: "Konami",
+    description: "Pro Evolution Soccer 2011 is a football simulation game that introduced full 360-degree passing, enhanced player control, and improved AI for a more realistic football experience. Compete with licensed clubs and national teams in multiple game modes, including UEFA Champions League, Master League, and Become a Legend.",
+    screenshots: [
+      "https://www.gamereactor.eu/media/30/newpes2011_213094.jpg",
+      "https://media.pocketgamer.com/artwork/na-nrij/pes_2011_wp7__2_.jpg",
+      "https://i.ytimg.com/vi/bSYZ1vM0XgI/maxresdefault.jpg"
+    ],
+    requirements: { os: "Windows XP SP3 / Vista SP2 / Windows 7", cpu: "Intel Pentium IV 2.4 GHz", ram: "1 GB", gpu: "NVIDIA GeForce 6600", storage: "8 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 79, title: "FIFA 12", category: "Sports", genre: "Football Simulation",
+    image: "https://upload.wikimedia.org/wikipedia/en/8/8f/FIFA_12_cover.jpg",
+    banner: "https://upload.wikimedia.org/wikipedia/en/8/8f/FIFA_12_cover.jpg",
+    rating: 4.7, year: 2011, developer: "EA Canada", publisher: "Electronic Arts",
+    description: "FIFA 12 is a football simulation game featuring the revolutionary Player Impact Engine, Tactical Defending, and Precision Dribbling for a more realistic and strategic football experience. Play with hundreds of licensed clubs and national teams across Career Mode, Ultimate Team, and online multiplayer.",
+    screenshots: [
+      "https://i.ytimg.com/vi/QiD5j1O5pZM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD4eqclUILNfTpUSUTjdw1MQbS-7g",
+      "https://cdn.mos.cms.futurecdn.net/e461a72e2941da08d7ca1cdbdca5089f.jpg",
+      "https://www.gamereactor.eu/media/41/euro2012_374101b.jpg"
+    ],
+    requirements: { os: "Windows XP SP3 / Windows Vista SP2 / Windows 7", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8800 GT", storage: "8 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
   
   
   
