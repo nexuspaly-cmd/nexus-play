@@ -1801,6 +1801,21 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: true
 },
+  {
+    id: 1e4 + 80, title: "Call of Duty: WWII", category: "Action", genre: "First-Person Shooter",
+    image: "https://store-images.s-microsoft.com/image/apps.22758.71612540964422743.6634154b-bc0d-4de6-aca6-ce897c4def0d.3c42b99b-56f4-4713-93c9-429a6769aebf?q=90&w=480&h=270",
+    banner: "https://upload.wikimedia.org/wikipedia/en/1/18/Call_of_Duty_WWII_Cover_Art.jpg",
+    rating: 4.8, year: 2017, developer: "Sledgehammer Games", publisher: "Activision",
+    description: "Call of Duty: WWII is a first-person shooter that returns the series to World War II. Experience the gripping campaign as Ronald 'Red' Daniels, fight across iconic European battlefields, and enjoy intense multiplayer action along with the cooperative Nazi Zombies mode.",
+    screenshots: [
+      "https://cdn.arstechnica.net/wp-content/uploads/2017/11/CoD-5-scaled.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3Lf7XmTz_nzNMi-N9b3S4u7JhPXzzEji9WsHocPrEL383IQDQgHYswZI&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQM-bHqkyRAnnBauLQmvnENMVghSAGntzZGxkuojBY3SgzrMVWwI4Jp5yRe&s=10"
+    ],
+    requirements: { os: "Windows 7 64-bit / Windows 10 64-bit", cpu: "Intel Core i3-3225", ram: "8 GB", gpu: "NVIDIA GeForce GTX 660 2 GB", storage: "90 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
   
   
   
