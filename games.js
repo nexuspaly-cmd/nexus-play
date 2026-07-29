@@ -1286,7 +1286,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwKoNzbQ6-Mk3Rqn8tZkIdCdYAkfvenKJdVupFsujjeDTrN2Rbz_OoDltu&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-8400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1060 6 GB", storage: "20 GB" },
-    link: "#",
+    link: "https://bzzhr.co/coh30pf2pbc9",
     featured: true, trending: true, popular: true
 },
 
@@ -1424,6 +1424,171 @@ const gamesDB = [
     ],
     requirements: { os: "Windows XP/Vista/7", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8600 GT", storage: "8 GB" },
     link: "https://www.dropbox.com/scl/fi/io3iwpwrv7no1eqzuy85m/mafia-2.torrent?rlkey=brmt7dqinwtq8dneuieezkne2&st=eb6413yw&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 55, title: "Horizon Zero Dawn Complete Edition", category: "Action", genre: "Open World RPG",
+    image: "https://cdn1.epicgames.com/3328b08ac1c14540aa265a1a85c07839/offer/hzd_wide-2560x1440-bd312be05c49cf339097777c493cb899.jpg",
+    banner: "https://media.gamestop.com/i/gamestop/10156207_SCR01/Horizon-Zero-Dawn-COMPLETE-EDITION---PlayStation-4?w=1256&h=664&fmt=auto",
+    rating: 4.9, year: 2020, developer: "Guerrilla Games", publisher: "PlayStation Publishing LLC",
+    description: "Horizon Zero Dawn Complete Edition is an open-world action RPG where players take on the role of Aloy, a skilled hunter exploring a breathtaking world ruled by mysterious robotic creatures. Uncover ancient secrets, craft powerful weapons, and experience the award-winning adventure along with The Frozen Wilds expansion.",
+    screenshots: [
+      "https://images.g2a.com/470x276/1x1x0/horizon-zero-dawn-complete-edition-pc-steam-account-account-global-i10000145208015/5f2d4ba87e696c12be3478e2",
+      "https://files.vgtimes.com/gallery/thumb/137386/horizon-1-1.webp",
+      "https://cdn2.unrealengine.com/egs-horizonzerodawncompleteedition-guerrilla-g1a-00-1920x1080-371956372.jpg"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2500K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 780", storage: "100 GB" },
+    link: "https://www.dropbox.com/scl/fi/ggnob5tolv8u5yxd5lrms/Horizon-Zero-Dawn-Complete-Edition.torrent?rlkey=5v85pctyfxygo5yld3yxxgk59&st=n9uw11vm&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 56, title: "Fast & Furious Crossroads", category: "Action", genre: "Action Racing",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/FastFuriousCrossroads.jpg/250px-FastFuriousCrossroads.jpg",
+    banner: "https://www.dsogaming.com/wp-content/uploads/2020/05/Fast-Furious-Crossroads-new-screenshots-2.jpg",
+    rating: 3.8, year: 2020, developer: "Slightly Mad Studios", publisher: "Bandai Namco Entertainment",
+    description: "Fast & Furious Crossroads is an action racing game inspired by the Fast & Furious film franchise. Join Dom, Letty, and Roman in a globe-trotting adventure featuring explosive missions, high-speed chases, and intense vehicular combat with a variety of customizable cars.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwwyi_eXszgZGJL2YmGLUQWxxptcDhbQFA0uD6MCrhW4RGKxflq_mGrv3A&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWPZ_j4CehUlIPFO1hLERaf5OxvQlBjLq8jBbvoH2mme7tQtC05zb0eVJ5&s=10",
+      "https://m.media-amazon.com/images/M/MV5BYmU2MzRkNTgtZmYwNy00ZmEyLTlmOGUtNmY4MWE3NjRjMjkxXkEyXkFqcGdeQVRoaXJkUGFydHlJbmdlc3Rpb25Xb3JrZmxvdw@@._V1_.jpg"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4460", ram: "8 GB", gpu: "NVIDIA GeForce GTX 970", storage: "50 GB" },
+    link: "https://www.dropbox.com/scl/fi/imqc9158qgpo206xx7dvc/Fast-And-Furious-Crossroads.torrent?rlkey=gmhqfcvw4gqkh6z8pa03rzcpc&st=9zb5qtv7&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 57, title: "Metro: Last Light Redux", category: "Action", genre: "First-Person Shooter",
+    image: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/287390/capsule_616x353.jpg?t=1725444535",
+    banner: "https://i.ytimg.com/vi/TQgHdZuvkZY/maxresdefault.jpg",
+    rating: 4.8, year: 2014, developer: "4A Games", publisher: "Deep Silver",
+    description: "Metro: Last Light Redux is a first-person shooter set in the post-apocalyptic tunnels of the Moscow Metro. Play as Artyom and battle deadly mutants, hostile factions, and supernatural threats while uncovering the fate of humanity in a dark, atmospheric world enhanced with improved graphics and gameplay.",
+    screenshots: [
+      "https://cdn.mos.cms.futurecdn.net/f855bd1f235bfcdfe3666bab0c844bbf.jpg",
+      "https://image.api.playstation.com/cdn/EP4062/CUSA00592_00/FREE_CONTENTmXzLIEyuV1KYC51Wpok9/PREVIEW_SCREENSHOT10_427589.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC8nwMP06B7Erm-otDELu4rlCxLYy8HedSz6WRpLiwGZJDi1-ck1TFWNMn&s=10"
+    ],
+    requirements: { os: "Windows Vista/7/8 64-bit", cpu: "Intel Core 2 Duo 2.2 GHz", ram: "2 GB", gpu: "NVIDIA GeForce GTS 250", storage: "10 GB" },
+    link: "https://www.dropbox.com/scl/fi/f0rj8ih9e8qxwzqzdi36m/Metro-Last-Night-Redux.torrent?rlkey=rs65lz684ajcnnzb25ig9wyiv&st=2o4gzvho&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 58, title: "Spintires", category: "Simulation", genre: "Off-Road Driving Simulation",
+    image: "https://gaming-cdn.com/images/products/635/orig/spintires-pc-game-steam-cover.jpg?v=1749049158",
+    banner: "https://upload.wikimedia.org/wikipedia/en/3/32/Spintires_boxart.jpg",
+    rating: 4.6, year: 2014, developer: "Oovee Game Studios", publisher: "Oovee Game Studios",
+    description: "Spintires is an off-road driving simulation game where players navigate challenging terrain using powerful trucks and heavy vehicles. Transport logs, complete objectives, and overcome mud, rivers, and forests with realistic physics and dynamic weather conditions.",
+    screenshots: [
+      "https://gaming-cdn.com/images/products/635/screenshot/spintires-pc-spil-steam-wallpaper-5.jpg?v=1749049158",
+      "http://gfn.ru/media/images/screen_vnHqLvW.2e16d0ba.fill-992x558.format-webp.webpquality-50.webp",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8qH3_jNrR9xW_zruEGtvkJYyR6sN9Tc6NMd5CCGXo_gtypxXgEbvGZ6rE&s=10"
+    ],
+    requirements: { os: "Windows XP/Vista/7/8", cpu: "Intel Dual Core 2.0 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 9600 GT", storage: "1 GB" },
+    link: "https://www.dropbox.com/scl/fi/brq8r7gzqlt25uj0icx66/Spintires.torrent?rlkey=dk2aljopwwlt1wsyd9zrrqjti&st=19w91kpq&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 59, title: "DiRT 3 Complete Edition", category: "Racing", genre: "Rally Racing",
+    image: "https://i.ytimg.com/vi/Res2eXxLh0Q/maxresdefault.jpg",
+    banner: "https://upload.wikimedia.org/wikipedia/en/2/2b/Dirt_3.jpg",
+    rating: 4.7, year: 2011, developer: "Codemasters", publisher: "Codemasters",
+    description: "DiRT 3 Complete Edition is an off-road rally racing game featuring over 50 rally cars, dynamic weather, and diverse tracks across the world. Compete in rally, rallycross, gymkhana, and other challenging events while experiencing realistic handling and immersive driving physics.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRT8yERuZwJmUoLHsbW5pUCVYEEcKZwfNJfbdnNjHwalUUs62V1UjMJ2rk&s=10",
+      "https://i.ytimg.com/vi/5_oM1Dtu0yg/maxresdefault.jpg",
+      "https://cdn.dlcompare.com/game_tetiere/upload/gameimage/file/dirt3_screenshot1.jpg.webp"
+    ],
+    requirements: { os: "Windows XP/Vista/7", cpu: "Intel Core 2 Duo 2.0 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8000 Series", storage: "15 GB" },
+    link: "https://www.dropbox.com/scl/fi/bxhwuay09wx2kak9rucj0/Dirt-3.torrent?rlkey=77kv3rx98cgmjfyxszw1wrli7&st=oufbzp5e&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 60, title: "Dark Souls III", category: "RPG", genre: "Action RPG",
+    image: "https://cdn.playmaroc.com/wp-content/uploads/2016/11/dark-souls-3-cover.jpg",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_c4Z19RwZIKYB-Ynsofzj7uaVpK94YOHsd5h9DpMSmQ39DFRjr1hoNXw&s=10",
+    rating: 4.9, year: 2016, developer: "FromSoftware", publisher: "Bandai Namco Entertainment",
+    description: "Dark Souls III is a challenging action RPG set in the dark and decaying Kingdom of Lothric. Battle fearsome enemies, powerful bosses, and explore interconnected environments while mastering strategic combat, character progression, and a deep fantasy storyline.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXpLUnuVVNTh0oZ3-xsbqOSLPfvJBM8vgJRQOM42S8GRASsvDbhXwJBig&s=10",
+      "http://media.wired.com/photos/592715d37034dc5f91bed988/3:2/w_2560%2Cc_limit/ds-iii-2.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRORX5fxFekZOdN5rOZmM20CUnQR0ftvSbgnQvs8qTy4CMNwjw7QN1TlMg&s=10"
+    ],
+    requirements: { os: "Windows 7 SP1 64-bit / Windows 8.1 64-bit / Windows 10 64-bit", cpu: "Intel Core i3-2100", ram: "4 GB", gpu: "NVIDIA GeForce GTX 750 Ti", storage: "25 GB" },
+    link: "https://www.dropbox.com/scl/fi/lwb66e301ukma9spu1e8i/Dark-Souls-III.torrent?rlkey=d2gmlc2f565zaoj5iup357zbv&st=p9fwshln&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 61, title: "Halo: The Master Chief Collection - Halo 2: Anniversary", category: "Action", genre: "First-Person Shooter",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRL8oy4q-rU2P8s4FLJJXhQ0uRmWdRCoGkxMR4pZh8A6A&s",
+    banner: "https://i.ytimg.com/vi/k4NXV40gW7k/maxresdefault.jpg",
+    rating: 4.9, year: 2014, developer: "343 Industries", publisher: "Xbox Game Studios",
+    description: "Halo 2: Anniversary is a remastered first-person shooter included in Halo: The Master Chief Collection. Experience Master Chief's legendary campaign with stunning enhanced visuals, remastered audio, and classic gameplay, while enjoying iconic multiplayer maps rebuilt with modern graphics.",
+    screenshots: [
+      "https://wpassets.halowaypoint.com/wp-content/2024/11/GJ_PK-1.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvOa5k6w5u07h1GSQelUta_HDxZRqFwUDEjci19LU64A&s=10",
+      "https://oyster.ignimgs.com/mediawiki/apis.ign.com/halo-master-chief-collection/b/b7/Halo_2_Anniversary_Multiplayer.jpg"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i7-975", ram: "8 GB", gpu: "NVIDIA GeForce GTS 450", storage: "55 GB" },
+    link: "https://www.dropbox.com/scl/fi/ad8s7iujqihx0ecbe9265/Halo-The-Master-Chief-Collection-Halo-2-Anniversary.torrent?rlkey=isvpdexq6kaoy4mt9y01v07g1&st=dbqocnao&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 62, title: "Dead by Daylight", category: "Horror", genre: "Survival Horror",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXhsFG0wKzhUoRe_wkaWxjSChFa9xzI2zfp4RWvufcwocJccWTG3dFeNP_&s=10",
+    banner: "https://upload.wikimedia.org/wikipedia/en/b/b7/Dead_by_Daylight_Steam_header.jpg",
+    rating: 4.7, year: 2016, developer: "Behaviour Interactive", publisher: "Behaviour Interactive",
+    description: "Dead by Daylight is an asymmetric multiplayer survival horror game where one player takes on the role of a ruthless Killer while four Survivors work together to repair generators, evade capture, and escape. Featuring iconic horror characters, intense gameplay, and regular content updates, every match delivers a unique and thrilling experience.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlfuueFas_GWmHwvMCf-wHZRFXFCaH-YZQFMcpSIQLHg&s=10",
+      "https://media.wired.com/photos/617c5a1e8e58a77811a3a41c/master/w_1600%2Cc_limit/Games-Dead-by-Daylight-3.jpg",
+      "https://assetsio.gnwcdn.com/dead-by-daylight-lets-you-life-out-your-teen-slasher-fantasies-1462934870401.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i3-4170", ram: "8 GB", gpu: "NVIDIA GeForce GTX 460", storage: "50 GB" },
+    link: "https://www.dropbox.com/scl/fi/ewjv1ggynv4oq6tlmjx1a/Dead-By-Day-Light.torrent?rlkey=wsrf3a8vqtqu2q9d7hmslqf5y&st=l0pebmqm&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 63, title: "Minecraft Dungeons", category: "Action", genre: "Dungeon Crawler RPG",
+    image: "https://i.guim.co.uk/img/media/ae184267567d50db7753e6a20e8f9bc345fb9225/0_170_1934_1160/master/1934.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=8c13df8e374865286ffb9452c7e1ccaa",
+    banner: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1672970/page_bg_raw.jpg?t=1717003107",
+    rating: 4.7, year: 2020, developer: "Mojang Studios", publisher: "Xbox Game Studios",
+    description: "Minecraft Dungeons is an action-adventure dungeon crawler inspired by classic RPGs and set in the Minecraft universe. Battle through action-packed levels, collect powerful weapons and artifacts, defeat epic bosses, and play solo or with friends in cooperative multiplayer.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfi0lAatXiIyUv7mpxmi6qpotEUuKvy6U694Ql7qyXLSJfsbcsZXE6CZs&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_tsnhNVHOCMUD57CepVsKjzSSOmbcYe5F2eTzMNhSlkDjrbilzRiG7hU&s=10",
+      "https://media.wired.com/photos/5ed0002df2a15a3541db1026/3:2/w_2560%2Cc_limit/Cul-minecraftdungeon-Screenshot_Combat_HiRes.jpg"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4690", ram: "8 GB", gpu: "NVIDIA GeForce GTX 660", storage: "6 GB" },
+    link: "https://www.dropbox.com/scl/fi/ac7vz8ubx13p7ynyg62j0/Minecraft-Dungeons.torrent?rlkey=vpl8099357ot40us3qo7fdw57&st=msq13mx0&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 64, title: "Dragon Ball Xenoverse", category: "Action", genre: "Fighting RPG",
+    image: "https://static.bandainamcoent.eu/high/dragon-ball/dragonball-xenoverse-2/00-page-setup/dbxv2_game-thumbnail.jpg",
+    banner: "https://upload.wikimedia.org/wikipedia/en/thumb/0/0a/DB_Xenoverse.jpg/250px-DB_Xenoverse.jpg",
+    rating: 4.6, year: 2015, developer: "Dimps", publisher: "Bandai Namco Entertainment",
+    description: "Dragon Ball Xenoverse is an action fighting RPG where players create their own custom warrior and travel through iconic Dragon Ball timelines to protect history from powerful enemies. Experience fast-paced battles, unlock legendary transformations, and fight alongside famous Dragon Ball characters.",
+    screenshots: [
+      "https://gaming-cdn.com/images/products/16372/screenshot/dragon-ball-xenoverse-bundle-edition-bundle-edition-pc-game-steam-united-states-wallpaper-5.jpg?v=1710931208",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS6sP29lEVtIZxazsrIzstCn8QA6nl9_kZLIZRGpd20A&s",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToHPADotn-hW-LOzo0PKuTVGV7N56UsrwH1R4Pmc3yBGEc-b34kDJz9ug&s=10"
+    ],
+    requirements: { os: "Windows Vista/7/8", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8800 GT", storage: "10 GB" },
+    link: "https://www.dropbox.com/scl/fi/arx3un7c675ao4t8ro2yy/Dragon-Ball-Xenoverse.torrent?rlkey=nw93eeemtsyozo0nddx5ihlfm&st=m0tbgocv&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 65, title: "Sleeping Dogs: Definitive Edition", category: "Action", genre: "Open World Action",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDA791bz-_NOGzJ8P54Hc21hrW3Z3vL7a0JE_a1OG_MA&s=10",
+    banner: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTF0JGRAKANsDQCfmQpeM1Pb9LvMrSKXIXfW1cKikUyFQ&s",
+    rating: 4.8, year: 2014, developer: "United Front Games", publisher: "Square Enix",
+    description: "Sleeping Dogs: Definitive Edition is an open-world action game set in the vibrant streets of Hong Kong. Play as undercover police officer Wei Shen as he infiltrates the dangerous Sun On Yee Triad, engaging in intense martial arts combat, thrilling car chases, and a gripping crime story with enhanced graphics and all previously released DLC included.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRPhiF35m5hMPrzLlBi-19Qs1KPLng0lmOuPkHSZgbZkJMguLibGiaRF-6&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLwHSCzn6nFty_pZMPAEn7W66BplwWvoFmJ0h0N-f8hRxo-Xy3Wq6jz3WS&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa1NWHrJL5feiny6PFJO42wt4N8FQhcDcurdSlO2RwW_ia1U5xbLy6LT9M&s=10"
+    ],
+    requirements: { os: "Windows Vista 64-bit", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8800 GT", storage: "20 GB" },
+    link: "https://www.dropbox.com/scl/fi/09v1rki914dm1qy4fdcan/Sleeping-Dogs-Definitive-Edition.torrent?rlkey=af8jy2nlc5foar4jzf5w50jyf&st=cqlzyjoh&dl=1",
     featured: true, trending: true, popular: true
 },
   
