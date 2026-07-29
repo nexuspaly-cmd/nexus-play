@@ -731,7 +731,7 @@ const gamesDB = [
       "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/42700/ss_02f61572344252870b28b6ca0fd990c80a82dd0b.1920x1080.jpg?t=1780962720"
     ],
     requirements: { os: "Windows XP / Vista / 7 / 10 64-bit", cpu: "ntel Core 2 Duo E6600", ram: "4 GB", gpu: "NVIDIA GeForce 8600 GT", storage: "12 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/ceww2hroyq75zfn1lwc41/Assassin-s-Creed-IV-Black-Flag.torrent?rlkey=kyuisdiz26rc0c8yu2lpowiv3&st=chvaaym6&dl=1",
     featured: true, trending: true, popular: false
   },
    {
@@ -746,7 +746,7 @@ const gamesDB = [
       "https://i.ytimg.com/vi/4qxEq2-qnB0/maxresdefault.jpg"
     ],
     requirements: { os: "Windows 7 SP1 64-bit", cpu: "Intel Core 2 Duo E8200", ram: "2 GB", gpu: "NVIDIA GeForce GTS 450", storage: "4 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/adhoxmde3mr7cv2qa2g3c/Assassin-s-Creed-Chronicles-China.torrent?rlkey=mc0fk49xoufe1n8pquckrgmrl&st=flhu1zpd&dl=1",
     featured: true, trending: true, popular: false
 },
 
@@ -762,7 +762,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCC5Yjvsi7IopPvo_rsdV6fuj0ciu0vJBhuV7fwqSqBjPnM-SW0nNgTzc&s=10"
     ],
     requirements: { os: "Windows XP", cpu: "Intel Pentium 4 1.4 GHz", ram: "256 MB", gpu: "GeForce3 64 MB", storage: "3 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/mnle1zuzyzlu3ykb1y2yt/Need-for-Speed-Most-Wanted-2005.torrent?rlkey=du7gxgp51h0z1wblpln1k25i7&st=lbitpnuh&dl=1",
     featured: true, trending: true, popular: true
 },
 
@@ -778,7 +778,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRauecBRkd_Xq3GGPPFBIhZCGr-uPaXK2BQL1eNW6fX37TqsFiikz_5toI&s=10"
     ],
     requirements: { os: "Windows XP/Vista", cpu: "Intel Core 2 Duo 1.6 GHz", ram: "1.5 GB", gpu: "GeForce 7800 GT", storage: "6 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/nt979kkikzzypxyfszuv4/Need-for-Speed-Shift.torrent?rlkey=qgud6yty7p0pkyo64704vtfam&st=nu4flydg&dl=1",
     featured: true, trending: true, popular: false
 },
 
@@ -794,7 +794,7 @@ const gamesDB = [
       "https://cdn.mos.cms.futurecdn.net/7f444cdad8b1efb920f35045ec0d9ca9-1200-80.jpg"
     ],
     requirements: { os: "Windows 7", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "4 GB", gpu: "NVIDIA GeForce 8800 GT", storage: "83 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/s1duyfw72bd3rhmkg52ak/PAYDAY-2.torrent?rlkey=7hw7j1wd1ejrcofltc2ahho11&st=3xratw3c&dl=1",
     featured: true, trending: true, popular: true
 },
 
@@ -810,7 +810,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnBPWOGXqwnoAKvPgkaEFmwj_UL3dn0aOBHb7x8gkf6jB4TKkHBDBVETo&s=10"
     ],
     requirements: { os: "Windows Vista SP2", cpu: "Intel Core i3-2100", ram: "2 GB", gpu: "NVIDIA GeForce GTX 460", storage: "18 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/eb2bexxo78h0hcbahfg7b/Sniper-Elite-3.torrent?rlkey=skwlfh6heou9oc9nh4vfbwql1&st=y9v0d0h3&dl=1",
     featured: true, trending: true, popular: false
 },
 
@@ -826,7 +826,7 @@ const gamesDB = [
       "https://gaming-cdn.com/images/products/347/screenshot/far-cry-4-pc-game-ubisoft-connect-europe-wallpaper-1.jpg?v=1701183804"
     ],
     requirements: { os: "Windows 7 SP1 64-bit", cpu: "Intel Core i5-750", ram: "4 GB", gpu: "NVIDIA GeForce GTX 460", storage: "30 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/klzmgx6th2pi9mkfwyqld/Far-Cry-4.torrent?rlkey=3pbdta0oi0lyrkkb0jzr304y7&st=lb8tcwhq&dl=1",
     featured: true, trending: true, popular: true
 },
 
@@ -842,7 +842,7 @@ const gamesDB = [
       "https://static0.gamerantimages.com/wordpress/wp-content/uploads/Assassins-Creed-3-Details1.jpg"
     ],
     requirements: { os: "Windows Vista SP2 64-bit", cpu: "Intel Core 2 Duo E8200", ram: "2 GB", gpu: "NVIDIA GeForce 8800 GT", storage: "17 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/rpv307w8wev4feezv7x5v/Assassin-s-Creed-III.torrent?rlkey=ac3dco0e50qa2mbrx18j2nutb&st=6oc230xe&dl=1",
     featured: true, trending: true, popular: false
 },
 
@@ -858,7 +858,7 @@ const gamesDB = [
       "https://i.ytimg.com/vi/8aiIrJqnJ7Q/maxresdefault.jpg"
     ],
     requirements: { os: "Windows 7 64-bit", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8800 GTS", storage: "21 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/d12e0na7vviqdis7xl5ze/Injustice-Gods-Among-Us-Ultimate-Edition.torrent?rlkey=zk6acxwy7vtt951t12ykkd74t&st=s9wfq8kr&dl=1",
     featured: true, trending: true, popular: false
 },
 
@@ -874,7 +874,7 @@ const gamesDB = [
       "https://cdn.mos.cms.futurecdn.net/0e1513788dde3977e866c21723ada121.jpg"
     ],
     requirements: { os: "Windows 8 64-bit", cpu: "Intel Core i5-2300", ram: "4 GB", gpu: "NVIDIA GeForce GTX 660", storage: "30 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/k4gqwmsb00cwy6epmhh2f/Battlefield-4.torrent?rlkey=80mked0f7ukye76bganwul2r1&st=q2yesw6q&dl=1",
     featured: true, trending: true, popular: true
 },
 
@@ -890,7 +890,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6_hpsbliZZE6o-S6WDw5SI--msAcMs5o4CKndsW3sX1G1r0ctKeVqWCw&s=10"
     ],
     requirements: { os: "Windows 7 SP1 64-bit", cpu: "Intel Core i5-2500K", ram: "6 GB", gpu: "NVIDIA GeForce GTX 680", storage: "50 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/nnwrf3g7zcg3m6ewve8pk/Assassin-s-Creed-Unity.torrent?rlkey=8p0zdzaqx3l42cowhsc5e6qrv&st=l2be3o05&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -905,7 +905,7 @@ const gamesDB = [
       "https://thesportsrush.com/wp-content/uploads/2022/10/ee8667c5-gtasa_ps4_retail-2.jpg"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 760", storage: "19 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/fvoqlbr37so2alsubloue/GTA-San-Andreas-Definitive-Edition.torrent?rlkey=47iz1mkmy9n4uner6z5qp4nkd&st=gqgw3x62&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -936,7 +936,7 @@ const gamesDB = [
       "https://play-lh.googleusercontent.com/YYEv3yADh5eD_HbyCErvJ05qCuEvrCgOGaQ3RMMOUc7GWYu--6knxiE7pN0WAm9G7K3LU2wUJXTSAJRqgKQO=w526-h296-rw"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 760", storage: "5 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/8ac69dmwjedrnmji2m3xv/GTA-III-Definitive-Edition.torrent?rlkey=t6sxifnhzfc5x2lc2zg2dp61x&st=iprxf6fm&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -951,7 +951,7 @@ const gamesDB = [
       "https://i.ytimg.com/vi/3-TcN5xewOw/maxresdefault.jpg"
     ],
     requirements: { os: "Windows XP / Vista / 7", cpu: "Intel Pentium 4 3.0 GHz", ram: "1 GB", gpu: "NVIDIA GeForce 6600 GT", storage: "8 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/bl81ci1ptbw7q71i9yy0x/Call-of-Duty-World-at-War.torrent?rlkey=ex47vct805597wtjj2cuc63g4&st=kg2qqtqv&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -966,7 +966,7 @@ const gamesDB = [
       "https://staticdelivery.nexusmods.com/mods/3609/images/headers/99_1780843559.jpg"
     ],
     requirements: { os: "Windows 98 / ME / 2000 / XP", cpu: "Intel Pentium III 933 MHz", ram: "256 MB", gpu: "NVIDIA GeForce2 MX / ATI Radeon 7500", storage: "2 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/13ygmgfaj0jzgnp16x6th/Need-for-Speed-Underground-2.torrent?rlkey=a95l57r29ezxgu1nybtxgu7lm&st=7ju2kxqs&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -981,7 +981,7 @@ const gamesDB = [
       "https://i.ytimg.com/vi/vEwUtcDkOgs/maxresdefault.jpg"
     ],
     requirements: { os: "Windows Vista SP2 / 7", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "3 GB", gpu: "NVIDIA GeForce 9800 GT", storage: "18 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/qjjhwvor9vob1oz2qxqnv/Need-for-Speed-The-Run.torrent?rlkey=78linjg8rrn1ruwnrtc17nrl8&st=4lssbq73&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -996,7 +996,7 @@ const gamesDB = [
       "https://media.newgamenetwork.com/uploads/2025/10/Battlefield1PC_11_3.jpg"
     ],
     requirements: { os: "Windows 7 / 8.1 / 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 660 2 GB", storage: "50 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/pxa0i3m1cdsn007r42zg3/Battlefield-1.torrent?rlkey=wggnhlf49djs8x9fhnvqwumuu&st=ueq4595i&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1011,7 +1011,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTk7GakRZmNrlX6wbsStvZArgLIpjWoimGPa0ol5PeZsy-ojOv-grqOOw&s=10"
     ],
     requirements: { os: "Windows Vista SP2 / 7", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "2 GB", gpu: "NVIDIA GeForce GTX 560", storage: "20 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/117hxwmz69fqw0pvo9hgb/Battlefield-3.torrent?rlkey=7v6crvuzkabhidsi0oj89laup&st=kn2ubkoc&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1026,7 +1026,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7uTmYC6Ea7EXCUVP1eYmpwoJGz9KkpkOyXQYpJOZMYBcgdLIW0rJ1WMYO&s=10"
     ],
     requirements: { os: "Windows Vista SP2 / 7 / 8", cpu: "Intel Core i5-2400S", ram: "4 GB", gpu: "NVIDIA GeForce GTX 260", storage: "30 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/ceww2hroyq75zfn1lwc41/Assassin-s-Creed-IV-Black-Flag.torrent?rlkey=kyuisdiz26rc0c8yu2lpowiv3&st=3m6dfony&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1041,22 +1041,22 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcgqdE9Vo1LiHBnyHoRAIrJQoKmRhBQcjY26HflICyH_HiIbaCRYErvms&s=10"
     ],
     requirements: { os: "Windows 7 64-bit", cpu: "Intel Core i5-2500K", ram: "6 GB", gpu: "NVIDIA GeForce GTX 660", storage: "50 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/t5l2yrtt6mujm422uqv4q/Mafia-III.torrent?rlkey=iq1f2dxkj6xa4ak3i48ou6pzx&st=6zppe2jh&dl=1",
     featured: true, trending: true, popular: true
 },
   {
     id: 1e4 + 30, title: "Assassin's Creed II", category: "Action", genre: "Open World Adventure",
-    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYtsLlyxCWjFl9rNH1V2aYN8uzjPMW_0_uOMLeQNGFBQ&s=10",
-    banner: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/50130/header.jpg?t=1746717708",
+    image: "https://upload.wikimedia.org/wikipedia/en/7/77/Assassins_Creed_2_Box_Art.JPG",
+    banner: "https://gaming-cdn.com/images/products/2172/orig/assassin-s-creed-ii-pc-ubisoft-connect-cover.jpg?v=1758545186",
     rating: 4.9, year: 2009, developer: "Ubisoft Montreal", publisher: "Ubisoft",
     description: "Assassin's Creed II follows Ezio Auditore on a journey of revenge through Renaissance Italy, featuring parkour, stealth, thrilling combat, and a rich open-world experience.",
     screenshots: [
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStZa0sSD74urAovvx2FZMPOvljO094JXn2Dr1TyzZs5EtYpuk8gwWoLNc&s=10",
-      "https://cdn.cultura.com/cdn-cgi/image/width=450/media/pim/mafia-ii-5026555247641_9.jpg",
-      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSvXR7C-yxp1ya9DwKp6JJZCR5g_x-0HiqoxFHo_9z6RtC9TJTkrWY_lM&s=10"
+      "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/4CdAD2JX2wqu1ytWiPxP3j/8e20767528333b13e640611147069018/-ACII-_Screenshots_-_5.jpg",
+      "http://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/jmgQ9HLxYdObvhzpru54c/9beacc9b82bc86a89a824034bec4ee1e/-ACII-_Screenshots_-_7.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa3bV5daSn6kGPqlStOLah-60EeebgBBCHaMXDaOwdaNwp8Gue1gL0v1o&s=10"
     ],
     requirements: { os: "Windows XP / Vista / 7", cpu: "Intel Core 2 Duo 1.8 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 7900 GS", storage: "8 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/dp8r9q6aknqqr9qfq3kw1/Assassin-s-Creed-II.torrent?rlkey=dmbf76wm8uvef599epv0seogq&st=raw3udis&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1071,7 +1071,7 @@ const gamesDB = [
       "https://prod-images.blacknut.net/66d58be866965ee3c721d88c_hd.jpg"
     ],
     requirements: { os: "Windows 7 / 8.1 / 10 64-bit", cpu: "Intel Core i3-550", ram: "4 GB", gpu: "NVIDIA GeForce GTX 460", storage: "20 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/j2sq4tvre3q51dfq2g6pj/Far-Cry-Primal.torrent?rlkey=6ugtutxyj93t5iqlko56goptj&st=g4atztr5&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1086,7 +1086,7 @@ const gamesDB = [
       "https://storage.ghost.io/c/50/c6/50c61f91-0165-4605-93bc-f8598149e466/content/images/2025/02/little-nightmares-2-school-e1612999445189-1.jpg"
     ],
     requirements: { os: "Windows 7 64-bit", cpu: "Intel Core i3", ram: "4 GB", gpu: "NVIDIA GeForce GTX 460", storage: "10 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/f7v44cu80t98seulucfii/Little-Nightmares.torrent?rlkey=15z7ud4jvnj84sot5l7smi7l7&st=pxb881cm&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1116,7 +1116,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3N4ehPn94SeMLhdh_lLHsiDMgx9ZdhH92vdNWAhDBvUwv83lueutfcoiD&s=10"
     ],
     requirements: { os: "Windows 10/11 64-bit", cpu: "Intel Core i3-8100", ram: "16 GB", gpu: "NVIDIA GeForce GTX 1650", storage: "150 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/o9mwcvpcbb94yjsqqfgw8/The-Last-of-Us-Part-II-Remastered.torrent?rlkey=viotym2mg6nxmbzql4khr7bkn&st=8crgi7o0&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1131,7 +1131,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaQqOQpNNeHiDQR4rcGI9z4ypSbWogIBd2xPTDi1_k7P595le749c8Iqo&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1050 Ti", storage: "45 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/xcu6yphlm4y2owm8rky3t/Farming-Simulator-25.torrent?rlkey=76vemluxtrt8hdfuy4garhawn&st=tj1qe2fc&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1146,7 +1146,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQU14El1zKZjh_LIbR9eUfPj4CIs66A6PsLlnW2vSaY_wkyfD-E_ROXa-g&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 670 2 GB", storage: "120 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/0shy3fe9sk0rodgatfcqy/ARK-Survival-Evolved-Ultimate-Survivor-Edition.torrent?rlkey=3as924vpblehmml9jwct6g78l&st=witizenu&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1161,7 +1161,7 @@ const gamesDB = [
       "https://images.g2a.com/uiadminimages/770x433/1x1x1/813224e2a2ec/e945a08bb9bf4d33874f608e"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4670", ram: "8 GB", gpu: "NVIDIA GeForce GTX 960", storage: "12 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/fr1an3jw4wkpaeaftw2f8/Red-Dead-Redemption.torrent?rlkey=kuxy5dy0thh4ej3up7hxmd4ul&st=pxz826os&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1176,7 +1176,7 @@ const gamesDB = [
       "https://cdn1.epicgames.com/spt-assets/f4241a8649244c5693450ebda42f935b/need-for-speed-heat-3dawn.jpg?resize=1&w=480&h=270&quality=medium"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-3570", ram: "8 GB", gpu: "NVIDIA GeForce GTX 760", storage: "50 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/qdav4woacye5pywdp9da1/Need-for-Speed-Heat-Deluxe-Edition.torrent?rlkey=39x74u8ccpfau67ocjiutlwfu&st=ucw66n9v&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1191,7 +1191,7 @@ const gamesDB = [
       "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/6HYd5rAcIJKKYWGcqPLOcR/3ce27ffc456a32dcce57dc9785496213/vista_vietnam_gold_1080p_1520348475_960x540_325113.jpg"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 670", storage: "40 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/3o9ngcyk5npqodk2xw3it/Far-Cry-5.torrent?rlkey=8ha3xhv9vmq0y2nxdrdldzvuv&st=wlto0kjj&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1206,7 +1206,7 @@ const gamesDB = [
       "https://static.wikia.nocookie.net/farcry/images/4/4e/01.jpg/revision/latest/scale-to-width-down/1200?cb=20200808232417"
     ],
     requirements: { os: "Windows XP/Vista/7", cpu: "Intel Pentium 4 3.2 GHz", ram: "1 GB", gpu: "NVIDIA GeForce 6800", storage: "3.5 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/f9ny0q4700yu0bfdkmvmt/Far-Cry-2.torrent?rlkey=rlxes3ho8xccs1o43h6wkjk37&st=3inh9ysz&dl=1",
     featured: true, trending: true, popular: true
 },
   
@@ -1222,7 +1222,7 @@ const gamesDB = [
       "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/939960/ss_14d17774c8843fa0a7f44c1afadb5258af8b450d.1920x1080.jpg?t=1750925197"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 670", storage: "30 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/tsjrtm6q0454oqnabmn18/Far-Cry-New-Dawn.torrent?rlkey=dpxhjz1ro1o3ghpvo7cxjrgs6&st=r979zdev&dl=1",
     featured: true, trending: true, popular: true
 },
 
@@ -1238,7 +1238,7 @@ const gamesDB = [
       "https://www.gamespot.com/wp-content/uploads/original/gamespot/images/2004/reviews/561565-371314_20040422_001.jpg"
     ],
     requirements: { os: "Windows 2000/XP", cpu: "Intel Pentium 4 1.8 GHz", ram: "512 MB", gpu: "NVIDIA GeForce 3", storage: "4 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/hyzylximaxwuor7mfgop5/Far-Cry-1.torrent?rlkey=9qcagv4dg6ufismnymvmbmhui&st=eblxs8bt&dl=1",
     featured: true, trending: true, popular: true
 },
 
@@ -1254,7 +1254,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9MNMSjbDs9XWgJ6PVMfgl6Z5VTpy5ta18kyJRaCOf_hB1xGRh_-seL3pc&s=10"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-6600K", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1050 / GTX 660 2GB", storage: "50 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/yyijxb53nvwamvaao2z6e/Battlefield-5.torrent?rlkey=80pblcyk1r39l68vcc4a773d4&st=krqn0rkp&dl=1",
     featured: true, trending: true, popular: true
 },
   
@@ -1270,7 +1270,7 @@ const gamesDB = [
       "https://assetsio.gnwcdn.com/-1612875239110.jpg?width=690&quality=85&format=jpg&dpr=3&auto=webp"
     ],
     requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2300", ram: "4 GB", gpu: "NVIDIA GeForce GTX 570", storage: "10 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/y0qdqofxjt6wi3rju7k39/Little-Nightmares-II.torrent?rlkey=to9oq9m9xqnhsusqelkkg5ygb&st=5gg4u511&dl=1",
     featured: true, trending: true, popular: true
 },
 
@@ -1302,7 +1302,7 @@ const gamesDB = [
       "https://images.gamewatcherstatic.com/image/file/4/c7/55294/2962.jpg?v=2"
     ],
     requirements: { os: "Windows XP/Vista/7", cpu: "Intel Core 2 Duo 1.8 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 7800", storage: "8 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/2pqszmxfxobmldij3q4dx/Pro-Evolution-Soccer-2013.torrent?rlkey=c03i9syrdu965g497yiw1jrdj&st=q7v50rsy&dl=1",
     featured: true, trending: true, popular: true
 },
 
@@ -1318,7 +1318,7 @@ const gamesDB = [
       "https://i.guim.co.uk/img/media/aea98b6f2762d49ff9628f93179841c8295b703f/233_3_1652_992/master/1652.jpg?width=465&dpr=1&s=none&crop=none"
     ],
     requirements: { os: "Windows 7 SP1/8.1/10 64-bit", cpu: "Intel Core i3-530", ram: "4 GB", gpu: "NVIDIA GeForce GTX 260", storage: "8 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/18dzkp1fkndwstp7vcbnn/Pro-Evolution-Soccer-2017.torrent?rlkey=08bycmpq41j8a9yfu78bsmxe1&st=3cixe69k&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1333,7 +1333,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkbqJLoXp5wbcuKTkCy-8673WLLoz_fXHPkD7lYUoKwH8_ugolhht4nJa-&s=10"
     ],
     requirements: { os: "Windows XP", cpu: "Intel Pentium 4 1.7 GHz", ram: "512 MB", gpu: "NVIDIA GeForce 6600", storage: "5.3 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/fz1cgblf0nsjdah47gjhq/Need-for-Speed-Carbon.torrent?rlkey=bm8v2pr3fni8785railauijjz&st=1trvj5n9&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1348,7 +1348,7 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2CeV8Y0QqFTbNmHLmpEkI-RXzX6te5x_28La-cJw9vg&s=10"
     ],
     requirements: { os: "Windows 7 64-bit", cpu: "Intel Core 2 Quad Q6600", ram: "4 GB", gpu: "NVIDIA GeForce GTX 260", storage: "2 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/p02xp5emry7k46x2w033x/Goat-Simulator.torrent?rlkey=edwsqtjwirdntmklofczjm3y9&st=w3a6oge9&dl=1",
     featured: true, trending: true, popular: true
 },
   {
@@ -1363,7 +1363,67 @@ const gamesDB = [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqszGW7RhQoE4jXPl8hZYC1MTw0nHe1RFNxyB_Z4z8HA&s"
     ],
     requirements: { os: "Windows Vista/7/8", cpu: "Intel Core 2 Duo 2.0 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8600 GT", storage: "3 GB" },
-    link: "#",
+    link: "https://www.dropbox.com/scl/fi/25pyxpkj8uiz55kxffpv5/Farming-Simulator-2015.torrent?rlkey=0hu432k1ri0iwrf7upga3i3hm&st=b22bts9u&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 51, title: "Resident Evil 3", category: "Action", genre: "Survival Horror",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLZ-J4u6zhJ9xdVqQddl9ixvWYlFE2BKBkuv_YDEsRJyWu21oRnWNW4qk&s=10",
+    banner: "https://upload.wikimedia.org/wikipedia/en/d/dc/Resident_Evil_3.jpg",
+    rating: 4.6, year: 2020, developer: "Capcom", publisher: "Capcom",
+    description: "Resident Evil 3 is a survival horror game that follows Jill Valentine as she escapes the zombie-infested Raccoon City while being relentlessly hunted by the terrifying Nemesis. Experience intense action, challenging puzzles, and stunning visuals in this modern remake of the classic Resident Evil 3: Nemesis.",
+    screenshots: [
+      "https://cdn.mos.cms.futurecdn.net/THrVUG55J8QKbNtPDc47S5.jpg",
+      "https://cdn.mos.cms.futurecdn.net/Ms67ixcpFsrEbHnnfMycLe-2048-80.jpg",
+      "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/19858411/RE3_CarlosVsHunter.jpg?q=50&fit=crop&w=825&dpr=1.5"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4460", ram: "8 GB", gpu: "NVIDIA GeForce GTX 960", storage: "45 GB" },
+    link: "https://www.dropbox.com/scl/fi/suntjh79wrreylodmx9zc/Resident-Evil-3-Remake.torrent?rlkey=k3oodw4cwws3rut7oemaw0h6i&st=0dqw3wca&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 52, title: "Grand Theft Auto: San Andreas", category: "Action", genre: "Open World Action",
+    image: "https://sm.ign.com/t/ign_me/cover/g/grand-theft-auto-san-andreas/grand-theft-auto-san-andreas_c4x9.1200.jpg",
+    banner: "https://gaming-cdn.com/images/products/353/616x353/grand-theft-auto-san-andreas-pc-mac-game-steam-cover.jpg?v=1742305151",
+    rating: 4.9, year: 2004, developer: "Rockstar North", publisher: "Rockstar Games",
+    description: "Grand Theft Auto: San Andreas is an open-world action game that follows Carl 'CJ' Johnson as he returns home to Los Santos after the murder of his mother. Explore three massive cities, complete story-driven missions, customize your character, and build a criminal empire across the state of San Andreas.",
+    screenshots: [
+      "https://media.gamestop.com/i/gamestop/10107253_10122833_10128023_10132162_10152635_10168311_SCR06/Grand-Theft-Auto-San-Andreas?w=1256&h=664&fmt=auto",
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1547000/ss_a274e6069b8a242ea37cfdd37b7a2fb01fae9315.1920x1080.jpg?t=1781138712",
+      "https://assets.games.gg/grand_theft_auto_san_andreas_og_cb0ce92dbf.webp"
+    ],
+    requirements: { os: "Windows 2000/XP", cpu: "Intel Pentium 4 1.0 GHz", ram: "256 MB", gpu: "NVIDIA GeForce 3", storage: "4.7 GB" },
+    link: "https://www.dropbox.com/scl/fi/fmev0qy4fhgum6x5gcy76/Grand-Theft-Auto-San-Andreas.torrent?rlkey=zurusew9uvbttrig1toeeoima&st=3hauqs1o&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 53, title: "Anno 1800", category: "Strategy", genre: "City Building Strategy",
+    image: "https://upload.wikimedia.org/wikipedia/en/thumb/7/79/Anno_1800_cover.png/250px-Anno_1800_cover.png",
+    banner: "https://gaming-cdn.com/images/products/2249/616x353/anno-1800-pc-ubisoft-connect-cover.jpg?v=1756279468",
+    rating: 4.8, year: 2019, developer: "Ubisoft Mainz", publisher: "Ubisoft",
+    description: "Anno 1800 is a city-building strategy game set during the Industrial Revolution, where players build thriving cities, establish trade routes, manage resources, and expand their empire across multiple islands. Balance production chains, diplomacy, and exploration while creating a prosperous industrial civilization.",
+    screenshots: [
+      "https://i.ytimg.com/vi/OpRZ3rQkAQs/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDyyGA7nbEti_VdXCUVroPM1gt5Rw",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRTpqHRkmp5w5j8SvTg9wS36DFYdnxSvnhKziiUf9BZqcMlpKLS4i0gZhX&s=10",
+      "https://i.ytimg.com/vi/8Kpekr_rzZ4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAdES8ICKq2II6skR9AAKTaeuEjzg"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-3470", ram: "8 GB", gpu: "NVIDIA GeForce GTX 670", storage: "60 GB" },
+    link: "https://www.dropbox.com/scl/fi/vzujuzewgiwtgkc6ereir/anno-1800.torrent?rlkey=2nnvmqkga36im57knpj086ubi&st=co6ybwen&dl=1",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 54, title: "Mafia II", category: "Action", genre: "Open World Action",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiWXM_WlgQ45z031ixNQxwpLoCn5mXxNAfzO7h-oIDog&s=10",
+    banner: "https://i.ytimg.com/vi/eCn2__dZXiI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDkTYKZNueLo6xsJ23JY8_is_-BLg",
+    rating: 4.8, year: 2010, developer: "2K Czech", publisher: "2K Games",
+    description: "Mafia II is an open-world action game that follows war veteran Vito Scaletta as he rises through the ranks of the Mafia in the fictional city of Empire Bay. Experience a gripping crime story, intense gunfights, thrilling car chases, and a richly detailed world inspired by the 1940s and 1950s.",
+    screenshots: [
+      "https://www.gamereactor.eu/media/77/mafia2_217799.jpg",
+      "https://www.techspot.com/articles-info/312/images/2020-12-12-image.jpg",
+      "https://invisioncommunity.co.uk/wp-content/uploads/2020/05/11307bQ-MfnZFmeq8rm7Hqrq37fAoNcO6RD-wdc_PWvtvVPUwkOInx7Wlbw9HkpLuVs3t6zeRUf7iL3drAfPopPmTSUo7HZt.jpg"
+    ],
+    requirements: { os: "Windows XP/Vista/7", cpu: "Intel Core 2 Duo 2.4 GHz", ram: "2 GB", gpu: "NVIDIA GeForce 8600 GT", storage: "8 GB" },
+    link: "https://www.dropbox.com/scl/fi/io3iwpwrv7no1eqzuy85m/mafia-2.torrent?rlkey=brmt7dqinwtq8dneuieezkne2&st=eb6413yw&dl=1",
     featured: true, trending: true, popular: true
 },
   
