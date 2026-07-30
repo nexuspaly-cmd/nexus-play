@@ -1816,6 +1816,51 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: true
 },
+  {
+    id: 1e4 + 82, title: "Watch Dogs", category: "Action", genre: "Open World Action-Adventure",
+    image: "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/243470/capsule_616x353.jpg?t=1739177057",
+    banner: "https://static.wikia.nocookie.net/watchdogscombined/images/1/16/Watch_Dogs_Box_Art.png/revision/latest/scale-to-width-down/1200?cb=20230403162557",
+    rating: 4.7, year: 2014, developer: "Ubisoft Montreal", publisher: "Ubisoft",
+    description: "Watch Dogs is an open-world action-adventure game where players control Aiden Pearce, a brilliant hacker seeking revenge after a family tragedy. Hack the city's infrastructure, complete dangerous missions, engage in intense gunfights, and explore a living version of Chicago filled with opportunities and secrets.",
+    screenshots: [
+      "https://i.ytimg.com/vi/FcMRkyoHKeA/maxresdefault.jpg",
+      "https://cdn.arstechnica.net/wp-content/uploads/2014/05/watchdogs2.png",
+      "https://media.wired.com/photos/5f9892a42cc0d6153d3f9634/3:2/w_2560%2Cc_limit/games_culture_legion_1.jpg"
+    ],
+    requirements: { os: "Windows Vista SP2 / Windows 7 SP1 / Windows 8 64-bit", cpu: "Intel Core 2 Quad Q8400", ram: "6 GB", gpu: "NVIDIA GeForce GTX 460", storage: "25 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 81, title: "Watch Dogs: Legion", category: "Action", genre: "Open World Action-Adventure",
+    image: "https://static.wikia.nocookie.net/watchdogscombined/images/6/62/Watch_Dogs_Legion_Standard_Edition.png/revision/latest?cb=20230403165750",
+    banner: "https://i.guim.co.uk/img/media/9ab2e8958121cab6f220c312cdf4f64a1d078fee/87_0_2541_1526/master/2541.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=39cf41ebb358d0748007bc8854506ec7",
+    rating: 4.6, year: 2020, developer: "Ubisoft Toronto", publisher: "Ubisoft",
+    description: "Watch Dogs: Legion is an open-world action-adventure game set in a near-future London where anyone can become the hero. Recruit and play as any citizen, hack advanced technology, infiltrate hostile organizations, and build a resistance to liberate the city from authoritarian control.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgfhAZtj31V1TVUnlt43ZJyuBEl--yFzRDYb4CkcDVRpOeBWSgWYEI67w&s=10",
+      "https://cdn.arstechnica.net/wp-content/uploads/2020/10/Watch-Dogs-Legion2020-10-24-15-20-42.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6BlIdCxL_PMzW9giSym2BjngnLXuP7NVWVItO0Bd7OLZg8VuRLFzSu4E&s=10"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4460", ram: "8 GB", gpu: "NVIDIA GeForce GTX 970", storage: "45 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 83, title: "Marvel's Spider-Man: Miles Morales", category: "Action", genre: "Open World Action-Adventure",
+    image: "https://i.ytimg.com/vi_webp/JsNgEBb4ZD0/maxresdefault.webp",
+    banner: "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/PRfYtTZQsuj3ALrBXGL8MjAH.jpg",
+    rating: 4.9, year: 2022, developer: "Insomniac Games", publisher: "PlayStation Publishing LLC",
+    description: "Marvel's Spider-Man: Miles Morales is an open-world action-adventure game where Miles Morales embraces his role as the new Spider-Man. Swing through a snow-covered New York City, master powerful bio-electric Venom abilities, battle dangerous enemies, and protect the city in a thrilling superhero adventure.",
+    screenshots: [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817190/ss_1950c472438a5ccde0f9e7c112dceaddd7cd52f1.1920x1080.jpg?t=1763569499",
+      "https://cdn.mos.cms.futurecdn.net/MLcZWNQinUGp2oXQTLEZKf.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqxcLAw0ZKEpZJpMf29fDfo0M5Vy0IcTmlU5HIxgCTDph6LfQPlCRx_1s&s=10"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i3-4160", ram: "8 GB", gpu: "NVIDIA GeForce GTX 950", storage: "75 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
   
   
   
