@@ -1861,6 +1861,66 @@ const gamesDB = [
     link: "#",
     featured: true, trending: true, popular: true
 },
+  {
+    id: 1e4 + 84, title: "Computer Repair Shop", category: "Simulation", genre: "Business Simulation",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYO0uQQC2A9r8uFlkOmCeUVsw14WzkABPk0nWr4v9t8yHA_-r-DAXLqL18&s=10",
+    banner: "https://clan.fastly.steamstatic.com/images//44258165/42703a08a9226ec521e77d31a9e9fac3fc446741.png",
+    rating: 4.3, year: 2025, developer: "Cheesecake Dev", publisher: "PlayWay S.A.",
+    description: "Computer Repair Shop is a business simulation game where you run your own PC repair service. Diagnose hardware and software issues, replace components, build custom computers, upgrade gaming rigs, manage customer orders, and grow your repair shop into a successful technology business.",
+    screenshots: [
+      "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2479290/ss_1416db0fc663a6d84d5a55ce5064786fa82c23da.1920x1080.jpg?t=1785211430",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlBgtDKx9wI7B5ICdkpZUhNYtUQKT0UXuqXFed846iVfESXANKwwFg5A&s=10",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2479290/ss_251603cefa882ad63c341945c30b7c600f42dd5f.1920x1080.jpg?t=1785211430"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-8400", ram: "8 GB", gpu: "NVIDIA GeForce GTX 1060", storage: "10 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 85, title: "Call of Duty: Black Ops Cold War - Ultimate Edition", category: "Action", genre: "First-Person Shooter",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvLionR2enA-O0lMXrXowsKCE7NAtM_26T5M5v5XjmkQ&s",
+    banner: "https://gaming-cdn.com/images/products/7786/orig/call-of-duty-black-ops-cold-war-ultimate-edition-ultimate-edition-xbox-one-game-microsoft-store-europe-cover.jpg?v=1738686536",
+    rating: 4.8, year: 2020, developer: "Treyarch & Raven Software", publisher: "Activision",
+    description: "Call of Duty: Black Ops Cold War - Ultimate Edition is a first-person shooter set during the early 1980s Cold War. Experience a gripping campaign, fast-paced multiplayer, and the iconic Zombies mode while uncovering a global conspiracy. The Ultimate Edition includes exclusive operator skins, weapon blueprints, and additional in-game content.",
+    screenshots: [
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz-Jsk4k95j8Ov6zSjtMM5Xn0aD3266KaopSUDWbHKQ9c2swAfMMC1G2Q&s=10",
+      "https://s.pacn.ws/1/p/10z/call-of-duty-black-ops-cold-war-ultimate-edition-665871.6.jpg?v=qq58ob&width=1399",
+      "https://gaming-cdn.com/images/products/7786/screenshot/call-of-duty-black-ops-cold-war-ultimate-edition-ultimate-edition-xbox-one-spil-microsoft-store-europe-wallpaper-2.jpg?v=1738686536"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-2500K", ram: "12 GB", gpu: "NVIDIA GeForce GTX 970", storage: "175 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 86, title: "Pumping Simulator 2", category: "Simulation", genre: "Business Simulation",
+    image: "https://media.licdn.com/dms/image/v2/D4D22AQH_KOhNaZMkuw/feedshare-shrink_800/feedshare-shrink_800/0/1694524060813?e=2147483647&v=beta&t=Lcd9dSPPy5LWXZhcGVn2YfVDxsnF1tAmzvrUR2ZlYJw",
+    banner: "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2499470/header.jpg?t=1771616358",
+    rating: 4.5, year: 2023, developer: "Lance Games", publisher: "Lance Games",
+    description: "Pumping Simulator 2 is a business simulation game where you build and manage your own gas station. Expand your services, hire employees, upgrade facilities, manage fuel supplies, and grow your business while keeping customers satisfied in an open-world environment.",
+    screenshots: [
+      "https://images.g2a.com/470x276/1x1x0/pumping-simulator-2-pc-steam-gift-global-i10000503007003/6aa09ed1e18941989f18cd68",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsgtUK9Mkxqj1P7-NesI6rmYk5qtqqebc-cjFqAMrLF6pmTUNnCzH4zVHu&s=10",
+      "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2499470/ss_59343ca713a496b9d184d88ba16e4e93ef535407.1920x1080.jpg?t=1771616358"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4460", ram: "8 GB", gpu: "NVIDIA GeForce GTX 960", storage: "10 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
+  {
+    id: 1e4 + 87, title: "Minecraft Legends", category: "Action", genre: "Action Strategy",
+    image: "http://i.ytimg.com/vi/lw6f-tJKoao/maxresdefault.jpg",
+    banner: "https://www.minecraft.net/content/dam/minecraftnet/games/badger/screenshots/MinecraftLegends_DiveDeeper_KeyArt_1920x1080.png",
+    rating: 4.5, year: 2023, developer: "Mojang Studios & Blackbird Interactive", publisher: "Xbox Game Studios",
+    description: "Minecraft Legends is an action strategy game set in the Minecraft universe where players unite the Overworld against the invading Piglins. Build alliances, command armies, explore a procedurally generated world, and lead epic battles in both single-player and multiplayer adventures.",
+    screenshots: [
+      "https://www.minecraft.net/content/dam/minecraftnet/games/badger/key-art/PDP-Gallery_Legends_6_16x9.jpg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEmp5AxmRFkX9NtpcvifLZSbpx9j38chRGKXNIug4ZFI1vkM82EMIf6x4&s=10",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTejV3qO3lDBlRL8uNSsprIJz2yhKGpn8AEmYbOnqnWQ2LFMiw88f0S4Kct&s=10"
+    ],
+    requirements: { os: "Windows 10 64-bit", cpu: "Intel Core i5-4690", ram: "8 GB", gpu: "NVIDIA GeForce GTX 780 Ti", storage: "24 GB" },
+    link: "#",
+    featured: true, trending: true, popular: true
+},
   
   
   
